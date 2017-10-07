@@ -178,5 +178,5 @@ var $plugins =
 {"name":"SkipCommandSelect","status":true,"description":"v1.00 Skip the command selection by going right to the skill selection requires Attack to be disabled.","parameters":{}},
 {"name":"ED_Track","status":true,"description":"","parameters":{}},
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"300","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}},
-{"name":"ED_Fullscreen","status":true,"description":"Begin the game in fullscreen mode","parameters":{}}
+{"name":"ED_Fullscreen","status":false,"description":"Begin the game in fullscreen mode","parameters":{}}
 ];

@@ -14,7 +14,11 @@
   },
   "armorTypes": [
     "",
-    "General Armor"
+    "General Armor",
+    "Robe",
+    "",
+    "",
+    ""
   ],
   "attackMotions": [
     {
@@ -116,8 +120,8 @@
   ],
   "equipTypes": [
     "",
-    "",
-    "Shield",
+    "Weapon",
+    "Ring",
     "Sword",
     "Body",
     "Accessory",
@@ -172,7 +176,11 @@
   },
   "skillTypes": [
     "",
-    "Skill"
+    "Dimensional",
+    "Physical",
+    "",
+    "",
+    ""
   ],
   "sounds": [
     {
@@ -409,7 +417,7 @@
       "actorNoHit": "Miss! %1 took no damage!",
       "actorRecovery": "%1 recovered %2 %3!",
       "alwaysDash": "Always Dash",
-      "bgmVolume": "BGM Volume",
+      "bgmVolume": "Music Volume",
       "bgsVolume": "BGS Volume",
       "buffAdd": "%1's %2 went up!",
       "buffRemove": "%1's %2 returned to normal!",
@@ -531,7 +539,7 @@
     "",
     ""
   ],
-  "versionId": 7867671,
+  "versionId": 87633899,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
@@ -539,6 +547,11 @@
     "volume": 90
   },
   "weaponTypes": [
+    "",
+    "Implement",
+    "Spear",
+    "",
+    "",
     ""
   ],
   "windowTone": [

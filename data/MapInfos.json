@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "expanded": true,
+    "expanded": false,
     "name": "DEBUG",
     "order": 2,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 3,
@@ -71,5 +71,14 @@
     "parentId": 2,
     "scrollX": 0,
     "scrollY": 0
+  },
+  {
+    "id": 9,
+    "expanded": false,
+    "name": "Lobby",
+    "order": 9,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 461
   }
 ]

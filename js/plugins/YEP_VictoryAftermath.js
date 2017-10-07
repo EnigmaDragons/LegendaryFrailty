@@ -30,6 +30,9 @@ Yanfly.VA.version = 1.07
  *
  * @param Victory BGM
  * @parent ---BGM---
+ * @type file
+ * @dir audio/bgm/
+ * @require 1
  * @desc This will be the BGM used when the battle is over.
  * @default Ship3
  *
@@ -155,6 +158,9 @@ Yanfly.VA.version = 1.07
  *
  * @param Tick SE
  * @parent ---EXP Window---
+ * @type file
+ * @dir audio/se/
+ * @require 1
  * @desc This will be the sound used while the EXP gauge fills up.
  * @default Absorb2
  *

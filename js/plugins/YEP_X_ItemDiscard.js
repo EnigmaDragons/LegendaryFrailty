@@ -8,11 +8,11 @@ Imported.YEP_X_ItemDiscard = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.ItemDiscard = Yanfly.ItemDiscard || {};
-Yanfly.ItemDiscard.version = 1.00;
+Yanfly.ItemDiscard.version = 1.02;
 
 //=============================================================================
  /*:
- * @plugindesc v1.01 (Requires YEP_ItemCore.js) Allow the player to discard
+ * @plugindesc v1.02 (Requires YEP_ItemCore.js) Allow the player to discard
  * items from their inventory.
  * @author Yanfly Engine Plugins + Sylvester Collaboration
  *
@@ -20,11 +20,16 @@ Yanfly.ItemDiscard.version = 1.00;
  * @default
  *
  * @param Discard Command
+ * @parent ---General---
  * @desc The command text used for discarding items.
  * %1 - Item Name   %2 - Quantity   %3 - Stock
  * @default Discard %1 %2/%3
  *
  * @param Default Discard
+ * @parent ---General---
+ * @type boolean
+ * @on YES
+ * @off NO
  * @desc Can all items be discarded by default?
  * YES - true     NO - false
  * @default true
@@ -33,20 +38,27 @@ Yanfly.ItemDiscard.version = 1.00;
  * @default
  *
  * @param Confirm Discard
+ * @parent ---Confirm---
+ * @type boolean
+ * @on YES
+ * @off NO
  * @desc Do you wish to display a confirmation message?
  * YES - true     NO - false
  * @default true
  *
  * @param Confirm Message
+ * @parent ---Confirm---
  * @desc The command text used for discard confirmation.
  * %1 - Item Name   %2 - Quantity
  * @default Are you sure you want to discard %1 %2?
  *
  * @param Confirm Yes
+ * @parent ---Confirm---
  * @desc The text used for "Yes" when discarding.
  * @default Yes
  *
  * @param Confirm No
+ * @parent ---Confirm---
  * @desc The text used for "No" when discarding.
  * @default No
  *
@@ -93,6 +105,9 @@ Yanfly.ItemDiscard.version = 1.00;
  * ============================================================================
  * Changelog
  * ============================================================================
+ *
+ * Version 1.02:
+ * - Updated for RPG Maker MV version 1.5.0.
  *
  * Version 1.01:
  * - Fixed a problem with the notetags not working.

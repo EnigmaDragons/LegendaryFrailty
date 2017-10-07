@@ -46,6 +46,9 @@ Yanfly.ECP.version = 1.06;
  * @default 1
  *
  * @param Alert Sound
+ * @type file
+ * @dir audio/se/
+ * @require 1
  * @desc This is the default sound played when the player is seen.
  * @default Attack1
  *

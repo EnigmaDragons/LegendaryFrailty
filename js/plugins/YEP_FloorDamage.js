@@ -8,15 +8,17 @@ Imported.YEP_FloorDamage = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.FloorDmg = Yanfly.FloorDmg || {};
-Yanfly.FloorDmg.version = 1.00;
+Yanfly.FloorDmg.version = 1.01;
 
 //=============================================================================
  /*:
- * @plugindesc v1.00 Allows you to modify floor damage based on terrain tags.
+ * @plugindesc v1.01 Allows you to modify floor damage based on terrain tags.
  * You can also change the color of the flash when damaged, too.
  * @author Yanfly Engine Plugins
  *
  * @param Default Damage
+ * @type number
+ * @min 1
  * @desc This is the default amount of damage dealt by damage floors.
  * @default 10
  *
@@ -77,6 +79,16 @@ Yanfly.FloorDmg.version = 1.00;
  *   damage dealt to each actor in the party. 'value' is the final damage value
  *   that will be added upon the <Floor Damage x: y> value. 'actor' will refer
  *   to the actor being damaged currently.
+ *
+ * ============================================================================
+ * Changelog
+ * ============================================================================
+ *
+ * Version 1.01:
+ * - Updated for RPG Maker MV version 1.5.0.
+ *
+ * Version 1.00:
+ * - Finished Plugin!
  */
 //=============================================================================
 

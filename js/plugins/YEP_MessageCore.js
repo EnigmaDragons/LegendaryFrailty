@@ -714,7 +714,11 @@ Window_Base.prototype.setWordWrap = function(text) {
       var replace = Yanfly.Param.MSGWrapSpace ? ' ' : '';
       text = text.replace(/[\n\r]+/g, replace);
     }
-    text = text.replace(/<(?:BR|line break)>/gi, '\n');
+    if (this._wordWrap) {
+      text = text.replace(/<(?:BR|line break)>/gi, '\n');
+    } else {
+      text = text.replace(/<(?:BR|line break)>/gi, '');
+    }
     return text;
 };
 

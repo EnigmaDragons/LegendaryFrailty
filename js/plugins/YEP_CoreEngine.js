@@ -684,6 +684,7 @@ Yanfly.Core.version = 1.25;
  *
  * Version 1.25:
  * - Updated for RPG Maker MV version 1.5.0.
+ * - Updated Scale Title and Scale GameOver to work with 1.5.0.
  *
  * Version 1.24:
  * - Screen jittering prevention is now prevented for RPG Maker MV 1.3.4 and
@@ -1674,7 +1675,9 @@ Scene_Title.prototype.rescaleTitle = function() {
 };
 
 Scene_Title.prototype.rescaleTitleSprite = function(sprite) {
-  if (sprite.bitmap.width <= 0 || sprite.bitmap <= 0) return;
+  if (sprite.bitmap.width <= 0 || sprite.bitmap <= 0) {
+    return setTimeout(this.rescaleTitleSprite.bind(this, sprite), 5);
+  }
   var width = Graphics.boxWidth;
   var height = Graphics.boxHeight;
   var ratioX = width / sprite.bitmap.width;
@@ -1719,7 +1722,9 @@ Scene_Gameover.prototype.rescaleBackground = function() {
 };
 
 Scene_Gameover.prototype.rescaleImageSprite = function(sprite) {
-    if (sprite.bitmap.width <= 0 || sprite.bitmap <= 0) return;
+    if (sprite.bitmap.width <= 0 || sprite.bitmap <= 0) {
+      return setTimeout(this.rescaleImageSprite.bind(this, sprite), 5);
+    }
     var width = Graphics.boxWidth;
     var height = Graphics.boxHeight;
     var ratioX = width / sprite.bitmap.width;

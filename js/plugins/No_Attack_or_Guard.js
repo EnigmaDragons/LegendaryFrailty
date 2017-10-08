@@ -27,26 +27,7 @@
 	var enableGuard = parameters['Enable Guard'] == "true";
 	var enableItem = parameters['Enable Item'] == "true";
   
-  /*Scene_Battle.prototype.createActorCommandWindow = function() {
-      console.log(enableAttack + " " + enableGuard + " " + enableItem);
-      this._actorCommandWindow = new Window_ActorCommand();
-      if (enableAttack) {
-        this._actorCommandWindow.setHandler('attack', this.commandAttack.bind(this));
-      }
-      this._actorCommandWindow.setHandler('skill',  this.commandSkill.bind(this));
-      if (enableGuard) {
-        this._actorCommandWindow.setHandler('guard',  this.commandGuard.bind(this));
-      }
-	 if (enableItem) {
-		this._actorCommandWindow.setHandler('item',   this.commandItem.bind(this));
-	 }
-      this._actorCommandWindow.setHandler('cancel', this.selectPreviousCommand.bind(this));
-      this.addWindow(this._actorCommandWindow);
-  };*/
- 
   Window_ActorCommand.prototype.makeCommandList = function() {
-	 
-	 console.log(enableAttack + " " + enableGuard + " " + enableItem);
       if (this._actor) {
           if (enableAttack) {
             this.addAttackCommand();

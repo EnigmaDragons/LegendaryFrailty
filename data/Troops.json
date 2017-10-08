@@ -2,7 +2,14 @@
   null,
   {
     "id": 1,
-    "members": [],
+    "members": [
+      {
+        "enemyId": 6,
+        "x": 207,
+        "y": 403,
+        "hidden": false
+      }
+    ],
     "name": "<Base Troop Events>",
     "pages": [
       {

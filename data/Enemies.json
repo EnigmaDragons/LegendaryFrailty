@@ -352,16 +352,16 @@
     ],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "<AI Priority>\nRandom 100%: Scan Intruder\n</AI Priority>\n<Global Cooldown Rate: 0%>",
+    "note": "<AI Priority>\nTurn < 2: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n",
     "params": [
       30,
-      0,
+      50,
       10,
+      5,
       10,
-      10,
-      7,
-      10,
-      10
+      5,
+      14,
+      5
     ]
   },
   {

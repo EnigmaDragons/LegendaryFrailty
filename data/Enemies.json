@@ -312,15 +312,7 @@
   },
   {
     "id": 6,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
     "battlerName": "SF_Drone",
     "dropItems": [
@@ -360,14 +352,14 @@
     ],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "",
+    "note": "<AI Priority>\nRandom 100%: Scan Intruder\n</AI Priority>\n<Global Cooldown Rate: 0%>",
     "params": [
       100,
       0,
       10,
       10,
       10,
-      10,
+      7,
       10,
       10
     ]

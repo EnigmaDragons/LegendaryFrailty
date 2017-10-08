@@ -8,11 +8,11 @@ Imported.YEP_MoveRouteCore = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.MoveRoute = Yanfly.MoveRoute || {};
-Yanfly.MoveRoute.version = 1.01;
+Yanfly.MoveRoute.version = 1.02;
 
 //=============================================================================
  /*:
- * @plugindesc v1.01 Expand the number of movement options for the move
+ * @plugindesc v1.02 Expand the number of movement options for the move
  * route events using this plugin.
  * @author Yanfly Engine Plugins
  *
@@ -424,6 +424,9 @@ Yanfly.MoveRoute.version = 1.01;
  * ============================================================================
  * Changelog
  * ============================================================================
+ *
+ * Version 1.02:
+ * - Updated for RPG Maker MV version 1.5.0.
  *
  * Version 1.01:
  * - Bug fixed for the repeated commands that caused the commands to add upon

@@ -59,6 +59,9 @@ Yanfly.IUS.version = 1.08;
  * @default \}Slot%1: %2\{
  *
  * @param Default Sound
+ * @type file
+ * @dir audio/se/
+ * @require 1
  * @desc This is the default sound played when using an
  * item upgrade.
  * @default Heal2

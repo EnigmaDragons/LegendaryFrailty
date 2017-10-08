@@ -8,11 +8,11 @@ Imported.YEP_X_StateCategories = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.StC = Yanfly.StC || {};
-Yanfly.StC.version = 1.05;
+Yanfly.StC.version = 1.06;
 
 //=============================================================================
  /*:
- * @plugindesc v1.05a (Requires YEP_BuffsStatesCore.js) Sets up categories
+ * @plugindesc v1.06 (Requires YEP_BuffsStatesCore.js) Sets up categories
  * for your states to make control over them easier.
  * @author Yanfly Engine Plugins
  *
@@ -121,6 +121,9 @@ Yanfly.StC.version = 1.05;
  * ============================================================================
  * Changelog
  * ============================================================================
+ *
+ * Version 1.06:
+ * - Updated for RPG Maker MV version 1.5.0.
  *
  * Version 1.05a:
  * - Lunatic Mode fail safes added.

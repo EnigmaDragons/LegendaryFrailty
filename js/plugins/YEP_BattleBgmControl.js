@@ -8,11 +8,11 @@ Imported.YEP_BattleBgmControl = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.BattleBgm = Yanfly.BattleBgm || {};
-Yanfly.BattleBgm.version = 1.00;
+Yanfly.BattleBgm.version = 1.01;
 
 //=============================================================================
  /*:
- * @plugindesc v1.00 Assign BGM's to certain troops. Make BGM's change
+ * @plugindesc v1.01 Assign BGM's to certain troops. Make BGM's change
  * during battle when certain enemies reach different HP values.
  * @author Yanfly Engine Plugins + Chickie Collaboration
  *
@@ -102,6 +102,16 @@ Yanfly.BattleBgm.version = 1.00;
  *   This is because the plugin will check from top to bottom. So if you want
  *   the songs to play as the key enemy's HP drops progressively, place them in
  *   such order.
+ *
+ * ============================================================================
+ * Changelog
+ * ============================================================================
+ *
+ * Version 1.01:
+ * - Updated for RPG Maker MV version 1.5.0.
+ *
+ * Version 1.00:
+ * - Finished Plugin!
  */
 //=============================================================================
 

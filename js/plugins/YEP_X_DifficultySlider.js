@@ -8,11 +8,11 @@ Imported.YEP_X_DifficultySlider = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.DSlider = Yanfly.DSlider || {};
-Yanfly.DSlider.version = 1.00;
+Yanfly.DSlider.version = 1.02;
 
 //=============================================================================
  /*:
- * @plugindesc v1.00 (Requires YEP_EnemyLevels.js) Give your players
+ * @plugindesc v1.02 (Requires YEP_EnemyLevels.js) Give your players
  * access to an option that allows them to change difficulty.
  * @author Yanfly Engine Plugins
  *
@@ -150,6 +150,20 @@ Yanfly.DSlider.version = 1.00;
  *   }
  *
  * Have fun!
+ *
+ * ============================================================================
+ * Changelog
+ * ============================================================================
+ *
+ * Version 1.02:
+ * - Updated for RPG Maker MV version 1.5.0.
+ *
+ * Version 1.01:
+ * - Bug fixed: Error with pressing right on the difficulty slider causing
+ * the game to crash unexpectedly.
+ *
+ * Version 1.00:
+ * - Finished Plugin!
  */
 //=============================================================================
 
@@ -396,7 +410,7 @@ Window_Options.prototype.cursorRight = function(wrap) {
       Yanfly.Param.DSliderMaxDif);
     this.changeValue(symbol, value);
   } else {
-    Yanfly.DSliderWindow_Options_cursorRight.call(this, wrap);
+    Yanfly.DSlider.Window_Options_cursorRight.call(this, wrap);
   }
 };
 

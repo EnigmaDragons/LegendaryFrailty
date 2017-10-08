@@ -30,8 +30,8 @@
       "weaponImageId": 1
     },
     {
-      "type": 1,
-      "weaponImageId": 2
+      "type": 0,
+      "weaponImageId": 12
     },
     {
       "type": 1,
@@ -80,8 +80,8 @@
     "pitch": 100,
     "volume": 90
   },
-  "battleback1Name": "Grassland",
-  "battleback2Name": "Grassland",
+  "battleback1Name": "DarkSpace",
+  "battleback2Name": "DarkSpace",
   "battlerHue": 0,
   "battlerName": "Dragon",
   "boat": {
@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 2,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -177,8 +177,8 @@
   "skillTypes": [
     "",
     "Dimensional",
-    "Physical",
-    "",
+    "Martial",
+    "Esoteric",
     "",
     ""
   ],
@@ -328,9 +328,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 2,
-  "startX": 6,
-  "startY": 6,
+  "startMapId": 3,
+  "startX": 3,
+  "startY": 5,
   "switches": [
     "",
     "",
@@ -463,11 +463,11 @@
   },
   "testBattlers": [
     {
-      "actorId": 2,
+      "actorId": 1,
       "equips": [
+        1,
+        1,
         2,
-        2,
-        0,
         0,
         0
       ],
@@ -507,7 +507,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 3,
+  "testTroopId": 5,
   "title1Name": "Book",
   "title2Name": "",
   "titleBgm": {
@@ -539,7 +539,7 @@
     "",
     ""
   ],
-  "versionId": 87633899,
+  "versionId": 57530442,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

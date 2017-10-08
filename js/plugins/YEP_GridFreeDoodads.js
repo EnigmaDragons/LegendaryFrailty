@@ -8,11 +8,11 @@ Imported.YEP_GridFreeDoodads = true;
 
 var Yanfly = Yanfly || {};
 Yanfly.GFD = Yanfly.GFD || {};
-Yanfly.GFD.version = 1.04;
+Yanfly.GFD.version = 1.05;
 
 //=============================================================================
  /*:
- * @plugindesc v1.04 Place Grid-Free Doodads into your game using an
+ * @plugindesc v1.05 Place Grid-Free Doodads into your game using an
  * in-game editor. Static and animated doodads can be used!
  * @author Yanfly Engine Plugins
  *
@@ -20,15 +20,24 @@ Yanfly.GFD.version = 1.04;
  * @default
  *
  * @param Doodads Folder
+ * @parent ---General---
  * @desc This is the path to your doodads folder.
  * @default img/doodads/
  *
  * @param Doodads Smoothing
+ * @parent ---General---
+ * @type boolean
+ * @on Smooth
+ * @off Hard
  * @desc Default smooth out doodad edges or give them hard edges?
  * SMOOTH - true     HARD - false
  * @default false
  *
  * @param Alphabetical Settings
+ * @parent ---General---
+ * @type boolean
+ * @on Alphabetical
+ * @off By ID
  * @desc List doodad settings in alphabetical order?
  * YES - true     NO - false
  * @default false
@@ -37,15 +46,25 @@ Yanfly.GFD.version = 1.04;
  * @default
  *
  * @param Default Grid Snap
+ * @parent ---Grid Snap---
+ * @type boolean
+ * @on Enable
+ * @off Disable
  * @desc Do you want Grid Snap enabled by default?
  * YES - true     NO - false
  * @default false
  *
  * @param Grid Snap Width
+ * @parent ---Grid Snap---
+ * @type number
+ * @min 1
  * @desc The default grid snap width.
  * @default 48
  *
  * @param Grid Snap Height
+ * @parent ---Grid Snap---
+ * @type number
+ * @min 1
  * @desc The default grid snap height.
  * @default 48
  *

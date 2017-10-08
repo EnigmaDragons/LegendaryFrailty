@@ -75,10 +75,10 @@
     }
   ],
   "battleBgm": {
-    "name": "Battle1",
+    "name": "FW-Battle2",
     "pan": 0,
     "pitch": 100,
-    "volume": 90
+    "volume": 100
   },
   "battleback1Name": "DarkSpace",
   "battleback2Name": "DarkSpace",
@@ -140,7 +140,9 @@
   },
   "locale": "en_US",
   "magicSkills": [
-    1
+    1,
+    2,
+    3
   ],
   "menuCommands": [
     true,
@@ -159,7 +161,7 @@
   "optSlipDeath": false,
   "optTransparent": false,
   "partyMembers": [
-    1
+    2
   ],
   "ship": {
     "bgm": {
@@ -329,7 +331,7 @@
     }
   ],
   "startMapId": 10,
-  "startX": 23,
+  "startX": 22,
   "startY": 32,
   "switches": [
     "",
@@ -559,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 3329569,
+  "versionId": 47132786,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

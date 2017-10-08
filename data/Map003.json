@@ -1433,7 +1433,7 @@
         {
           "conditions": {
             "actorId": 1,
-            "actorValid": true,
+            "actorValid": false,
             "itemId": 1,
             "itemValid": false,
             "selfSwitchCh": "A",
@@ -1714,10 +1714,10 @@
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "OpenLearnSkill party 1"
+                4
               ]
             },
             {

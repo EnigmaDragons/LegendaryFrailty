@@ -24,8 +24,8 @@
     "name": "Silas",
     "order": 3,
     "parentId": 2,
-    "scrollX": 819,
-    "scrollY": 461
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 4,
@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1398.5454545454545,
-    "scrollY": 1345.0909090909092
+    "scrollX": 1622,
+    "scrollY": 1346
   },
   {
     "id": 11,

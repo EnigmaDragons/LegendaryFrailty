@@ -11,19 +11,12 @@
       "type": 0,
       "variance": 20
     },
-    "description": "",
-    "effects": [
-      {
-        "code": 44,
-        "dataId": 4,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
+    "description": "Hardened Raw Enery",
+    "effects": [],
     "hitType": 0,
-    "iconIndex": 189,
+    "iconIndex": 66,
     "itypeId": 2,
-    "name": "Ancient Notebook",
+    "name": "Crystalized Energy",
     "note": "",
     "occasion": 2,
     "price": 0,

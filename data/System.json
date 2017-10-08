@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 10,
   "elements": [
     "",
     "Physical",
@@ -328,9 +328,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 3,
-  "startX": 3,
-  "startY": 5,
+  "startMapId": 10,
+  "startX": 23,
+  "startY": 32,
   "switches": [
     "",
     "",
@@ -537,9 +537,29 @@
     "",
     "",
     "",
+    "",
+    "Train1",
+    "Train2",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
   ],
-  "versionId": 57530442,
+  "versionId": 3329569,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

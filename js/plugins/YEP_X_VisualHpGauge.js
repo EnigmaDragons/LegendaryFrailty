@@ -12,7 +12,7 @@ Yanfly.VHG.version = 1.07
 
 //=============================================================================
  /*:
- * @plugindesc v1.07 (Requires YEP_BattleEngineCore.js) Reveal HP Gauges
+ * @plugindesc v1.07M (Requires YEP_BattleEngineCore.js) Modified Reveal HP Gauges
  * when a battler is selected or takes damage in battle.
  * @author Yanfly Engine Plugins
  *
@@ -346,7 +346,7 @@ Game_BattlerBase.prototype.die = function() {
   if (eval(Yanfly.Param.VHGDefeatFirst)) {
     if (!$gameSystem.showHpGaugeEnemy(this._enemyId)) this._noHpGauge = true;
   }
-  $gameSystem.addHpGaugeEnemy(this._enemyId);
+  //$gameSystem.addHpGaugeEnemy(this._enemyId); -- disabled to require scanning
 };
 
 //=============================================================================

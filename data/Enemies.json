@@ -352,7 +352,7 @@
     ],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "<AI Priority>\nTurn < 2: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n",
+    "note": "<AI Priority>\nTurn < 2: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
     "params": [
       30,
       50,

@@ -138,12 +138,19 @@
     "id": 4,
     "list": [
       {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "OpenLearnSkill party 1"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "Relearn Skill",
     "switchId": 1,
     "trigger": 0
   }

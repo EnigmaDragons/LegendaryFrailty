@@ -354,7 +354,7 @@
     "name": "Camera Drone",
     "note": "<AI Priority>\nRandom 100%: Scan Intruder\n</AI Priority>\n<Global Cooldown Rate: 0%>",
     "params": [
-      100,
+      30,
       0,
       10,
       10,

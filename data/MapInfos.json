@@ -80,5 +80,23 @@
     "parentId": 0,
     "scrollX": 819,
     "scrollY": 461
+  },
+  {
+    "id": 10,
+    "expanded": false,
+    "name": "TechRailEntrance",
+    "order": 10,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 461
+  },
+  {
+    "id": 11,
+    "expanded": false,
+    "name": "TechRailExit",
+    "order": 11,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 461
   }
 ]

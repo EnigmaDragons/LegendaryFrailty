@@ -28,12 +28,12 @@
     "battlerName": "Anselm",
     "characterIndex": 0,
     "characterName": "Frailty_People1",
-    "classId": 3,
+    "classId": 4,
     "equips": [
       1,
       2,
       0,
-      5,
+      0,
       0
     ],
     "faceIndex": 0,

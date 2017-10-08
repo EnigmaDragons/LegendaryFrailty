@@ -1776,14 +1776,19 @@
         "value": 0.05
       },
       {
-        "code": 22,
-        "dataId": 2,
-        "value": 0.04
+        "code": 41,
+        "dataId": 1,
+        "value": 1
       },
       {
         "code": 41,
-        "dataId": 1,
-        "value": 0
+        "dataId": 2,
+        "value": 1
+      },
+      {
+        "code": 41,
+        "dataId": 3,
+        "value": 1
       },
       {
         "code": 51,
@@ -1805,7 +1810,12 @@
       {
         "level": 1,
         "note": "",
-        "skillId": 13
+        "skillId": 24
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 32
       }
     ],
     "name": "Master of Dimensions",
@@ -2659,23 +2669,49 @@
         "value": 0.04
       },
       {
-        "code": 41,
-        "dataId": 1,
-        "value": 0
-      },
-      {
         "code": 51,
         "dataId": 1,
         "value": 0
       },
       {
         "code": 52,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 41,
         "dataId": 1,
         "value": 0
+      },
+      {
+        "code": 41,
+        "dataId": 2,
+        "value": 1
+      },
+      {
+        "code": 41,
+        "dataId": 3,
+        "value": 1
       }
     ],
-    "learnings": [],
-    "name": "",
+    "learnings": [
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 32
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 24
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 15
+      }
+    ],
+    "name": "Dimension Mage",
     "note": "",
     "params": [
       [

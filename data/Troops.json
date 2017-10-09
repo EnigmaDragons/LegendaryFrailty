@@ -167,7 +167,7 @@
         "hidden": false
       }
     ],
-    "name": "One Camera Drone",
+    "name": "1 Camera",
     "pages": [
       {
         "conditions": {
@@ -211,7 +211,7 @@
         "hidden": true
       }
     ],
-    "name": "Sentry With Butler",
+    "name": "1 Sentry / 1 Butler",
     "pages": [
       {
         "conditions": {
@@ -280,7 +280,7 @@
         "hidden": false
       }
     ],
-    "name": "Butler",
+    "name": "1 Butler",
     "pages": [
       {
         "conditions": {
@@ -310,8 +310,15 @@
   },
   {
     "id": 8,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 7,
+        "x": 240,
+        "y": 427,
+        "hidden": false
+      }
+    ],
+    "name": "1 Sentry",
     "pages": [
       {
         "conditions": {
@@ -341,8 +348,15 @@
   },
   {
     "id": 9,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 9,
+        "x": 369,
+        "y": 415,
+        "hidden": false
+      }
+    ],
+    "name": "1 Hunter",
     "pages": [
       {
         "conditions": {

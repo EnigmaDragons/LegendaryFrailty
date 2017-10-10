@@ -523,7 +523,7 @@
       {
         "code": 21,
         "dataId": 6,
-        "value": 2
+        "value": 1.5
       }
     ],
     "iconIndex": 0,
@@ -570,7 +570,7 @@
     "priority": 50,
     "removeAtBattleEnd": true,
     "removeByDamage": true,
-    "removeByRestriction": true,
+    "removeByRestriction": false,
     "removeByWalking": false,
     "restriction": 0,
     "stepsToRemove": 100

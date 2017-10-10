@@ -450,7 +450,7 @@
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
-    "note": "Level 3\n\n<AI Priority>\nState !== Laser Targetted: Laser Taretting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
+    "note": "Level 3\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
     "params": [
       80,
       40,

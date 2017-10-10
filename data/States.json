@@ -523,7 +523,7 @@
       {
         "code": 21,
         "dataId": 6,
-        "value": 3
+        "value": 2
       }
     ],
     "iconIndex": 0,
@@ -549,22 +549,28 @@
     "id": 21,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 2
+      }
+    ],
     "iconIndex": 0,
     "maxTurns": 1,
-    "message1": "",
+    "message1": " is laser targetted!",
     "message2": "",
     "message3": "",
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Laser Targetted",
     "note": "",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": true,
     "removeByWalking": false,
     "restriction": 0,
     "stepsToRemove": 100

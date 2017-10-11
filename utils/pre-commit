@@ -1,4 +1,0 @@
-#!/bin/sh
-./utils/Beautify.exe
-git diff --cached --name-only |  git add $1
-exit 0

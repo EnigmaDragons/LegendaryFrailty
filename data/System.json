@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 11,
+  "editMapId": 9,
   "elements": [
     "",
     "Physical",
@@ -538,8 +538,8 @@
     "",
     "",
     "",
-    "",
-    "",
+    "Progress",
+    "Max",
     "Train1",
     "Train2",
     "Train3",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 83843501,
+  "versionId": 57090975,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

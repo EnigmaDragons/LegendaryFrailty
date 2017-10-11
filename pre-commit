@@ -1,4 +1,0 @@
-#!/bin/sh
-./BeautifySystemJson.exe
-git add .
-exit 0

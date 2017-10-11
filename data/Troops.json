@@ -84,21 +84,8 @@
   },
   {
     "id": 3,
-    "members": [
-      {
-        "enemyId": 2,
-        "x": 268,
-        "y": 436,
-        "hidden": false
-      },
-      {
-        "enemyId": 3,
-        "x": 480,
-        "y": 436,
-        "hidden": false
-      }
-    ],
-    "name": "Template",
+    "members": [],
+    "name": "",
     "pages": [
       {
         "conditions": {
@@ -128,8 +115,15 @@
   },
   {
     "id": 4,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 7,
+        "x": 192,
+        "y": 444,
+        "hidden": false
+      }
+    ],
+    "name": "1 Damaged Sentry",
     "pages": [
       {
         "conditions": {
@@ -141,12 +135,23 @@
           "enemyValid": false,
           "switchId": 1,
           "switchValid": false,
-          "turnA": 0,
+          "turnA": 1,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 331,
+            "indent": 0,
+            "parameters": [
+              0,
+              1,
+              0,
+              59,
+              false
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -386,14 +391,33 @@
   },
   {
     "id": 10,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 6,
+        "x": 279,
+        "y": 444,
+        "hidden": false
+      },
+      {
+        "enemyId": 6,
+        "x": 385,
+        "y": 379,
+        "hidden": false
+      },
+      {
+        "enemyId": 8,
+        "x": 127,
+        "y": 397,
+        "hidden": true
+      }
+    ],
+    "name": "2 Camera / 1 Butler",
     "pages": [
       {
         "conditions": {
-          "actorHp": 50,
-          "actorId": 1,
-          "actorValid": false,
+          "actorHp": 70,
+          "actorId": 2,
+          "actorValid": true,
           "enemyHp": 50,
           "enemyIndex": 0,
           "enemyValid": false,
@@ -405,6 +429,13 @@
           "turnValid": false
         },
         "list": [
+          {
+            "code": 335,
+            "indent": 0,
+            "parameters": [
+              2
+            ]
+          },
           {
             "code": 0,
             "indent": 0,

@@ -1460,7 +1460,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                5,
+                10,
                 false,
                 false
               ]
@@ -1551,7 +1551,7 @@
           "walkAnime": true
         }
       ],
-      "x": 5,
+      "x": 6,
       "y": 5
     },
     {
@@ -1588,10 +1588,10 @@
               "code": 126,
               "indent": 0,
               "parameters": [
-                1,
+                2,
                 0,
                 0,
-                1
+                5
               ]
             },
             {
@@ -1876,7 +1876,7 @@
           "walkAnime": true
         }
       ],
-      "x": 6,
+      "x": 7,
       "y": 5
     },
     {
@@ -1914,18 +1914,63 @@
               "indent": 0,
               "parameters": [
                 0,
-                6,
+                4,
                 false,
-                false
+                true
               ]
             },
             {
-              "code": 123,
+              "code": 601,
               "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 123,
+              "indent": 1,
               "parameters": [
                 "A",
                 0
               ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 603,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 314,
+              "indent": 1,
+              "parameters": [
+                0,
+                0
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                3,
+                3,
+                5,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 604,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -2005,7 +2050,7 @@
           "walkAnime": true
         }
       ],
-      "x": 4,
+      "x": 5,
       "y": 5
     }
   ]

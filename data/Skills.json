@@ -662,8 +662,8 @@
     "damage": {
       "critical": false,
       "elementId": 10,
-      "formula": "a.mat - b.mdf",
-      "type": 6,
+      "formula": "d = a.mat - b.mdf; a.gainMp(d); b.gainMp(-d); d",
+      "type": 5,
       "variance": 20
     },
     "description": "",

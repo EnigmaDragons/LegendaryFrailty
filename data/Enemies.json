@@ -336,7 +336,7 @@
     "traits": [],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "Level 1\n\n<AI Priority>\nTurn === 1: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
+    "note": "Level 1\n<JP: 5>\n\n<AI Priority>\nTurn === 1: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
     "params": [
       30,
       30,
@@ -374,7 +374,7 @@
     "traits": [],
     "gold": 0,
     "name": "Sentry Bot",
-    "note": "Level 2\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
+    "note": "Level 2\n<JP: 10>\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
     "params": [
       70,
       40,
@@ -412,7 +412,7 @@
     "traits": [],
     "gold": 0,
     "name": "Butler Bot",
-    "note": "Level 0\n\n<AI Priority>\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
+    "note": "Level 0\n<JP: 0>\n\n<AI Priority>\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
     "params": [
       10,
       10,
@@ -450,7 +450,7 @@
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
-    "note": "Level 3\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
+    "note": "Level 3\n<JP: 15>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
     "params": [
       80,
       40,

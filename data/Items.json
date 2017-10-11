@@ -28,26 +28,33 @@
   },
   {
     "id": 2,
-    "animationId": 0,
+    "animationId": 125,
     "consumable": true,
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "0",
+      "formula": "40",
       "type": 0,
-      "variance": 20
+      "variance": 0
     },
-    "description": "",
-    "effects": [],
+    "description": "Crush the stone to absorb the stored life essence. Restores 40 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 40
+      }
+    ],
     "hitType": 0,
-    "iconIndex": 0,
+    "iconIndex": 165,
     "itypeId": 1,
-    "name": "",
+    "name": "Vitality Stone",
     "note": "",
     "occasion": 0,
-    "price": 0,
+    "price": 50,
     "repeats": 1,
-    "scope": 7,
+    "scope": 11,
     "speed": 0,
     "successRate": 100,
     "tpGain": 0

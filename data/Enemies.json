@@ -336,10 +336,10 @@
     "traits": [],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "<AI Priority>\nTurn === 1: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
+    "note": "Level 1\n\n<AI Priority>\nTurn === 1: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
     "params": [
       30,
-      50,
+      30,
       10,
       5,
       10,
@@ -371,29 +371,13 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "Sentry Bot",
-    "note": "<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
+    "note": "Level 2\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
     "params": [
       70,
-      0,
+      40,
       20,
       5,
       10,
@@ -425,29 +409,13 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "Butler Bot",
-    "note": "<AI Priority>\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
+    "note": "Level 0\n\n<AI Priority>\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
     "params": [
       10,
-      0,
+      10,
       5,
       5,
       5,
@@ -458,17 +426,9 @@
   },
   {
     "id": 9,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
-    "battlerHue": 0,
-    "battlerName": "",
+    "actions": [],
+    "battlerHue": 267,
+    "battlerName": "SF_KillerRobot",
     "dropItems": [
       {
         "dataId": 1,
@@ -487,35 +447,19 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Hunter Bot",
+    "note": "Level 3\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
     "params": [
-      100,
-      0,
+      80,
+      40,
+      20,
       10,
       10,
-      10,
-      10,
-      10,
-      10
+      5,
+      20,
+      5
     ]
   },
   {

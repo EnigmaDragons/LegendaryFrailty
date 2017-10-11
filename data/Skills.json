@@ -811,19 +811,19 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "elementId": 1,
+      "formula": "a.atk - b.def",
+      "type": 1,
       "variance": 20
     },
-    "description": "",
+    "description": "If your strike kills an enemy, your dimension staff permanently gains +1 Attack.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Essence Strike",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -831,7 +831,7 @@
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 3,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0
@@ -968,9 +968,9 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "0",
-      "type": 0,
+      "type": 1,
       "variance": 20
     },
     "description": "",
@@ -998,7 +998,7 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": -1,
+      "elementId": 1,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -1040,7 +1040,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Whirlwind Attack",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -1688,7 +1688,7 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": -1,
+      "elementId": 1,
       "formula": "(a.atk - b.def) * 0.66",
       "type": 1,
       "variance": 20
@@ -1995,9 +1995,9 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "elementId": 1,
+      "formula": "a.atk - b.def",
+      "type": 1,
       "variance": 20
     },
     "description": "",
@@ -2007,15 +2007,15 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
-    "note": "",
+    "name": "Quick Shot",
+    "note": "<After Eval>\nvar speedBoostId = 20;\nuser.addState(speedBoostId);\n</After Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 0,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0
@@ -2031,13 +2031,20 @@
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 21,
+        "dataId": 21,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 0,
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Laser Targetting",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -2045,7 +2052,7 @@
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 0,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0

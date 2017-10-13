@@ -15,7 +15,7 @@
   "armorTypes": [
     "",
     "General Armor",
-    "Robe",
+    "Dimension",
     "",
     "",
     ""
@@ -27,7 +27,7 @@
     },
     {
       "type": 1,
-      "weaponImageId": 1
+      "weaponImageId": 6
     },
     {
       "type": 0,
@@ -122,9 +122,9 @@
     "",
     "Weapon",
     "Ring",
-    "Sword",
     "Body",
     "Accessory",
+    "",
     "",
     "",
     "",
@@ -331,30 +331,30 @@
     }
   ],
   "startMapId": 9,
-  "startX": 59,
-  "startY": 52,
+  "startX": 61,
+  "startY": 53,
   "switches": [
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "Battle1",
+    "Battle2",
+    "Battle3",
+    "Battle4",
+    "Battle5",
+    "Battle6",
+    "Battle7",
+    "Battle8",
+    "Battle9",
+    "Battle10",
+    "Battle11",
+    "Battle12",
+    "Battle13",
+    "Battle14",
+    "Battle15",
+    "Battle16",
+    "Battle17",
+    "Battle18",
+    "TechDemonstrationFinished",
+    "ShowLateGameSkills"
   ],
   "terms": {
     "basic": [
@@ -513,13 +513,15 @@
   "title1Name": "Book",
   "title2Name": "",
   "titleBgm": {
-    "name": "Theme6",
+    "name": "World Champions",
     "pan": 0,
     "pitch": 100,
     "volume": 90
   },
   "variables": [
     "",
+    "Player Level",
+    "Random Number",
     "",
     "",
     "",
@@ -536,8 +538,6 @@
     "",
     "",
     "",
-    "",
-    "I",
     "Progress",
     "Max",
     "Train1",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 88061159,
+  "versionId": 86214789,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
@@ -571,7 +571,7 @@
   "weaponTypes": [
     "",
     "Implement",
-    "Spear",
+    "",
     "",
     "",
     ""

@@ -158,12 +158,99 @@
     "id": 5,
     "list": [
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          1,
+          1,
+          0,
+          3,
+          3,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          1,
+          0,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          2,
+          2,
+          0,
+          2,
+          20,
+          21
+        ]
+      },
+      {
+        "code": 301,
+        "indent": 1,
+        "parameters": [
+          1,
+          2,
+          false,
+          false
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 301,
+        "indent": 1,
+        "parameters": [
+          0,
+          5,
+          false,
+          false
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "Begin Battle",
     "switchId": 1,
     "trigger": 0
   },
@@ -223,437 +310,12 @@
     "id": 10,
     "list": [
       {
-        "code": 205,
-        "indent": 0,
-        "parameters": [
-          0,
-          {
-            "list": [
-              {
-                "code": 44,
-                "parameters": [
-                  {
-                    "name": "Chest1",
-                    "volume": 100,
-                    "pitch": 100,
-                    "pan": 0
-                  }
-                ],
-                "indent": null
-              },
-              {
-                "code": 17,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 18,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 19,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 0
-              }
-            ],
-            "repeat": false,
-            "skippable": false,
-            "wait": true
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 44,
-            "parameters": [
-              {
-                "name": "Chest1",
-                "volume": 100,
-                "pitch": 100,
-                "pan": 0
-              }
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 17,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 18,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 19,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 249,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Victory2",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
-        "code": 112,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          1,
-          "PowerCrystal1",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          1,
-          "PowerCrystal2",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          1,
-          "PowerCrystal3",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          1,
-          "PowerCrystal4",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          17,
-          17,
-          1,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          1,
-          17,
-          0,
-          12,
-          0
-        ]
-      },
-      {
-        "code": 235,
-        "indent": 2,
-        "parameters": [
-          1
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 2,
-        "parameters": [
-          17,
-          17,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 413,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Heal3",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
-        "code": 112,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 311,
-        "indent": 1,
-        "parameters": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          false
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          19,
-          19,
-          1,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          18,
-          18,
-          2,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          3
-        ]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          1,
-          18,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 413,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 123,
-        "indent": 0,
-        "parameters": [
-          "A",
-          0
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "PowerCrystalChest",
+    "name": "",
     "switchId": 1,
     "trigger": 0
   }

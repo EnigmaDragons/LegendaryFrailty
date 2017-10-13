@@ -114,9 +114,9 @@
   },
   {
     "id": 5,
-    "atypeId": 1,
+    "atypeId": 2,
     "description": "",
-    "etypeId": 4,
+    "etypeId": 3,
     "traits": [
       {
         "code": 22,
@@ -141,7 +141,7 @@
   },
   {
     "id": 6,
-    "atypeId": 1,
+    "atypeId": 2,
     "description": "Channel dimensional energy to gain MP at the start of your turn.",
     "etypeId": 2,
     "traits": [

@@ -15,7 +15,7 @@
   "armorTypes": [
     "",
     "General Armor",
-    "Robe",
+    "Dimension",
     "",
     "",
     ""
@@ -27,7 +27,7 @@
     },
     {
       "type": 1,
-      "weaponImageId": 1
+      "weaponImageId": 6
     },
     {
       "type": 0,
@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 9,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -122,9 +122,9 @@
     "",
     "Weapon",
     "Ring",
-    "Sword",
     "Body",
     "Accessory",
+    "",
     "",
     "",
     "",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 9,
-  "startX": 59,
-  "startY": 52,
+  "startMapId": 3,
+  "startX": 3,
+  "startY": 5,
   "switches": [
     "",
     "",
@@ -344,7 +344,7 @@
     "",
     "",
     "",
-    "",
+    "ShowLateGameSkills",
     "",
     "",
     "",
@@ -513,7 +513,7 @@
   "title1Name": "Book",
   "title2Name": "",
   "titleBgm": {
-    "name": "Theme6",
+    "name": "World Champions",
     "pan": 0,
     "pitch": 100,
     "volume": 90
@@ -537,7 +537,7 @@
     "",
     "",
     "",
-    "I",
+    "",
     "Progress",
     "Max",
     "Train1",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 88061159,
+  "versionId": 12952055,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
@@ -571,7 +571,7 @@
   "weaponTypes": [
     "",
     "Implement",
-    "Spear",
+    "",
     "",
     "",
     ""

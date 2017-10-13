@@ -481,7 +481,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Dimensional Willpower",
-    "note": "<Custom Turn Start Effect>\nif (user.mp < user.mmp)\n   user.gainMp(5, true)\n</Custom Turn Start Effect>",
+    "note": "<Custom Action Start Effect>\nif (user.mp < user.mmp)\n   user.gainMp(5, true)\n</Custom Action Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,

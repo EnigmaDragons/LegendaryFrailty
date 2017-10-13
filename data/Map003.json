@@ -1460,7 +1460,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                10,
+                5,
                 false,
                 false
               ]
@@ -1551,7 +1551,7 @@
           "walkAnime": true
         }
       ],
-      "x": 6,
+      "x": 7,
       "y": 5
     },
     {
@@ -1876,7 +1876,7 @@
           "walkAnime": true
         }
       ],
-      "x": 7,
+      "x": 6,
       "y": 5
     },
     {

@@ -610,8 +610,15 @@
   },
   {
     "id": 16,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 5,
+        "x": 258,
+        "y": 352,
+        "hidden": false
+      }
+    ],
+    "name": "L1 - 1 Spider",
     "pages": [
       {
         "conditions": {

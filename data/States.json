@@ -366,22 +366,38 @@
   },
   {
     "id": 14,
-    "autoRemovalTiming": 0,
+    "autoRemovalTiming": 2,
     "chanceByDamage": 100,
-    "traits": [],
-    "iconIndex": 0,
-    "maxTurns": 1,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      }
+    ],
+    "iconIndex": 242,
+    "maxTurns": 2,
     "message1": "",
     "message2": "",
     "message3": "",
     "message4": "",
-    "minTurns": 1,
+    "minTurns": 2,
     "motion": 0,
-    "name": "",
+    "name": "Ephemeral",
     "note": "",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,
@@ -481,7 +497,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Dimensional Willpower",
-    "note": "<Custom Action Start Effect>\nif (user.mp < user.mmp)\n   user.gainMp(5, true)\n</Custom Action Start Effect>",
+    "note": "<Custom Action Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(3, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Action Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,

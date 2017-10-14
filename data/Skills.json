@@ -375,13 +375,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "",
-    "effects": [],
+    "description": "Avoids all forms of harm for 2 turns.",
+    "effects": [
+      {
+        "code": 21,
+        "dataId": 14,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 0,
     "message1": "",
     "message2": "",
-    "mpCost": 0,
+    "mpCost": 40,
     "name": "Ephemeral Form",
     "note": "Level 6 - Dimensional\n<Learn Cost: 240 JP>\n<Rarity: 1>",
     "occasion": 0,

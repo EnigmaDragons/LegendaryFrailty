@@ -983,9 +983,9 @@
     "description": "",
     "effects": [
       {
-        "code": 31,
-        "dataId": 2,
-        "value1": 4,
+        "code": 21,
+        "dataId": 24,
+        "value1": 1,
         "value2": 0
       }
     ],

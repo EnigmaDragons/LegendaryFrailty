@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 2187.2727272727275,
-    "scrollY": 2285.4545454545455
+    "scrollX": 1621.3333333333333,
+    "scrollY": 1838.6666666666667
   },
   {
     "id": 11,
@@ -105,16 +105,25 @@
     "name": "SecondFloor",
     "order": 12,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 906
+    "scrollX": 1622.1818181818182,
+    "scrollY": 906.54545454545462
   },
   {
     "id": 13,
     "expanded": false,
-    "name": "LaserRoom",
+    "name": "ElectricRoom",
     "order": 13,
     "parentId": 0,
-    "scrollX": 884.72727272727275,
-    "scrollY": 505.09090909090912
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
+  },
+  {
+    "id": 14,
+    "expanded": false,
+    "name": "BombRoom",
+    "order": 14,
+    "parentId": 0,
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
   }
 ]

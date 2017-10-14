@@ -69,6 +69,10 @@
  * @desc The color (or color ID) to use on the gauge
  * @default 21
  *
+ * @param GaugeBackColor
+ * @desc The color (or color ID) to use on the gauge
+ * @default 22
+ * 
  * @param AllowOverflow
  * @desc Set this to true if you want the gauge bar to overflow when the value is too high
  * @default false
@@ -146,6 +150,12 @@ if (Imported["OrangeHudGauge"] === undefined) {
     } else if (parseInt(paramsLine.GaugeColor2, 10) == paramsLine.GaugeColor2) {
       paramsLine.GaugeColor2 = parseInt(paramsLine.GaugeColor2, 10);
     }
+
+    if (!paramsLine.GaugeBackColor) {
+      paramsLine.GaugeBackColor = 22;
+    } else if (parseInt(paramsLine.GaugeBackColor, 10) == paramsLine.GaugeBackColor) {
+      paramsLine.GaugeBackColor = parseInt(paramsLine.GaugeBackColor, 10);
+    }
   };
 
   OrangeHudGauge.realX = function(variableData) {
@@ -192,6 +202,7 @@ if (Imported["OrangeHudGauge"] === undefined) {
 
     var color1 = this.getRealColor(hudWindow, variableData.GaugeColor1);
     var color2 = this.getRealColor(hudWindow, variableData.GaugeColor2);
+    var backColor = this.getRealColor(hudWindow, variableData.GaugeBackColor);
     var value = this.getCurrentValue(variableData);
     var maxValue = this.getMaxValue(variableData);
     var rate;
@@ -235,7 +246,7 @@ if (Imported["OrangeHudGauge"] === undefined) {
         }
       }
 
-      hudWindow.contents.fillRect(x, gaugeY, width, height, hudWindow.gaugeBackColor());
+      hudWindow.contents.fillRect(x, gaugeY, width, height, backColor);
       hudWindow.contents.gradientFillRect(fillX, fillY, fillW, fillH, color1, color2);
     }
   };

@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 9,
+  "editMapId": 13,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 9,
-  "startX": 61,
-  "startY": 53,
+  "startMapId": 13,
+  "startX": 17,
+  "startY": 18,
   "switches": [
     "",
     "Battle1",
@@ -534,10 +534,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
+    "PlayerX",
+    "PlayerY",
+    "I",
+    "I2",
     "Progress",
     "Max",
     "Train1",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 86214789,
+  "versionId": 39201025,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

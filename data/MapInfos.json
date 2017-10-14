@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "expanded": true,
+    "expanded": false,
     "name": "DEBUG",
     "order": 2,
     "parentId": 0,
-    "scrollX": 819,
-    "scrollY": 461
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 3,
@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 2901.818181818182,
-    "scrollY": 1997.4545454545455
+    "scrollX": 1692,
+    "scrollY": 1946
   },
   {
     "id": 10,
@@ -98,5 +98,23 @@
     "parentId": 0,
     "scrollX": 1990.909090909091,
     "scrollY": 1529.4545454545455
+  },
+  {
+    "id": 12,
+    "expanded": false,
+    "name": "SecondFloor",
+    "order": 12,
+    "parentId": 0,
+    "scrollX": 1622,
+    "scrollY": 906
+  },
+  {
+    "id": 13,
+    "expanded": false,
+    "name": "LaserRoom",
+    "order": 13,
+    "parentId": 0,
+    "scrollX": 884.72727272727275,
+    "scrollY": 505.09090909090912
   }
 ]

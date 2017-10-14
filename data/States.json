@@ -495,8 +495,24 @@
     "id": 19,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
-    "iconIndex": 0,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.6
+      },
+      {
+        "code": 23,
+        "dataId": 6,
+        "value": 1.8
+      },
+      {
+        "code": 23,
+        "dataId": 7,
+        "value": 1.8
+      }
+    ],
+    "iconIndex": 305,
     "maxTurns": 1,
     "message1": "",
     "message2": "",
@@ -504,11 +520,11 @@
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Dense",
     "note": "",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,

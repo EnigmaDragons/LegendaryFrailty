@@ -2152,19 +2152,26 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "elementId": 2,
+      "formula": "a.mat - b.mdf",
+      "type": 1,
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 21,
+        "dataId": 22,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
-    "iconIndex": 0,
+    "iconIndex": 64,
     "message1": "",
     "message2": "",
-    "mpCost": 0,
-    "name": "",
+    "mpCost": 10,
+    "name": "Flame Burst",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -2172,7 +2179,7 @@
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 0,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0
@@ -2183,8 +2190,8 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "formula": "(a.atk * 1.5) - b.def",
+      "type": 1,
       "variance": 20
     },
     "description": "",
@@ -2194,7 +2201,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Bum Rush",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -2202,7 +2209,7 @@
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 2,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0
@@ -2212,9 +2219,9 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "elementId": 1,
+      "formula": "Math.max((a.atk - b.def) * 0.5, 2)",
+      "type": 1,
       "variance": 20
     },
     "description": "",
@@ -2224,15 +2231,15 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Drill",
     "note": "",
     "occasion": 0,
-    "repeats": 1,
+    "repeats": 5,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 2,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0

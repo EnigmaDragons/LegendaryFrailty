@@ -336,12 +336,12 @@
     "traits": [],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "Level 1\n<JP: 5>\n\n<AI Priority>\nAlways: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
+    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
     "params": [
-      30,
+      32,
       30,
       5,
-      5,
+      4,
       18,
       5,
       12,
@@ -374,7 +374,7 @@
     "traits": [],
     "gold": 0,
     "name": "Sentry Bot",
-    "note": "Level 2\n<JP: 10>\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
+    "note": "Level 2\n<JP: 20>\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
     "params": [
       70,
       40,
@@ -450,7 +450,7 @@
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
-    "note": "Level 3\n<JP: 15>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
+    "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
     "params": [
       80,
       40,
@@ -464,17 +464,9 @@
   },
   {
     "id": 10,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "SF_MechaSuit",
     "dropItems": [
       {
         "dataId": 1,
@@ -492,7 +484,7 @@
         "kind": 0
       }
     ],
-    "exp": 0,
+    "exp": 240,
     "traits": [
       {
         "code": 22,
@@ -511,16 +503,16 @@
       }
     ],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Mining Bot",
+    "note": "Level 3 - Sub-boss\n<JP: 100>\n\n<AI Priority>\nState !== Burning: Flame Burst\nRandom 70%: Drill\nAlways: Bum Rush\n</AI Priority>",
     "params": [
-      100,
-      0,
-      10,
-      10,
-      10,
-      10,
-      10,
+      400,
+      80,
+      22,
+      9,
+      25,
+      3,
+      12,
       10
     ]
   },
@@ -1084,17 +1076,9 @@
   },
   {
     "id": 20,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "Viktor",
     "dropItems": [
       {
         "dataId": 1,
@@ -1112,7 +1096,7 @@
         "kind": 0
       }
     ],
-    "exp": 0,
+    "exp": 80,
     "traits": [
       {
         "code": 22,
@@ -1131,17 +1115,17 @@
       }
     ],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Viktor",
+    "note": "Story Character\n<JP: 80>",
     "params": [
-      100,
-      0,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      210,
+      432,
+      26,
+      5,
+      32,
+      14,
+      30,
+      21
     ]
   },
   {

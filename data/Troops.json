@@ -393,25 +393,25 @@
     "id": 10,
     "members": [
       {
-        "enemyId": 6,
-        "x": 279,
+        "enemyId": 8,
+        "x": 388,
+        "y": 444,
+        "hidden": true
+      },
+      {
+        "enemyId": 10,
+        "x": 234,
         "y": 444,
         "hidden": false
       },
       {
         "enemyId": 6,
-        "x": 385,
-        "y": 379,
+        "x": 471,
+        "y": 307,
         "hidden": false
-      },
-      {
-        "enemyId": 8,
-        "x": 127,
-        "y": 397,
-        "hidden": true
       }
     ],
-    "name": "2 Camera / 1 Butler",
+    "name": "Subboss Mining Bot",
     "pages": [
       {
         "conditions": {
@@ -433,7 +433,7 @@
             "code": 335,
             "indent": 0,
             "parameters": [
-              2
+              0
             ]
           },
           {

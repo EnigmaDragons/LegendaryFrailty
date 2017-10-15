@@ -676,11 +676,11 @@
     "damage": {
       "critical": false,
       "elementId": 10,
-      "formula": "d = a.mat - b.mdf; a.gainMp(d); b.gainMp(-d); d",
-      "type": 5,
+      "formula": "a.mat - b.mdf",
+      "type": 6,
       "variance": 20
     },
-    "description": "",
+    "description": "Drain the target's MP, granting you some health and 20 JP.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -688,7 +688,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Siphon Energy",
-    "note": "Level 2 - Esoteric\n<Learn Cost: 80 JP>\n<Rarity: 2>\n\n<JP Gain: 20>\n",
+    "note": "Level 2 - Esoteric\n<Learn Cost: 80 JP>\n<Rarity: 2>\n\n<JP Gain: 20>\n<Post-Damage Eval>\n  a.gainHp(value / 2.5);\n  a.startDamagePopup();\n  a.clearResult();\n</Post-Damage Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1055,7 +1055,7 @@
     "message2": "",
     "mpCost": 18,
     "name": "Skillful Strike",
-    "note": "Level 4 - Martial\n<Learn Cost: 160 JP>\n<Rarity: 3>\n\n<After Eval>\n  console.log(\"debug\");\n  var polarizedStateId = 24;\n  var stunnedStateId = 25;\n  if (user.hasState(24))\n    target.addState(25);\n</After Eval>",
+    "note": "Level 4 - Martial\n<Learn Cost: 160 JP>\n<Rarity: 3>\n\n<After Eval>\n  var polarizedStateId = 24;\n  var stunnedStateId = 25;\n  if (user.hasState(24))\n    target.addState(25);\n</After Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1860,7 +1860,7 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "12",
+      "formula": "6 * (1 + b.level)",
       "type": 3,
       "variance": 20
     },

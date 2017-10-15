@@ -2713,17 +2713,17 @@
       {
         "level": 1,
         "note": "",
-        "skillId": 32
-      },
-      {
-        "level": 1,
-        "note": "",
         "skillId": 24
       },
       {
         "level": 1,
         "note": "",
         "skillId": 15
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 30
       }
     ],
     "name": "Dimension Mage",

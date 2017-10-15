@@ -271,23 +271,7 @@
       }
     ],
     "exp": 15,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "Spider Bot",
     "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Mini-Cannon Shot\nAlways: Leave To Recharge\n</AI Priority>",
@@ -477,23 +461,7 @@
       }
     ],
     "exp": 240,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "Mining Bot",
     "note": "Level 3 - Sub-boss\n<JP: 100>\n\n<AI Priority>\nState !== Burning: Flame Burst\nRandom 70%: Drill\nAlways: Bum Rush\n</AI Priority>",

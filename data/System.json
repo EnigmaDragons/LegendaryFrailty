@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 13,
+  "editMapId": 9,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 13,
-  "startX": 17,
-  "startY": 18,
+  "startMapId": 9,
+  "startX": 46,
+  "startY": 48,
   "switches": [
     "",
     "Battle1",
@@ -529,15 +529,15 @@
     "",
     "",
     "",
+    "RespawnMap",
+    "RespawnX",
+    "RespawnY",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
+    "BombTrap",
     "ElectricTrap",
-    "I",
-    "I2",
+    "HealthGain",
+    "",
     "Progress",
     "Max",
     "Train1",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 99374370,
+  "versionId": 21225623,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

@@ -1025,7 +1025,7 @@
     "message2": "",
     "mpCost": 9,
     "name": "Essence Strike",
-    "note": "Level 3 - Martial\n<Learn Cost: 80 JP>\n<Rarity: 3>",
+    "note": "Level 3 - Martial\n<Learn Cost: 80 JP>\n<Rarity: 3>\n<Post-Damage Eval>\nif(target.hp <= 0)\n  ++user._paramPlus[2];\n</Post-Damage Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

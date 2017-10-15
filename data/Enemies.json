@@ -250,17 +250,9 @@
   },
   {
     "id": 5,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "cannon-spider-bot",
     "dropItems": [
       {
         "dataId": 1,
@@ -278,7 +270,7 @@
         "kind": 0
       }
     ],
-    "exp": 0,
+    "exp": 15,
     "traits": [
       {
         "code": 22,
@@ -297,17 +289,17 @@
       }
     ],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Spider Bot",
+    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Mini-Cannon Shot\nAlways: Leave To Recharge\n</AI Priority>",
     "params": [
-      100,
-      0,
+      26,
+      20,
+      11,
+      4,
+      6,
+      4,
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      5
     ]
   },
   {

@@ -394,7 +394,7 @@
     "minTurns": 2,
     "motion": 0,
     "name": "Ephemeral",
-    "note": "<Custom Apply Effect>\n  console.log(\"hey\");\n  user.setEva(100);\n  user.setMev(100);\n</Custom Apply Effect>\n\n<Custom Remove Effect>\n  user.clearXParamPlus();\n</Custom Remove Effect>",
+    "note": "<Custom Apply Effect>\n  user.setEva(100);\n  user.setMev(100);\n</Custom Apply Effect>\n\n<Custom Remove Effect>\n  user.clearXParamPlus();\n</Custom Remove Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,

@@ -260,12 +260,20 @@
     "id": 6,
     "list": [
       {
+        "code": 314,
+        "indent": 0,
+        "parameters": [
+          0,
+          0
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "RestoreAll",
     "switchId": 1,
     "trigger": 0
   },

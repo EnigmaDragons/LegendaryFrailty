@@ -148,7 +148,7 @@
               0,
               1,
               0,
-              63,
+              53,
               false
             ]
           },
@@ -394,20 +394,26 @@
     "members": [
       {
         "enemyId": 8,
-        "x": 388,
+        "x": 274,
         "y": 444,
         "hidden": true
       },
       {
         "enemyId": 10,
-        "x": 234,
+        "x": 285,
+        "y": 375,
+        "hidden": false
+      },
+      {
+        "enemyId": 20,
+        "x": 78,
         "y": 444,
         "hidden": false
       },
       {
-        "enemyId": 6,
-        "x": 471,
-        "y": 307,
+        "enemyId": 4,
+        "x": 420,
+        "y": 435,
         "hidden": false
       }
     ],

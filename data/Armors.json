@@ -168,9 +168,9 @@
   },
   {
     "id": 7,
-    "atypeId": 0,
+    "atypeId": 1,
     "description": "",
-    "etypeId": 2,
+    "etypeId": 4,
     "traits": [
       {
         "code": 22,
@@ -179,15 +179,15 @@
       }
     ],
     "iconIndex": 0,
-    "name": "",
+    "name": "Invincible",
     "note": "",
     "params": [
       0,
       0,
       0,
+      100,
       0,
-      0,
-      0,
+      100,
       0,
       0
     ],

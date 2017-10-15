@@ -406,7 +406,7 @@
   },
   {
     "id": 15,
-    "autoRemovalTiming": 1,
+    "autoRemovalTiming": 0,
     "chanceByDamage": 100,
     "traits": [
       {
@@ -436,7 +436,7 @@
   },
   {
     "id": 16,
-    "autoRemovalTiming": 1,
+    "autoRemovalTiming": 2,
     "chanceByDamage": 50,
     "iconIndex": 6,
     "maxTurns": 2,
@@ -444,7 +444,7 @@
     "message2": " is overwhelmed!",
     "message3": "",
     "message4": " is no longer overwhelmed!",
-    "minTurns": 1,
+    "minTurns": 2,
     "motion": 1,
     "name": "Overwhelmed",
     "note": "",

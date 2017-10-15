@@ -1147,5 +1147,390 @@
     "name": "PowerCrystalChest",
     "switchId": 1,
     "trigger": 0
+  },
+  {
+    "id": 11,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 12,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 13,
+    "list": [
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "This requires power to use."
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "RequiresPower",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 14,
+    "list": [
+      {
+        "code": 205,
+        "indent": 0,
+        "parameters": [
+          0,
+          {
+            "list": [
+              {
+                "code": 17,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 18,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 19,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 0
+              }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": true
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 17,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 18,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 19,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "OpenDoor",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 15,
+    "list": [
+      {
+        "code": 205,
+        "indent": 0,
+        "parameters": [
+          0,
+          {
+            "list": [
+              {
+                "code": 18,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 17,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 16,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  4
+                ],
+                "indent": null
+              },
+              {
+                "code": 0
+              }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": true
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 18,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 17,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 16,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              4
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "CloseDoor",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 16,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 17,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 18,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 19,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 20,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
   }
 ]

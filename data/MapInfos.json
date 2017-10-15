@@ -15,8 +15,8 @@
     "name": "DEBUG",
     "order": 2,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1228.5,
+    "scrollY": 691.5
   },
   {
     "id": 3,
@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 1692,
-    "scrollY": 1946
+    "scrollX": 2143.5,
+    "scrollY": 2194.5
   },
   {
     "id": 10,
@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1621.3333333333333,
-    "scrollY": 1838.6666666666667
+    "scrollX": 1681.5,
+    "scrollY": 1809
   },
   {
     "id": 11,
@@ -96,8 +96,8 @@
     "name": "TechRailExit",
     "order": 11,
     "parentId": 0,
-    "scrollX": 1990.909090909091,
-    "scrollY": 1529.4545454545455
+    "scrollX": 1681.5,
+    "scrollY": 1228.5
   },
   {
     "id": 12,
@@ -105,8 +105,8 @@
     "name": "SecondFloor",
     "order": 12,
     "parentId": 0,
-    "scrollX": 1622.1818181818182,
-    "scrollY": 906.54545454545462
+    "scrollX": 1769.1428571428571,
+    "scrollY": 989.14285714285711
   },
   {
     "id": 13,
@@ -114,8 +114,8 @@
     "name": "ElectricRoom",
     "order": 13,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 1228.5,
+    "scrollY": 691.5
   },
   {
     "id": 14,
@@ -123,7 +123,16 @@
     "name": "BombRoom",
     "order": 14,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 1228.5,
+    "scrollY": 691.5
+  },
+  {
+    "id": 15,
+    "expanded": false,
+    "name": "PowerRoom",
+    "order": 15,
+    "parentId": 0,
+    "scrollX": 1228.5,
+    "scrollY": 691.5
   }
 ]

@@ -394,7 +394,7 @@
     "minTurns": 2,
     "motion": 0,
     "name": "Ephemeral",
-    "note": "",
+    "note": "<Custom Apply Effect>\n  console.log(\"hey\");\n  user.setEva(100);\n  user.setMev(100);\n</Custom Apply Effect>\n\n<Custom Remove Effect>\n  user.clearXParamPlus();\n</Custom Remove Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,
@@ -669,7 +669,7 @@
       {
         "code": 21,
         "dataId": 2,
-        "value": 1.4
+        "value": 1.25
       }
     ],
     "iconIndex": 0,
@@ -693,18 +693,18 @@
   },
   {
     "id": 25,
-    "autoRemovalTiming": 0,
+    "autoRemovalTiming": 1,
     "chanceByDamage": 100,
     "traits": [],
-    "iconIndex": 0,
+    "iconIndex": 9,
     "maxTurns": 1,
-    "message1": "",
-    "message2": "",
+    "message1": " is stunned and cannot move.",
+    "message2": " is stunned and cannot move.",
     "message3": "",
-    "message4": "",
+    "message4": " is no longer stunned.",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Stunned",
     "note": "",
     "overlay": 0,
     "priority": 50,
@@ -712,7 +712,7 @@
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,
-    "restriction": 0,
+    "restriction": 4,
     "stepsToRemove": 100
   },
   {

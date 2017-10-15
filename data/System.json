@@ -534,8 +534,8 @@
     "",
     "",
     "",
-    "PlayerX",
-    "PlayerY",
+    "",
+    "ElectricTrap",
     "I",
     "I2",
     "Progress",
@@ -561,7 +561,7 @@
     "",
     ""
   ],
-  "versionId": 39201025,
+  "versionId": 99374370,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

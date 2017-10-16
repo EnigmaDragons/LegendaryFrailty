@@ -521,7 +521,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-              "I'm so glad you could make it!"
+              "So glad you could make it!"
             ]
           },
           {
@@ -542,10 +542,20 @@
             ]
           },
           {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
             "code": 401,
             "indent": 0,
             "parameters": [
-              "I've got a new prototype for you to try out. "
+              "My new prototype is ready for you to try out."
             ]
           },
           {

@@ -212,7 +212,7 @@
     "traits": [],
     "gold": 0,
     "name": "Repair Bot",
-    "note": "Level 2\n<JP: 10>\n\n-- Luck param 0 is for non-robots.\n\n<AI Priority>\nLUK param > 0 +++ HP% param < 40%: Major Repairs, Highest MaxHP\nLUK param > 0 +++ HP% param < 100%: Minor Repairs, Highest MaxHP\nAlways: Zap\n</AI Priority>",
+    "note": "Level 2\n<JP: 10>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nLUK param > 1 +++ HP% param < 40%: Major Repairs, Highest MaxHP\nLUK param > 1 +++ HP% param < 100%: Minor Repairs, Highest MaxHP\nAlways: Zap\n</AI Priority>",
     "params": [
       40,
       0,
@@ -1036,7 +1036,7 @@
     "traits": [],
     "gold": 0,
     "name": "Viktor",
-    "note": "Story Character - 1st Encounter\n<JP: 80>\n\n-- Luck param 0 is for non-robots.\n\n<AI Priority>\nLUK param > 0 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 0 +++ State === Dense: Reboot, Highest MaxHP\nUser HP% param <= 70%: Relocate\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
+    "note": "Story Character - 1st Encounter\n<JP: 80>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
     "params": [
       210,
       432,

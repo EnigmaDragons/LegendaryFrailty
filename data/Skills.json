@@ -2417,7 +2417,7 @@
       },
       {
         "code": 44,
-        "dataId": 7,
+        "dataId": 16,
         "value1": 1,
         "value2": 0
       }
@@ -2465,7 +2465,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Relocate",
-    "note": "",
+    "note": "<Target Action>\ncommon event: 7\nmove target: backward, 400, 20\nwait for movement\nperform action\naction effect: target\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

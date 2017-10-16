@@ -512,23 +512,6 @@
             "indent": 0,
             "parameters": [
               "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 0,
-            "parameters": [
-              "So glad you could make it!"
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 0,
-            "parameters": [
-              "Actor_FW02_03",
               5,
               0,
               2

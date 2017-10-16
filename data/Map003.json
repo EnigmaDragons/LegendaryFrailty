@@ -1716,8 +1716,8 @@
           "walkAnime": true
         }
       ],
-      "x": 3,
-      "y": 7
+      "x": 12,
+      "y": 9
     },
     {
       "id": 3,
@@ -2069,6 +2069,26 @@
           },
           "list": [
             {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 283,
+              "indent": 0,
+              "parameters": [
+                "Subboss",
+                ""
+              ]
+            },
+            {
               "code": 301,
               "indent": 0,
               "parameters": [
@@ -2076,6 +2096,26 @@
                 10,
                 false,
                 false
+              ]
+            },
+            {
+              "code": 283,
+              "indent": 0,
+              "parameters": [
+                "SF_Metal1",
+                "SF_Building1"
+              ]
+            },
+            {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "FW-Battle2",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
               ]
             },
             {

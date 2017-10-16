@@ -37,13 +37,13 @@
       "type": 0,
       "variance": 0
     },
-    "description": "Crush the stone to absorb the stored life essence. Restores 40 HP.",
+    "description": "Crush the stone to absorb the stored life essence. Restores 60 HP.",
     "effects": [
       {
         "code": 11,
         "dataId": 0,
         "value1": 0,
-        "value2": 40
+        "value2": 60
       }
     ],
     "hitType": 0,

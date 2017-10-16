@@ -24726,7 +24726,7 @@
     {
       "id": 2,
       "name": "Train1",
-      "note": "Light 32 #03A9F4 1",
+      "note": "Light 48 #03A9F4 1",
       "pages": [
         {
           "conditions": {
@@ -24945,7 +24945,7 @@
     {
       "id": 3,
       "name": "Train2",
-      "note": "Light 32 #03A9F4 2",
+      "note": "Light 48 #03A9F4 2",
       "pages": [
         {
           "conditions": {
@@ -25616,7 +25616,7 @@
     {
       "id": 7,
       "name": "Train",
-      "note": "Light 32 #03A9F4 2",
+      "note": "Light 48 #03A9F4 2",
       "pages": [
         {
           "conditions": {
@@ -26599,7 +26599,7 @@
     {
       "id": 18,
       "name": "EV018",
-      "note": "Light 32 #03A9F4 2",
+      "note": "Light 48 #03A9F4 2",
       "pages": [
         {
           "conditions": {
@@ -26659,7 +26659,7 @@
     {
       "id": 19,
       "name": "EV019",
-      "note": "Light 32 #03A9F4 2",
+      "note": "Light 48 #03A9F4 2",
       "pages": [
         {
           "conditions": {
@@ -26719,7 +26719,7 @@
     {
       "id": 20,
       "name": "EV020",
-      "note": "Light 32 #03A9F4 2",
+      "note": "Light 48 #03A9F4 2",
       "pages": [
         {
           "conditions": {

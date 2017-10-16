@@ -27356,6 +27356,13 @@
               ]
             },
             {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Light deactivate"
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -28789,13 +28796,6 @@
               ]
             },
             {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "Tint set #212121"
-              ]
-            },
-            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -28846,6 +28846,13 @@
             "tileId": 0
           },
           "list": [
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Tint set #333333"
+              ]
+            },
             {
               "code": 111,
               "indent": 0,
@@ -29192,6 +29199,13 @@
           },
           "list": [
             {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Tint set #333333"
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -29214,7 +29228,7 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 3,
           "walkAnime": true
         }
       ],

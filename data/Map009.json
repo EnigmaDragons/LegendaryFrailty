@@ -27740,7 +27740,7 @@
           "conditions": {
             "actorId": 1,
             "actorValid": false,
-            "itemId": 1,
+            "itemId": 3,
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
@@ -27761,6 +27761,37 @@
             "characterIndex": 4
           },
           "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Open3",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                14
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                16,
+                8,
+                45,
+                0,
+                0
+              ]
+            },
             {
               "code": 0,
               "indent": 0,

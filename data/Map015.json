@@ -9469,13 +9469,6 @@
               ]
             },
             {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "Tint set #212121"
-              ]
-            },
-            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -9506,7 +9499,7 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 4,
+          "trigger": 3,
           "walkAnime": true
         },
         {
@@ -9535,6 +9528,13 @@
           },
           "list": [
             {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Tint set #212121"
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -9557,11 +9557,11 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 4,
           "walkAnime": true
         }
       ],
-      "x": 27,
+      "x": 10,
       "y": 21
     },
     {

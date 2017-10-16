@@ -29228,11 +29228,11 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 3,
+          "trigger": 4,
           "walkAnime": true
         }
       ],
-      "x": 62,
+      "x": 5,
       "y": 57
     },
     {

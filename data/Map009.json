@@ -29170,7 +29170,7 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 3,
+          "trigger": 4,
           "walkAnime": true
         },
         {

@@ -394,27 +394,27 @@
     "members": [
       {
         "enemyId": 8,
-        "x": 274,
+        "x": 334,
         "y": 444,
         "hidden": true
       },
       {
         "enemyId": 10,
-        "x": 285,
-        "y": 375,
-        "hidden": false
+        "x": 522,
+        "y": 384,
+        "hidden": true
       },
       {
         "enemyId": 20,
-        "x": 78,
+        "x": 171,
         "y": 444,
         "hidden": false
       },
       {
         "enemyId": 4,
-        "x": 420,
-        "y": 435,
-        "hidden": false
+        "x": 303,
+        "y": 345,
+        "hidden": true
       }
     ],
     "name": "Subboss Mining Bot",
@@ -440,6 +440,186 @@
             "indent": 0,
             "parameters": [
               0
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              4,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Damn! I made those Butlers too helpful."
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I'll need to patch their AI. "
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              0,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Drinks are on me this time. Cheers!"
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+          }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 100,
+          "enemyIndex": 2,
+          "enemyValid": true,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 1,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              0,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I'm so glad you could make it!"
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I've been needing someone to help with Quality Assurance."
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I've got a new prototype for you to try out. "
+            ]
+          },
+          {
+            "code": 241,
+            "indent": 0,
+            "parameters": [
+              {
+                "name": "BossBattle",
+                "volume": 100,
+                "pitch": 100,
+                "pan": 0
+              }
+            ]
+          },
+          {
+            "code": 335,
+            "indent": 0,
+            "parameters": [
+              1
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+          }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 70,
+          "enemyIndex": 1,
+          "enemyValid": true,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "You're really wailing on my Robot. "
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Let's make things a little more interesting."
+            ]
+          },
+          {
+            "code": 335,
+            "indent": 0,
+            "parameters": [
+              3
             ]
           },
           {

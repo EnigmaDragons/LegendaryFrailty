@@ -1215,12 +1215,20 @@
     "id": 11,
     "list": [
       {
+        "code": 283,
+        "indent": 0,
+        "parameters": [
+          "DimensionalRift",
+          "Blank"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "DimensionalRift",
     "switchId": 1,
     "trigger": 0
   },

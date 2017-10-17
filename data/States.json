@@ -749,20 +749,51 @@
     "id": 27,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.2
+      }
+    ],
     "iconIndex": 0,
     "maxTurns": 1,
-    "message1": "",
+    "message1": " is empowered with dimensional energy!",
     "message2": "",
     "message3": "",
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
-    "note": "",
+    "name": "Dimensionally Empowered",
+    "note": "<Custom Action Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(user.mmp - user.mp, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Action Start Effect>",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,

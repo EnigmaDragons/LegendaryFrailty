@@ -178,5 +178,6 @@ var $plugins =
 {"name":"OrangeHudGauge","status":true,"description":"OrangeHudGauge 1.2 - Adds a new Gauge to Orange Hud","parameters":{"GroupName":"main","ValueVariableId":"19","MaxValueVariableId":"20","ScriptValue":"","ScriptMaxValue":"","SwitchId":"0","X":"21","Y":"33","Width":"1200","Direction":"right","Height":"18","VariableX":"0","VariableY":"0","GaugeColor1":"10","GaugeColor2":"10","GaugeBackColor":"7","AllowOverflow":"false","AutoRefresh":"true"}},
 {"name":"cellicom_RarityItemColor","status":true,"description":"Change Items and Weapons color based on rarity value in notetag","parameters":{"Rarity 0":"0","Rarity 1":"4","Rarity 2":"6","Rarity 3":"2","Rarity 4":"3","Rarity 5":"30","Rarity Escape Code":"CR","==YANFLY PATCH==":"","YANFLY_SLOT_PATCH":"false"}},
 {"name":"HM_LevelUpEvents","status":true,"description":"","parameters":{}},
-{"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"false"}}
+{"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"false"}},
+{"name":"HIME_ChangeBattleback","status":true,"description":"v1.1 Allows you to change battle background images during battle.","parameters":{}}
 ];

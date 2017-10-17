@@ -11,7 +11,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Hardened Raw Enery",
+    "description": "Hardened Raw Enery. Can be used to give power to something.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 66,
@@ -62,7 +62,7 @@
   {
     "id": 3,
     "animationId": 0,
-    "consumable": true,
+    "consumable": false,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -70,17 +70,17 @@
       "type": 0,
       "variance": 20
     },
-    "description": "",
+    "description": "A key to the electrical room, on the right side of the first floor",
     "effects": [],
     "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
+    "iconIndex": 195,
+    "itypeId": 2,
+    "name": "Electrical Room Key",
     "note": "",
-    "occasion": 0,
+    "occasion": 2,
     "price": 0,
     "repeats": 1,
-    "scope": 7,
+    "scope": 0,
     "speed": 0,
     "successRate": 100,
     "tpGain": 0

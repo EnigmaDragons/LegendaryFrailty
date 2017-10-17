@@ -1570,12 +1570,67 @@
     "id": 17,
     "list": [
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          35,
+          35,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          36,
+          36,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          37,
+          37,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          38,
+          38,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          39,
+          39,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "ResetMapInitFlags",
     "switchId": 1,
     "trigger": 0
   },

@@ -10398,8 +10398,40 @@
           },
           "list": [
             {
-              "code": 132,
+              "code": 111,
               "indent": 0,
+              "parameters": [
+                1,
+                39,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
+                "light activate"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
+                "Tint set #000000"
+              ]
+            },
+            {
+              "code": 132,
+              "indent": 1,
               "parameters": [
                 {
                   "name": "BossBattle",
@@ -10408,6 +10440,27 @@
                   "pan": 0
                 }
               ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                39,
+                39,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -10432,7 +10485,7 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 4,
           "walkAnime": true
         }
       ],

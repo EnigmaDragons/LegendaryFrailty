@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 16,
+  "editMapId": 9,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 16,
-  "startX": 8,
-  "startY": 45,
+  "startMapId": 9,
+  "startX": 40,
+  "startY": 31,
   "switches": [
     "",
     "Battle1",
@@ -554,14 +554,14 @@
     "FirstFloor2",
     "FirstFloor3",
     "FirstFloor4",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "InitPowerRoom",
+    "InitFirstFloor",
+    "InitTrainEntrance",
+    "InitTrainExit",
+    "InitSubBossRoom",
     ""
   ],
-  "versionId": 76476332,
+  "versionId": 21030304,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

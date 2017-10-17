@@ -65504,7 +65504,7 @@
     {
       "id": 364,
       "name": "1",
-      "note": "Light 32 #03A9F4 36",
+      "note": "Light 32 #03A9F4 37",
       "pages": [
         {
           "conditions": {
@@ -65681,7 +65681,7 @@
     {
       "id": 365,
       "name": "2",
-      "note": "Light 32 #03A9F4 36",
+      "note": "Light 32 #03A9F4 37",
       "pages": [
         {
           "conditions": {
@@ -65866,7 +65866,7 @@
     {
       "id": 366,
       "name": "3",
-      "note": "Light 32 #03A9F4 36",
+      "note": "Light 32 #03A9F4 37",
       "pages": [
         {
           "conditions": {
@@ -68666,14 +68666,21 @@
               "code": 356,
               "indent": 2,
               "parameters": [
-                "FocusCamera 33 48 180"
+                "Light on 37"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 2,
+              "parameters": [
+                "FocusCamera 33 48 120"
               ]
             },
             {
               "code": 230,
               "indent": 2,
               "parameters": [
-                180
+                150
               ]
             },
             {
@@ -68848,17 +68855,24 @@
               ]
             },
             {
+              "code": 230,
+              "indent": 2,
+              "parameters": [
+                30
+              ]
+            },
+            {
               "code": 356,
               "indent": 2,
               "parameters": [
-                "FocusCamera player 180"
+                "FocusCamera player 60"
               ]
             },
             {
               "code": 230,
               "indent": 2,
               "parameters": [
-                180
+                60
               ]
             },
             {

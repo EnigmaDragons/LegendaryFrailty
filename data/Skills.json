@@ -740,7 +740,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Creates a diffusion barrier that prevents damage while it lasts.",
+    "description": "Creates a diffusion barrier that prevents damage \nand status effects while it lasts.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 81,
@@ -748,7 +748,7 @@
     "message2": "",
     "mpCost": 15,
     "name": "Diffusion Barrier",
-    "note": "Level 4 - Esoteric\n<JP Cost: 160>\n<Rarity: 2>",
+    "note": "Level 4 - Esoteric\n<JP Cost: 160>\n<Rarity: 2>\n\n<After Eval>\n  var c = user.barrierPoints();\n  var amt = Math.ceil(user.mat * 1.2) - c;\n  user.gainBarrier(amt, 0);\n</After Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

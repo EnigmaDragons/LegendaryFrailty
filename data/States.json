@@ -344,8 +344,14 @@
     "id": 13,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
-    "iconIndex": 0,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 22,
+        "value": 1
+      }
+    ],
+    "iconIndex": 128,
     "maxTurns": 1,
     "message1": "",
     "message2": "",
@@ -353,7 +359,7 @@
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Diffusion Barrier",
     "note": "",
     "overlay": 0,
     "priority": 50,

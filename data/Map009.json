@@ -41236,9 +41236,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
-            "pattern": 0,
-            "characterIndex": 5
+            "direction": 8,
+            "pattern": 2,
+            "characterIndex": 2
           },
           "list": [
             {

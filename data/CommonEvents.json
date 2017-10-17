@@ -1105,6 +1105,18 @@
         "parameters": []
       },
       {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 311,
         "indent": 1,
         "parameters": [

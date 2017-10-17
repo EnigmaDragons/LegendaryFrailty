@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 9,
+  "editMapId": 10,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 9,
-  "startX": 40,
-  "startY": 31,
+  "startMapId": 10,
+  "startX": 22,
+  "startY": 32,
   "switches": [
     "",
     "Battle1",
@@ -561,7 +561,7 @@
     "InitSubBossRoom",
     ""
   ],
-  "versionId": 21030304,
+  "versionId": 98150578,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

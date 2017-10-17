@@ -1278,6 +1278,10 @@
           {
             "list": [
               {
+                "code": 36,
+                "indent": null
+              },
+              {
                 "code": 17,
                 "indent": null
               },
@@ -1311,12 +1315,26 @@
                 "indent": null
               },
               {
+                "code": 35,
+                "indent": null
+              },
+              {
                 "code": 0
               }
             ],
             "repeat": false,
             "skippable": false,
             "wait": true
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 36,
+            "indent": null
           }
         ]
       },
@@ -1390,6 +1408,16 @@
         ]
       },
       {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 35,
+            "indent": null
+          }
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -1409,6 +1437,10 @@
           0,
           {
             "list": [
+              {
+                "code": 36,
+                "indent": null
+              },
               {
                 "code": 18,
                 "indent": null
@@ -1443,12 +1475,26 @@
                 "indent": null
               },
               {
+                "code": 35,
+                "indent": null
+              },
+              {
                 "code": 0
               }
             ],
             "repeat": false,
             "skippable": false,
             "wait": true
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 36,
+            "indent": null
           }
         ]
       },
@@ -1517,6 +1563,16 @@
             "parameters": [
               4
             ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 35,
             "indent": null
           }
         ]

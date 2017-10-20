@@ -681,7 +681,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Siphon Energy",
-    "note": "Level 2 - Esoteric\n<Learn Cost: 40 JP>\n<Rarity: 2>\n\n<After Eval>\n  var siphonedStateId = 26;\n  if (!target.isStateAffected(siphonedStateId)) {\n    user.gainJp(20);\n    var amt = Math.max(Math.ceil((a.mat - b.def) / 2), 2);\n    target.gainMp(-amt);\n    user.gainMp(amt);\n    user.startDamagePopup();\n    target.startDamagePopup();\n    user.clearDamagePopup();\n    target.clearDamagePopup();\n    target.addState(siphonedStateId);\n  } else {\n    $gameMessage.addText(\"Cannot siphon the same enemy twice.\");\n  }\n</After Eval>",
+    "note": "Level 2 - Esoteric\n<Learn Cost: 40 JP>\n<Rarity: 2>\n\n<Select Conditions>\n   Not State: WasSiphoned\n</Select Conditions>\n<After Eval>\n  var siphonedStateId = 26;\n  if (!target.isStateAffected(siphonedStateId)) {\n    user.gainJp(20);\n    var amt = Math.max(Math.ceil((a.mat - b.def) / 2), 2);\n    target.gainMp(-amt);\n    user.gainMp(amt);\n    user.startDamagePopup();\n    target.startDamagePopup();\n    user.clearDamagePopup();\n    target.clearDamagePopup();\n    target.addState(siphonedStateId);\n  } else {\n    $gameMessage.addText(\"Cannot siphon the same enemy twice.\");\n  }\n</After Eval>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

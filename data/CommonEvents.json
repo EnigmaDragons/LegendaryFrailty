@@ -544,7 +544,7 @@
         "indent": 1,
         "parameters": [
           12,
-          "($gamePlayer.x === $gameMap.event(this._eventId)._x || $gamePlayer.x + 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x - 1 === $gameMap.event(this._eventId)._x) && ($gamePlayer.y === $gameMap.event(this._eventId)._y || $gamePlayer.y + 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y - 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y - 2 === $gameMap.event(this._eventId)._y)"
+          "($gamePlayer.x === $gameMap.event(this._eventId)._x || $gamePlayer.x - 2 === $gameMap.event(this._eventId)._x || $gamePlayer.x - 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 2 === $gameMap.event(this._eventId)._x) && ($gamePlayer.y === $gameMap.event(this._eventId)._y || $gamePlayer.y - 2 === $gameMap.event(this._eventId)._y || $gamePlayer.y - 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 2 === $gameMap.event(this._eventId)._y)"
         ]
       },
       {
@@ -558,6 +558,22 @@
           8,
           0
         ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          42,
+          42,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 115,
+        "indent": 2,
+        "parameters": []
       },
       {
         "code": 0,
@@ -624,13 +640,6 @@
         ]
       },
       {
-        "code": 230,
-        "indent": 0,
-        "parameters": [
-          240
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -690,6 +699,22 @@
           8,
           0
         ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          41,
+          41,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 115,
+        "indent": 2,
+        "parameters": []
       },
       {
         "code": 0,
@@ -1706,6 +1731,28 @@
         "parameters": [
           40,
           40,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          41,
+          41,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          42,
+          42,
           0,
           0,
           1

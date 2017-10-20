@@ -1073,11 +1073,11 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "formula": "Math.ceil((a.atk - b.def) * 1.15)",
+      "type": 1,
       "variance": 20
     },
-    "description": "",
+    "description": "Swign your staff around with ferocity, striking each enemy once.",
     "effects": [],
     "hitType": 1,
     "iconIndex": 431,

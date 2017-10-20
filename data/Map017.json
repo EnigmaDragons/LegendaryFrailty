@@ -154,7 +154,49 @@
     0,
     0,
     0,
+    1587,
+    3616,
+    6928,
     0,
+    0,
+    6928,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1588,
+    1589,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3616,
+    6928,
+    0,
+    0,
+    6928,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1587,
+    1587,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1589,
     3628,
     6928,
     0,
@@ -165,48 +207,6 @@
     0,
     0,
     0,
-    1588,
-    1589,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6928,
-    0,
-    0,
-    6928,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1587,
-    1587,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6928,
-    0,
-    0,
-    6928,
-    0,
-    0,
-    0,
-    0,
-    0,
     1589,
     1588,
     1587,
@@ -217,8 +217,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    1588,
+    1588,
     6928,
     0,
     0,
@@ -238,8 +238,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    1587,
+    1589,
     6928,
     0,
     0,
@@ -259,8 +259,8 @@
     1588,
     0,
     0,
-    0,
-    0,
+    1589,
+    1587,
     6928,
     0,
     0,
@@ -278,10 +278,10 @@
     1588,
     1587,
     1587,
+    3630,
     0,
-    0,
-    0,
-    0,
+    1588,
+    1588,
     6928,
     0,
     0,
@@ -301,8 +301,8 @@
     1589,
     1589,
     1588,
-    0,
-    0,
+    1587,
+    1589,
     6928,
     0,
     0,
@@ -573,8 +573,8 @@
     4228,
     4228,
     4228,
-    4228,
-    4244,
+    4229,
+    4253,
     0,
     0,
     0,
@@ -594,8 +594,8 @@
     4208,
     4208,
     4208,
-    4208,
     4232,
+    0,
     0,
     0,
     0,
@@ -615,9 +615,9 @@
     4208,
     4208,
     4208,
-    4208,
-    4210,
-    4244,
+    4214,
+    4253,
+    0,
     0,
     0,
     0,
@@ -636,9 +636,9 @@
     4208,
     4208,
     4208,
-    4208,
-    4208,
     4232,
+    0,
+    0,
     0,
     0,
     0,
@@ -657,9 +657,9 @@
     4208,
     4208,
     4208,
-    4208,
-    4208,
     4232,
+    0,
+    0,
     0,
     0,
     0,
@@ -678,9 +678,9 @@
     4236,
     4236,
     4216,
-    4208,
-    4208,
     4232,
+    0,
+    0,
     0,
     0,
     0,
@@ -698,31 +698,31 @@
     0,
     0,
     0,
-    4224,
-    4208,
-    4208,
-    4232,
-    0,
-    0,
-    0,
-    0,
-    4224,
-    4208,
-    4208,
-    4208,
-    4208,
-    4208,
-    4208,
-    4232,
-    0,
-    0,
-    0,
-    0,
-    0,
     4248,
-    4236,
-    4216,
+    4233,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4224,
+    4208,
+    4208,
+    4208,
+    4208,
+    4208,
+    4208,
     4232,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4252,
+    0,
+    0,
     0,
     0,
     0,
@@ -742,8 +742,8 @@
     0,
     0,
     0,
-    4248,
-    4246,
+    0,
+    0,
     0,
     0,
     0,
@@ -2339,7 +2339,7 @@
     0,
     0,
     0,
-    0,
+    10,
     10,
     0,
     0,
@@ -2359,8 +2359,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    25,
+    13,
     10,
     0,
     0,
@@ -2381,7 +2381,7 @@
     0,
     0,
     0,
-    0,
+    13,
     10,
     0,
     0,
@@ -2401,8 +2401,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    49,
+    13,
     10,
     0,
     0,
@@ -2422,8 +2422,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    37,
+    37,
     10,
     0,
     0,
@@ -2443,8 +2443,8 @@
     0,
     0,
     0,
-    0,
-    0,
+    25,
+    49,
     10,
     0,
     0,
@@ -2464,8 +2464,8 @@
     37,
     0,
     0,
-    0,
-    0,
+    49,
+    25,
     10,
     0,
     0,
@@ -2483,10 +2483,10 @@
     37,
     25,
     25,
+    13,
     0,
-    0,
-    0,
-    0,
+    37,
+    37,
     10,
     0,
     0,
@@ -2506,8 +2506,8 @@
     49,
     49,
     37,
-    0,
-    0,
+    25,
+    49,
     10,
     0,
     0,
@@ -12591,6 +12591,27 @@
               ]
             },
             {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "regionlight 25 ON #2196F3 32"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "regionlight 37 ON #CDDC39 32"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "regionlight 49 ON #F44336 32"
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -12882,21 +12903,21 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "regionlight 25 ON #333333 48"
+                "regionlight 25 ON #2196F3 32"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "regionlight 37 ON #333333 48"
+                "regionlight 37 ON #CDDC39 32"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "regionlight 49 ON #333333 48"
+                "regionlight 49 ON #F44336 32"
               ]
             },
             {
@@ -12984,6 +13005,416 @@
       ],
       "x": 19,
       "y": 17
+    },
+    {
+      "id": 98,
+      "name": "EV098",
+      "note": "Light 48 #2196F3 40",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 18,
+            "variableValid": true,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!SF_Door2",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 18,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!SF_Door2",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!SF_Door2",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Down2",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                14
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "TURN TOWARDS: EVENT 98"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 12,
+                      "indent": null
+                    },
+                    {
+                      "code": 12,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "TURN TOWARDS: EVENT 98"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 12,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 12,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Down2",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                15
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 18,
+      "y": 6
+    },
+    {
+      "id": 99,
+      "name": "Chest1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Chest",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                17,
+                17,
+                0,
+                0,
+                60
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Chest",
+            "direction": 8,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 18,
+      "y": 4
     }
   ]
 }

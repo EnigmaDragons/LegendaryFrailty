@@ -1772,18 +1772,6 @@
     "id": 18,
     "list": [
       {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Switch1",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
         "code": 111,
         "indent": 0,
         "parameters": [
@@ -1792,6 +1780,18 @@
           0,
           1,
           0
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 1,
+        "parameters": [
+          {
+            "name": "Switch1",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
         ]
       },
       {
@@ -1817,20 +1817,6 @@
         ]
       },
       {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 25 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 49 ON #333333 48"
-        ]
-      },
-      {
         "code": 0,
         "indent": 2,
         "parameters": []
@@ -1863,20 +1849,6 @@
         ]
       },
       {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 25 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 49 ON #333333 48"
-        ]
-      },
-      {
         "code": 0,
         "indent": 3,
         "parameters": []
@@ -1896,11 +1868,6 @@
         ]
       },
       {
-        "code": 221,
-        "indent": 3,
-        "parameters": []
-      },
-      {
         "code": 201,
         "indent": 3,
         "parameters": [
@@ -1913,9 +1880,15 @@
         ]
       },
       {
-        "code": 222,
+        "code": 122,
         "indent": 3,
-        "parameters": []
+        "parameters": [
+          40,
+          40,
+          0,
+          0,
+          1
+        ]
       },
       {
         "code": 0,
@@ -1961,18 +1934,6 @@
     "id": 19,
     "list": [
       {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Switch2",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
         "code": 111,
         "indent": 0,
         "parameters": [
@@ -1981,6 +1942,18 @@
           0,
           1,
           0
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 1,
+        "parameters": [
+          {
+            "name": "Switch2",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
         ]
       },
       {
@@ -2003,20 +1976,6 @@
           0,
           0,
           2
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 37 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 25 ON #333333 48"
         ]
       },
       {
@@ -2049,20 +2008,6 @@
           0,
           0,
           2
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 37 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 25 ON #333333 48"
         ]
       },
       {
@@ -2085,11 +2030,6 @@
         ]
       },
       {
-        "code": 221,
-        "indent": 3,
-        "parameters": []
-      },
-      {
         "code": 201,
         "indent": 3,
         "parameters": [
@@ -2102,9 +2042,15 @@
         ]
       },
       {
-        "code": 222,
+        "code": 122,
         "indent": 3,
-        "parameters": []
+        "parameters": [
+          40,
+          40,
+          0,
+          0,
+          1
+        ]
       },
       {
         "code": 0,
@@ -2150,18 +2096,6 @@
     "id": 20,
     "list": [
       {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Switch3",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
         "code": 111,
         "indent": 0,
         "parameters": [
@@ -2170,6 +2104,18 @@
           0,
           1,
           0
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 1,
+        "parameters": [
+          {
+            "name": "Switch3",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
         ]
       },
       {
@@ -2195,20 +2141,6 @@
         ]
       },
       {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 49 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 2,
-        "parameters": [
-          "regionlight 37 ON #333333 48"
-        ]
-      },
-      {
         "code": 0,
         "indent": 2,
         "parameters": []
@@ -2241,20 +2173,6 @@
         ]
       },
       {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 49 ON #FFFFFF 32 "
-        ]
-      },
-      {
-        "code": 356,
-        "indent": 3,
-        "parameters": [
-          "regionlight 37 ON #333333 48"
-        ]
-      },
-      {
         "code": 0,
         "indent": 3,
         "parameters": []
@@ -2274,11 +2192,6 @@
         ]
       },
       {
-        "code": 221,
-        "indent": 3,
-        "parameters": []
-      },
-      {
         "code": 201,
         "indent": 3,
         "parameters": [
@@ -2291,9 +2204,15 @@
         ]
       },
       {
-        "code": 222,
+        "code": 122,
         "indent": 3,
-        "parameters": []
+        "parameters": [
+          40,
+          40,
+          0,
+          0,
+          1
+        ]
       },
       {
         "code": 0,

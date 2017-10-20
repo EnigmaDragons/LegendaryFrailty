@@ -2996,6 +2996,17 @@
               "code": 122,
               "indent": 0,
               "parameters": [
+                48,
+                48,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
                 17,
                 17,
                 0,
@@ -3262,7 +3273,7 @@
                 12,
                 0,
                 0,
-                19
+                18
               ]
             },
             {
@@ -3335,6 +3346,133 @@
               "parameters": [
                 "Light activate"
               ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                48,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [
+                1,
+                49,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                48,
+                48,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                19,
+                19,
+                2,
+                0,
+                40
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 3,
+              "parameters": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                40
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 3,
+              "parameters": [
+                2,
+                {
+                  "list": [
+                    {
+                      "code": 19,
+                      "indent": null
+                    },
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "SELF SWITCH A: OFF"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 3,
+              "parameters": [
+                {
+                  "code": 19,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 3,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "SELF SWITCH A: OFF"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
             },
             {
               "code": 0,
@@ -6555,6 +6693,38 @@
                   "indent": null
                 }
               ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                48,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                49,
+                49,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 123,
@@ -16099,6 +16269,38 @@
               "parameters": [
                 "Light activate"
               ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                48,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                49,
+                49,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,

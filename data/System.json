@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 14,
+  "editMapId": 17,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 14,
-  "startX": 3,
-  "startY": 17,
+  "startMapId": 17,
+  "startX": 17,
+  "startY": 18,
   "switches": [
     "",
     "Battle1",
@@ -563,12 +563,12 @@
     "InitElectricRoom",
     "InitBombRoom",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "ColorChestLooted",
+    "ColorChestSecured",
+    "ElectricChestLooted",
+    "ElectricChestSecured",
+    "BombChestLooted",
+    "BombChestSecured",
     "",
     "",
     "",
@@ -581,7 +581,7 @@
     "",
     ""
   ],
-  "versionId": 78792687,
+  "versionId": 55610827,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

@@ -1701,6 +1701,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          40,
+          40,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -1714,17 +1725,571 @@
     "id": 18,
     "list": [
       {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "Switch1",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          18,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          14,
+          0,
+          3,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 25 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 49 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 2,
+        "parameters": [
+          1,
+          14,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 25 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 49 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 212,
+        "indent": 3,
+        "parameters": [
+          -1,
+          76,
+          true
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 201,
+        "indent": 3,
+        "parameters": [
+          1,
+          10,
+          11,
+          12,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 222,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "Blue Pad",
     "switchId": 1,
     "trigger": 0
   },
   {
     "id": 19,
+    "list": [
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "Switch2",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          18,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          14,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 37 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 25 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 2,
+        "parameters": [
+          1,
+          14,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 37 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 25 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 212,
+        "indent": 3,
+        "parameters": [
+          -1,
+          76,
+          true
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 201,
+        "indent": 3,
+        "parameters": [
+          1,
+          10,
+          11,
+          12,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 222,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Green Pad",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 20,
+    "list": [
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "Switch3",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          18,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          14,
+          0,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          3
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 49 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 2,
+        "parameters": [
+          "regionlight 37 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 2,
+        "parameters": [
+          1,
+          14,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          14,
+          14,
+          0,
+          0,
+          3
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 49 ON #FFFFFF 32 "
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 3,
+        "parameters": [
+          "regionlight 37 ON #333333 48"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 212,
+        "indent": 3,
+        "parameters": [
+          -1,
+          76,
+          true
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 201,
+        "indent": 3,
+        "parameters": [
+          1,
+          10,
+          11,
+          12,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 222,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Red Pad",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 21,
     "list": [
       {
         "code": 0,
@@ -1737,7 +2302,111 @@
     "trigger": 0
   },
   {
-    "id": 20,
+    "id": 22,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 23,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 24,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 25,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 26,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 27,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 28,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 29,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 30,
     "list": [
       {
         "code": 0,

@@ -675,7 +675,7 @@
       {
         "code": 21,
         "dataId": 2,
-        "value": 1.25
+        "value": 1.4
       }
     ],
     "iconIndex": 0,
@@ -804,7 +804,13 @@
     "id": 28,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 2
+      }
+    ],
     "iconIndex": 0,
     "maxTurns": 1,
     "message1": "",
@@ -813,7 +819,7 @@
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Staff Master's Stance",
     "note": "",
     "overlay": 0,
     "priority": 50,

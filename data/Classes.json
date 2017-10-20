@@ -1831,6 +1831,11 @@
         "level": 1,
         "note": "",
         "skillId": 12
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 17
       }
     ],
     "name": "Master of Dimensions",
@@ -2713,12 +2718,12 @@
       {
         "level": 1,
         "note": "",
-        "skillId": 24
+        "skillId": 10
       },
       {
         "level": 1,
         "note": "",
-        "skillId": 15
+        "skillId": 20
       },
       {
         "level": 1,

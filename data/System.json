@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 17,
+  "editMapId": 18,
   "elements": [
     "",
     "Physical",
@@ -532,7 +532,7 @@
     "RespawnMap",
     "RespawnX",
     "RespawnY",
-    "",
+    "DiskTrap",
     "LastPad",
     "BombTrap",
     "ElectricTrap",
@@ -581,7 +581,7 @@
     "",
     ""
   ],
-  "versionId": 55610827,
+  "versionId": 48915066,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

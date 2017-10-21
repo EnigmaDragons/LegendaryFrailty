@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 1563.6,
-    "scrollY": 2528.4
+    "scrollX": 2182,
+    "scrollY": 2618.5
   },
   {
     "id": 10,
@@ -114,8 +114,8 @@
     "name": "ElectricRoom",
     "order": 13,
     "parentId": 0,
-    "scrollX": 982.8,
-    "scrollY": 553.19999999999993
+    "scrollX": 884.72727272727275,
+    "scrollY": 504.54545454545456
   },
   {
     "id": 14,
@@ -123,8 +123,8 @@
     "name": "BombRoom",
     "order": 14,
     "parentId": 0,
-    "scrollX": 811,
-    "scrollY": 547
+    "scrollX": 648.8,
+    "scrollY": 638.8
   },
   {
     "id": 15,
@@ -132,8 +132,8 @@
     "name": "PowerRoom",
     "order": 15,
     "parentId": 0,
-    "scrollX": 982.8,
-    "scrollY": 553.19999999999993
+    "scrollX": 839.2,
+    "scrollY": 741.2
   },
   {
     "id": 16,
@@ -147,10 +147,19 @@
   {
     "id": 17,
     "expanded": false,
-    "name": "PatternRoom",
+    "name": "ColorRoom",
     "order": 17,
     "parentId": 0,
-    "scrollX": 982.8,
-    "scrollY": 553.19999999999993
+    "scrollX": 884.72727272727275,
+    "scrollY": 504.54545454545456
+  },
+  {
+    "id": 18,
+    "expanded": false,
+    "name": "SecondFloor",
+    "order": 18,
+    "parentId": 0,
+    "scrollX": 2104,
+    "scrollY": 1593.3333333333333
   }
 ]

@@ -13808,7 +13808,7 @@
     {
       "id": 71,
       "name": "EV071",
-      "note": "Light 16 #03A9F4 4",
+      "note": "Light 16 #03A9F4 7",
       "pages": [
         {
           "conditions": {
@@ -13873,7 +13873,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 15,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13919,7 +13919,7 @@
     {
       "id": 72,
       "name": "EV072",
-      "note": "Light 16 #03A9F4 4",
+      "note": "Light 16 #03A9F4 7",
       "pages": [
         {
           "conditions": {
@@ -13984,7 +13984,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 15,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16575,7 +16575,7 @@
     {
       "id": 112,
       "name": "EV112",
-      "note": "Light 16 #03A9F4 4",
+      "note": "Light 16 #03A9F4 7",
       "pages": [
         {
           "conditions": {
@@ -16640,7 +16640,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 15,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16686,7 +16686,7 @@
     {
       "id": 113,
       "name": "EV113",
-      "note": "Light 16 #03A9F4 4",
+      "note": "Light 16 #03A9F4 7",
       "pages": [
         {
           "conditions": {
@@ -16751,7 +16751,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 15,
             "variableValid": true,
             "variableValue": 1
           },

@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 18,
+  "editMapId": 10,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 17,
-  "startX": 17,
-  "startY": 18,
+  "startMapId": 10,
+  "startX": 22,
+  "startY": 32,
   "switches": [
     "",
     "Battle1",
@@ -354,7 +354,27 @@
     "Battle17",
     "Battle18",
     "TechDemonstrationFinished",
-    "ShowLateGameSkills"
+    "ShowLateGameSkills",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "SkillsLearnable",
+    "DialogueEnabled",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "terms": {
     "basic": [
@@ -581,7 +601,7 @@
     "",
     ""
   ],
-  "versionId": 48915066,
+  "versionId": 70662556,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

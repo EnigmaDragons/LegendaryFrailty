@@ -4778,6 +4778,10 @@ Scene_Menu.prototype.commandDebug = function() {
     SceneManager.push(Scene_Debug);
 };
 
+Scene_Menu.prototype.commandExit = function() {
+	SceneManager.exit();
+}
+
 //=============================================================================
 // End of File
 //=============================================================================

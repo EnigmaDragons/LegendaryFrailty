@@ -703,7 +703,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "",
+    "description": "When an enemy dies, immediately heal at least 8% of your Max HP. \nAfter each battle, permanently gain +1 Magic.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 430,
@@ -711,7 +711,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Growing Confidence",
-    "note": "Level 3 - Esoteric\n<Learn Cost: 80 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>",
+    "note": "Level 3 - Esoteric\n<Learn Cost: 80 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Passive State: 29>",
     "occasion": 3,
     "repeats": 1,
     "requiredWtypeId1": 0,

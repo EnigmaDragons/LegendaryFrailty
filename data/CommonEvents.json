@@ -1885,6 +1885,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          43,
+          43,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -2384,12 +2395,84 @@
     "id": 21,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          12,
+          "$gamePlayer.x === $gameMap.event(this._eventId)._x && $gamePlayer.y === $gameMap.event(this._eventId)._y"
+        ]
+      },
+      {
+        "code": 201,
+        "indent": 1,
+        "parameters": [
+          1,
+          10,
+          11,
+          12,
+          8,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          43,
+          43,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 115,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          13,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 115,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "LaserDisk",
     "switchId": 1,
     "trigger": 0
   },

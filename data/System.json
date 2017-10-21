@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 10,
+  "editMapId": 18,
   "elements": [
     "",
     "Physical",
@@ -582,15 +582,15 @@
     "InitColorRoom",
     "InitElectricRoom",
     "InitBombRoom",
-    "",
+    "InitDiskRoom",
     "ColorChestLooted",
     "ColorChestSecured",
     "ElectricChestLooted",
     "ElectricChestSecured",
     "BombChestLooted",
     "BombChestSecured",
-    "",
-    "",
+    "DiskChestLooted",
+    "DiskChestSecured",
     "",
     "",
     "",
@@ -601,7 +601,7 @@
     "",
     ""
   ],
-  "versionId": 95852534,
+  "versionId": 67259743,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

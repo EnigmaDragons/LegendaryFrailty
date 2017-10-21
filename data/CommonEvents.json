@@ -292,6 +292,18 @@
         ]
       },
       {
+        "code": 249,
+        "indent": 1,
+        "parameters": [
+          {
+            "name": "Victory2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
         "code": 121,
         "indent": 1,
         "parameters": [
@@ -306,7 +318,7 @@
         "parameters": [
           "",
           0,
-          0,
+          1,
           1
         ]
       },
@@ -314,14 +326,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You have now unlocked the ability to learn skills!"
+          "You have now unlocked the ability to learn new skills!"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Go to the Menu -> Skills -> Learn Skills."
+          "Go to Menu -> Skills -> Learn Skills."
         ]
       },
       {

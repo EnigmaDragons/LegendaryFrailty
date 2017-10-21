@@ -15,8 +15,8 @@
     "name": "DEBUG",
     "order": 2,
     "parentId": 0,
-    "scrollX": 893.4545454545455,
-    "scrollY": 502.90909090909093
+    "scrollX": 982.8,
+    "scrollY": 553.19999999999993
   },
   {
     "id": 3,
@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 2182,
-    "scrollY": 2618.5
+    "scrollX": 979.19999999999993,
+    "scrollY": 2456.4
   },
   {
     "id": 10,
@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1470,
-    "scrollY": 1820.3999999999999
+    "scrollX": 1668,
+    "scrollY": 1737.6
   },
   {
     "id": 11,
@@ -96,8 +96,8 @@
     "name": "TechRailExit",
     "order": 11,
     "parentId": 0,
-    "scrollX": 2162.6666666666665,
-    "scrollY": 1229.3333333333333
+    "scrollX": 2098.7999999999997,
+    "scrollY": 1228.8
   },
   {
     "id": 12,
@@ -105,8 +105,8 @@
     "name": "SecondFloor",
     "order": 12,
     "parentId": 0,
-    "scrollX": 1768.8,
-    "scrollY": 988.8
+    "scrollX": 3892.7999999999997,
+    "scrollY": 2587.2
   },
   {
     "id": 13,
@@ -114,8 +114,8 @@
     "name": "ElectricRoom",
     "order": 13,
     "parentId": 0,
-    "scrollX": 884.72727272727275,
-    "scrollY": 504.54545454545456
+    "scrollX": 982.8,
+    "scrollY": 553.19999999999993
   },
   {
     "id": 14,
@@ -123,8 +123,8 @@
     "name": "BombRoom",
     "order": 14,
     "parentId": 0,
-    "scrollX": 648.8,
-    "scrollY": 638.8
+    "scrollX": 982.8,
+    "scrollY": 553.19999999999993
   },
   {
     "id": 15,
@@ -132,8 +132,8 @@
     "name": "PowerRoom",
     "order": 15,
     "parentId": 0,
-    "scrollX": 839.2,
-    "scrollY": 741.2
+    "scrollX": 982.8,
+    "scrollY": 553.19999999999993
   },
   {
     "id": 16,
@@ -142,7 +142,7 @@
     "order": 16,
     "parentId": 0,
     "scrollX": 973.19999999999993,
-    "scrollY": 553.19999999999993
+    "scrollY": 1894.8
   },
   {
     "id": 17,
@@ -150,8 +150,8 @@
     "name": "ColorRoom",
     "order": 17,
     "parentId": 0,
-    "scrollX": 884.72727272727275,
-    "scrollY": 504.54545454545456
+    "scrollX": 982.8,
+    "scrollY": 553.19999999999993
   },
   {
     "id": 18,
@@ -159,7 +159,16 @@
     "name": "SecondFloor",
     "order": 18,
     "parentId": 0,
-    "scrollX": 2104,
-    "scrollY": 1593.3333333333333
+    "scrollX": 1746,
+    "scrollY": 1003.1999999999999
+  },
+  {
+    "id": 19,
+    "expanded": false,
+    "name": "RingRoom",
+    "order": 19,
+    "parentId": 0,
+    "scrollX": 832,
+    "scrollY": 640
   }
 ]

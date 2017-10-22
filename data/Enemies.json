@@ -478,7 +478,7 @@
     "traits": [],
     "gold": 0,
     "name": "Flame Bot",
-    "note": "Level 4 - Fire Bot\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
+    "note": "Level 4\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
     "params": [
       85,
       80,
@@ -492,17 +492,9 @@
   },
   {
     "id": 12,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "golem_04",
     "dropItems": [
       {
         "dataId": 1,
@@ -523,16 +515,16 @@
     "exp": 0,
     "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Bodyguard Bot",
+    "note": "Level 4\n<JP: 60>\n\n<AI Priority>\nState !== Toughened: Defensive Stance\nAlways: Wallop\n</AI Priority>",
     "params": [
-      100,
+      160,
       0,
-      10,
-      10,
-      10,
-      10,
-      10,
+      28,
+      18,
+      4,
+      7,
+      16,
       10
     ]
   },

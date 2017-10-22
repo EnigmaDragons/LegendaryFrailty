@@ -386,8 +386,8 @@
       "MP",
       "TP",
       "TP",
-      "EXP",
-      "EXP"
+      "XP",
+      "XP"
     ],
     "commands": [
       "Fight",
@@ -422,10 +422,10 @@
       "Max MP",
       "Attack",
       "Defense",
-      "M.Attack",
+      "Magic",
       "M.Defense",
       "Agility",
-      "Luck",
+      "Innovation",
       "Hit",
       "Evasion"
     ],
@@ -601,7 +601,7 @@
     "",
     ""
   ],
-  "versionId": 44706564,
+  "versionId": 53593554,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

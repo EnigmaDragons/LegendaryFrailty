@@ -117,13 +117,7 @@
     "atypeId": 2,
     "description": "",
     "etypeId": 3,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "iconIndex": 138,
     "name": "Dimension Robe",
     "note": "",
@@ -144,13 +138,7 @@
     "atypeId": 2,
     "description": "Channel dimensional energy to gain MP at the start of your turn.",
     "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "iconIndex": 145,
     "name": "Dimension Ring",
     "note": "<Passive State: 18>",

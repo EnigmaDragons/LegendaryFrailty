@@ -386,8 +386,8 @@
       "MP",
       "TP",
       "TP",
-      "EXP",
-      "EXP"
+      "XP",
+      "XP"
     ],
     "commands": [
       "Fight",
@@ -422,10 +422,10 @@
       "Max MP",
       "Attack",
       "Defense",
-      "M.Attack",
+      "Magic",
       "M.Defense",
       "Agility",
-      "Luck",
+      "Innovation",
       "Hit",
       "Evasion"
     ],
@@ -591,7 +591,7 @@
     "BombChestSecured",
     "DiskChestLooted",
     "DiskChestSecured",
-    "",
+    "InitSecondFloor",
     "",
     "",
     "",
@@ -601,7 +601,7 @@
     "",
     ""
   ],
-  "versionId": 67259743,
+  "versionId": 53593554,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

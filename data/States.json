@@ -856,22 +856,33 @@
   },
   {
     "id": 30,
-    "autoRemovalTiming": 0,
+    "autoRemovalTiming": 2,
     "chanceByDamage": 100,
-    "traits": [],
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 1.25
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 1.25
+      }
+    ],
     "iconIndex": 0,
-    "maxTurns": 1,
+    "maxTurns": 4,
     "message1": "",
     "message2": "",
     "message3": "",
     "message4": "",
-    "minTurns": 1,
+    "minTurns": 4,
     "motion": 0,
-    "name": "",
+    "name": "Toughened",
     "note": "",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,

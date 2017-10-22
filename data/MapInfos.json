@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 2166
+    "scrollX": 1621.5,
+    "scrollY": 1726.5
   },
   {
     "id": 10,
@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 2030
+    "scrollX": 1621.5,
+    "scrollY": 2029.5
   },
   {
     "id": 11,
@@ -96,17 +96,17 @@
     "name": "TechRailExit",
     "order": 11,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 1228
+    "scrollX": 1621.5,
+    "scrollY": 1468.5
   },
   {
     "id": 12,
     "expanded": false,
-    "name": "Final Death Trap",
+    "name": "FinalDeathTrap",
     "order": 19,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1216.5,
+    "scrollY": 892.5
   },
   {
     "id": 13,
@@ -150,8 +150,8 @@
     "name": "ColorRoom",
     "order": 16,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1228.5,
+    "scrollY": 691.5
   },
   {
     "id": 18,
@@ -159,8 +159,8 @@
     "name": "SecondFloor",
     "order": 17,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 2054
+    "scrollX": 1216.5,
+    "scrollY": 1468.5
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "name": "RingRoom",
     "order": 18,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1228.5,
+    "scrollY": 691.5
   }
 ]

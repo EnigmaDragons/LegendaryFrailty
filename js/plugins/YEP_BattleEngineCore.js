@@ -2240,31 +2240,6 @@ BattleManager.updateActionTargetList = function() {
     }
 };
 
-BattleManager.updateActionTargetList = function() {
-    for (;;) {
-      this._actSeq = this._actionList.shift();
-      if (this._actSeq) {
-        if (!this.actionConditionsMet(this._actSeq)) continue;
-        var seqName = this._actSeq[0].toUpperCase();
-        if (!this.processActionSequenceCheck(seqName, this._actSeq[1])) {
-          break;
-        }
-      } else if (this._individualTargets.length > 0) {
-        this._individualTargets.shift();
-        if (this._individualTargets.length > 0) {
-          this.setTargets([this._individualTargets[0]]);
-          this._actionList = this._action.item().targetActions.slice();
-        } else {
-          this._phase = 'phaseChange';
-          break;
-        }
-      } else {
-        this._phase = 'phaseChange';
-        break;
-      }
-    }
-};
-
 BattleManager.startAction = function() {
     var subject = this._subject;
     if (!subject) return this.endAction();

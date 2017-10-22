@@ -182,5 +182,6 @@ var $plugins =
 {"name":"HIME_ChangeBattleback","status":true,"description":"v1.1 Allows you to change battle background images during battle.","parameters":{}},
 {"name":"ExitGame","status":true,"description":"Adds a quit button to the main menu and to the in game menu.","parameters":{"Button Text":"Exit Game"}},
 {"name":"BattleAutoSelection","status":true,"description":"Skip the selection window when there is only one available enemy or one available ally.","parameters":{}},
-{"name":"MOG_CollapseEffects","status":true,"description":"(v1.3) Adiciona efeitos de colapsos animados.","parameters":{"Default Collapse":"1","Shatter Direction":"Left"}}
+{"name":"MOG_CollapseEffects","status":true,"description":"(v1.3) Adiciona efeitos de colapsos animados.","parameters":{"Default Collapse":"1","Shatter Direction":"Left"}},
+{"name":"AddedConfusion","status":true,"description":"","parameters":{}}
 ];

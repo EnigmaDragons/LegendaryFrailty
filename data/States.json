@@ -479,14 +479,14 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Inverted Axis",
-    "note": "<--Custom Action Start Effect>\n  var scopeTargetUser = 11;\n  var action = user.currentAction();\n  action._item.scope = scopeTargetUser;\n  action.setTarget(user.index());\n  debugger;\n<--/Custom Action Start Effect>",
+    "note": "",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,
-    "restriction": 3,
+    "restriction": 5,
     "stepsToRemove": 100
   },
   {

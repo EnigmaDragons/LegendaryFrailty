@@ -20,7 +20,7 @@
     "maxLevel": 99,
     "name": "Anselm - The Legend",
     "nickname": "",
-    "note": "",
+    "note": "<ATB Start: 1200>",
     "profile": ""
   },
   {
@@ -43,30 +43,30 @@
     "maxLevel": 99,
     "name": "Anselm",
     "nickname": "",
-    "note": "<level up event: 6>\n<ATB Start: 500>",
+    "note": "<level up event: 6>\n<ATB Start: 1200>",
     "profile": ""
   },
   {
     "id": 3,
-    "battlerName": "",
+    "battlerName": "Anselm",
     "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
+    "characterName": "Frailty_People1",
+    "classId": 4,
     "equips": [
-      0,
-      0,
-      0,
-      0,
+      1,
+      6,
+      5,
+      8,
       0
     ],
     "faceIndex": 0,
-    "faceName": "",
+    "faceName": "FrailtyFaces",
     "traits": [],
     "initialLevel": 1,
     "maxLevel": 99,
-    "name": "",
+    "name": "Anselm - Second Floor",
     "nickname": "",
-    "note": "",
+    "note": "<ATB Start: 1200>",
     "profile": ""
   },
   {

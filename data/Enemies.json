@@ -402,7 +402,7 @@
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
-    "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
+    "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Ironsight Shot\n</AI Priority>",
     "params": [
       80,
       40,
@@ -478,7 +478,7 @@
     "traits": [],
     "gold": 0,
     "name": "Flame Bot",
-    "note": "Level 4 - Fire Bot\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
+    "note": "Level 4\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
     "params": [
       85,
       80,
@@ -492,17 +492,9 @@
   },
   {
     "id": 12,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "golem_04",
     "dropItems": [
       {
         "dataId": 1,
@@ -523,32 +515,24 @@
     "exp": 0,
     "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Bodyguard Bot",
+    "note": "Level 4\n<JP: 60>\n\n<AI Priority>\nState !== Toughened: Defensive Stance\nAlways: Wallop\n</AI Priority>",
     "params": [
-      100,
+      160,
       0,
-      10,
-      10,
-      10,
-      10,
-      10,
+      28,
+      18,
+      4,
+      7,
+      16,
       10
     ]
   },
   {
     "id": 13,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "WaspBot",
     "dropItems": [
       {
         "dataId": 1,
@@ -566,20 +550,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
+    "exp": 7,
     "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Wasp Bot",
+    "note": "Level 3 - Always in groups\n<JP: 5>\n\n<AI Priority>\n  Always: Sting\n</AI Priority>",
     "params": [
-      100,
-      0,
+      16,
       10,
+      23,
+      3,
       10,
-      10,
-      10,
-      10,
-      10
+      3,
+      16,
+      14
     ]
   },
   {

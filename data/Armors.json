@@ -118,7 +118,7 @@
     "description": "",
     "etypeId": 3,
     "traits": [],
-    "iconIndex": 138,
+    "iconIndex": 415,
     "name": "Dimension Robe",
     "note": "",
     "params": [
@@ -139,7 +139,7 @@
     "description": "Channel dimensional energy to gain MP at the start of your turn.",
     "etypeId": 2,
     "traits": [],
-    "iconIndex": 145,
+    "iconIndex": 414,
     "name": "Dimension Ring",
     "note": "<Passive State: 18>",
     "params": [
@@ -183,21 +183,36 @@
   },
   {
     "id": 8,
-    "atypeId": 0,
+    "atypeId": 1,
     "description": "",
-    "etypeId": 2,
+    "etypeId": 4,
     "traits": [
       {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
+        "code": 14,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 18,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.5
       }
     ],
     "iconIndex": 0,
-    "name": "",
-    "note": "",
+    "name": "Second Floor",
+    "note": "<Custom Turn Start Effect>\n  user.gainMp(-3);\n  user.showDamagePopup();\n  user.clearDamagePopup();\n</Custom Turn Start Effect>",
     "params": [
-      0,
+      120,
       0,
       0,
       0,

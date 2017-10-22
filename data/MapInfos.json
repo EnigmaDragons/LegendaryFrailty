@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 1621.5,
-    "scrollY": 1726.5
+    "scrollX": 1621.3333333333333,
+    "scrollY": 1726.6666666666667
   },
   {
     "id": 10,
@@ -87,8 +87,8 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1621.5,
-    "scrollY": 2029.5
+    "scrollX": 1621.3333333333333,
+    "scrollY": 2029.3333333333333
   },
   {
     "id": 11,
@@ -105,8 +105,8 @@
     "name": "FinalDeathTrap",
     "order": 19,
     "parentId": 0,
-    "scrollX": 1216.5,
-    "scrollY": 892.5
+    "scrollX": 816,
+    "scrollY": 790
   },
   {
     "id": 13,
@@ -114,8 +114,8 @@
     "name": "ElectricRoom",
     "order": 12,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1786.909090909091,
+    "scrollY": 1005.8181818181819
   },
   {
     "id": 14,
@@ -123,8 +123,8 @@
     "name": "BombRoom",
     "order": 13,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 648.8,
+    "scrollY": 368.8
   },
   {
     "id": 15,
@@ -132,8 +132,8 @@
     "name": "PowerRoom",
     "order": 14,
     "parentId": 0,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
   },
   {
     "id": 16,
@@ -150,8 +150,8 @@
     "name": "ColorRoom",
     "order": 16,
     "parentId": 0,
-    "scrollX": 1228.5,
-    "scrollY": 691.5
+    "scrollX": 1786.909090909091,
+    "scrollY": 1005.8181818181819
   },
   {
     "id": 18,
@@ -159,8 +159,8 @@
     "name": "SecondFloor",
     "order": 17,
     "parentId": 0,
-    "scrollX": 1216.5,
-    "scrollY": 1468.5
+    "scrollX": 1390.2857142857142,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 19,
@@ -168,7 +168,16 @@
     "name": "RingRoom",
     "order": 18,
     "parentId": 0,
-    "scrollX": 1228.5,
-    "scrollY": 691.5
+    "scrollX": 540.66666666666663,
+    "scrollY": 307.33333333333331
+  },
+  {
+    "id": 20,
+    "expanded": false,
+    "name": "FinalBoss",
+    "order": 20,
+    "parentId": 0,
+    "scrollX": 832,
+    "scrollY": 640
   }
 ]

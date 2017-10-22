@@ -827,18 +827,6 @@
                 "indent": null
               },
               {
-                "code": 44,
-                "parameters": [
-                  {
-                    "name": "Sword5",
-                    "volume": 100,
-                    "pitch": 100,
-                    "pan": 0
-                  }
-                ],
-                "indent": null
-              },
-              {
                 "code": 19,
                 "indent": null
               },
@@ -940,24 +928,6 @@
             "code": 15,
             "parameters": [
               4
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 44,
-            "parameters": [
-              {
-                "name": "Sword5",
-                "volume": 100,
-                "pitch": 100,
-                "pan": 0
-              }
             ],
             "indent": null
           }
@@ -2229,6 +2199,28 @@
         "parameters": [
           52,
           52,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          53,
+          53,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          40,
+          40,
           0,
           0,
           1

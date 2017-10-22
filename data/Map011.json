@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Rail",
+  "displayName": "",
   "encounterList": [],
   "encounterStep": 30,
   "height": 64,
@@ -24641,6 +24641,13 @@
             "tileId": 0
           },
           "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                17
+              ]
+            },
             {
               "code": 356,
               "indent": 0,

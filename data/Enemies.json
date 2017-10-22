@@ -330,7 +330,7 @@
     "params": [
       60,
       40,
-      20,
+      22,
       6,
       10,
       4,
@@ -406,7 +406,7 @@
     "params": [
       80,
       40,
-      20,
+      33,
       10,
       10,
       5,
@@ -454,17 +454,9 @@
   },
   {
     "id": 11,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
-    "battlerHue": 0,
-    "battlerName": "",
+    "actions": [],
+    "battlerHue": 173,
+    "battlerName": "SF_Inugami",
     "dropItems": [
       {
         "dataId": 1,
@@ -482,36 +474,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "exp": 60,
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Flame Bot",
+    "note": "Level 4 - Fire Bot\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
     "params": [
-      100,
-      0,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      85,
+      80,
+      18,
+      8,
+      30,
+      20,
+      32,
+      15
     ]
   },
   {
@@ -545,23 +521,7 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "",
     "note": "",
@@ -607,23 +567,7 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
     "name": "",
     "note": "",

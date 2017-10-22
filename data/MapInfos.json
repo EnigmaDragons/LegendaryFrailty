@@ -6,8 +6,8 @@
     "name": "MAP001",
     "order": 1,
     "parentId": 0,
-    "scrollX": 1786.909090909091,
-    "scrollY": 1005.8181818181819
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 2,
@@ -105,8 +105,8 @@
     "name": "FinalDeathTrap",
     "order": 19,
     "parentId": 0,
-    "scrollX": 816,
-    "scrollY": 790
+    "scrollX": 1390.2857142857142,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 13,
@@ -177,7 +177,16 @@
     "name": "FinalBoss",
     "order": 20,
     "parentId": 0,
-    "scrollX": 832,
-    "scrollY": 640
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
+  },
+  {
+    "id": 21,
+    "expanded": false,
+    "name": "WaterPalace",
+    "order": 21,
+    "parentId": 0,
+    "scrollX": 1390.2857142857142,
+    "scrollY": 790.28571428571422
   }
 ]

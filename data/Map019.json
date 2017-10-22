@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Laser Disk Room",
+  "displayName": "",
   "encounterList": [],
   "encounterStep": 30,
   "height": 21,
@@ -36724,6 +36724,13 @@
             "tileId": 0
           },
           "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                17
+              ]
+            },
             {
               "code": 123,
               "indent": 0,

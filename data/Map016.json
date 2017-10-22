@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Hall Of Innovation",
+  "displayName": "",
   "encounterList": [],
   "encounterStep": 30,
   "height": 51,
@@ -10514,6 +10514,13 @@
             "tileId": 0
           },
           "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                17
+              ]
+            },
             {
               "code": 111,
               "indent": 0,

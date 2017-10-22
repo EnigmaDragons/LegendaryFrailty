@@ -73,9 +73,9 @@
     7954,
     7954,
     7954,
-    7954,
-    7954,
-    7954,
+    7958,
+    7962,
+    7955,
     7954,
     7954,
     7954,
@@ -90,9 +90,9 @@
     7960,
     7960,
     7960,
-    7960,
-    7960,
-    7960,
+    7964,
+    1536,
+    7961,
     7960,
     7960,
     7960,
@@ -3559,7 +3559,7 @@
     0,
     0,
     0,
-    0,
+    5,
     0,
     0,
     0,
@@ -10904,6 +10904,92 @@
       ],
       "x": 8,
       "y": 44
+    },
+    {
+      "id": 86,
+      "name": "EV086",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!SF_Door2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                14
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                18,
+                23,
+                59,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                15
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 3
     }
   ]
 }

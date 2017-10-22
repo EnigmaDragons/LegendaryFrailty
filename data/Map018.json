@@ -1,7 +1,7 @@
 {
   "autoplayBgm": true,
   "autoplayBgs": false,
-  "battleback1Name": "",
+  "battleback1Name": "SecondFloor",
   "battleback2Name": "",
   "bgm": {
     "name": "SecondFloor",
@@ -28,7 +28,7 @@
   "parallaxSx": 0,
   "parallaxSy": 0,
   "scrollType": 0,
-  "specifyBattleback": false,
+  "specifyBattleback": true,
   "tilesetId": 7,
   "width": 44,
   "data": [

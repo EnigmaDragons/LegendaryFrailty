@@ -402,7 +402,7 @@
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
-    "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Quick Shot\n</AI Priority>",
+    "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Ironsight Shot\n</AI Priority>",
     "params": [
       80,
       40,
@@ -530,17 +530,9 @@
   },
   {
     "id": 13,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "WaspBot",
     "dropItems": [
       {
         "dataId": 1,
@@ -558,20 +550,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
+    "exp": 7,
     "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Wasp Bot",
+    "note": "Level 3 - Always in groups\n<JP: 5>\n\n<AI Priority>\n  Always: Sting\n</AI Priority>",
     "params": [
-      100,
-      0,
+      16,
       10,
+      23,
+      3,
       10,
-      10,
-      10,
-      10,
-      10
+      3,
+      16,
+      14
     ]
   },
   {

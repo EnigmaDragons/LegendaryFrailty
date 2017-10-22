@@ -20,7 +20,7 @@
     "maxLevel": 99,
     "name": "Anselm - The Legend",
     "nickname": "",
-    "note": "",
+    "note": "<ATB Start: 1200>",
     "profile": ""
   },
   {
@@ -43,7 +43,7 @@
     "maxLevel": 99,
     "name": "Anselm",
     "nickname": "",
-    "note": "<level up event: 6>\n<ATB Start: 500>",
+    "note": "<level up event: 6>\n<ATB Start: 1200>",
     "profile": ""
   },
   {
@@ -66,7 +66,7 @@
     "maxLevel": 99,
     "name": "Anselm - Second Floor",
     "nickname": "",
-    "note": "",
+    "note": "<ATB Start: 1200>",
     "profile": ""
   },
   {

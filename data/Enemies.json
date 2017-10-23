@@ -126,17 +126,9 @@
   },
   {
     "id": 3,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "Missile",
     "dropItems": [
       {
         "dataId": 1,
@@ -155,35 +147,19 @@
       }
     ],
     "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Homing Missile",
+    "note": "<Hide HP Gauge>\n\n<AI Priority>\nAlways: Arrived\nAlways: Collide\n</AI Priority>",
     "params": [
-      100,
-      0,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      16,
+      20,
+      28,
+      3,
+      11,
+      3,
+      8,
+      11
     ]
   },
   {
@@ -568,17 +544,9 @@
   },
   {
     "id": 14,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
-    "battlerHue": 0,
-    "battlerName": "",
+    "actions": [],
+    "battlerHue": 318,
+    "battlerName": "colonial-mech",
     "dropItems": [
       {
         "dataId": 1,
@@ -596,36 +564,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "exp": 800,
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Commando Bot",
+    "note": "Final Boss\n<JP: 400>\n\n<AI Priority>\nUser HP% param < 50% +++ User Attack param > 50: Triple Blast\nEval user.isStateAffected(31): Blast\nUser HP% param < 50%: Large Missile Swarm\nTroop Alive Members <= 3: Missile Swarm\nAlways: Energy Charge\n</AI Priority> ",
     "params": [
-      100,
-      0,
+      800,
+      400,
+      46,
+      12,
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      12,
+      20,
+      20
     ]
   },
   {
@@ -978,17 +930,9 @@
   },
   {
     "id": 21,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
+    "actions": [],
     "battlerHue": 0,
-    "battlerName": "",
+    "battlerName": "Viktor",
     "dropItems": [
       {
         "dataId": 1,
@@ -1006,36 +950,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "exp": 200,
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Viktor",
+    "note": "Story Character - 2nd Encounter\n<ATB Start: 1500>\n\n<AI Priority>\n</AI Priority>\n",
     "params": [
-      100,
-      0,
+      500,
+      876,
+      26,
+      5,
+      32,
+      14,
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      1
     ]
   },
   {

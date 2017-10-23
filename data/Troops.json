@@ -627,8 +627,21 @@
   },
   {
     "id": 11,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 14,
+        "x": 516,
+        "y": 435,
+        "hidden": false
+      },
+      {
+        "enemyId": 21,
+        "x": 108,
+        "y": 388,
+        "hidden": false
+      }
+    ],
+    "name": "Final Boss",
     "pages": [
       {
         "conditions": {
@@ -658,8 +671,27 @@
   },
   {
     "id": 12,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 3,
+        "x": 153,
+        "y": 163,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 252,
+        "y": 82,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 171,
+        "y": 106,
+        "hidden": false
+      }
+    ],
+    "name": "Missile Swarm",
     "pages": [
       {
         "conditions": {
@@ -689,8 +721,45 @@
   },
   {
     "id": 13,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 3,
+        "x": 153,
+        "y": 163,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 252,
+        "y": 82,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 171,
+        "y": 106,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 330,
+        "y": 70,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 153,
+        "y": 226,
+        "hidden": false
+      },
+      {
+        "enemyId": 3,
+        "x": 420,
+        "y": 70,
+        "hidden": false
+      }
+    ],
+    "name": "Large Missile Swarm",
     "pages": [
       {
         "conditions": {

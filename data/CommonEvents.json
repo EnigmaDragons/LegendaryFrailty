@@ -2811,12 +2811,19 @@
     "id": 22,
     "list": [
       {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "add_enemy_troop 12"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SummonMissileSwarm",
     "switchId": 1,
     "trigger": 0
   },
@@ -2824,12 +2831,19 @@
     "id": 23,
     "list": [
       {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "add_enemy_troop 13"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SummonLargeSwarm",
     "switchId": 1,
     "trigger": 0
   },

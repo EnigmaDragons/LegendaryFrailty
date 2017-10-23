@@ -24623,14 +24623,14 @@
     "note": "",
     "tilesetNames": [
       "Inside_A1",
+      "Outside_A2",
       "Inside_A2",
-      "",
       "Inside_A4",
       "Inside_A5",
       "Inside_B",
       "Inside_C",
-      "",
-      ""
+      "SF_Inside_B",
+      "Outside_B"
     ]
   },
   {

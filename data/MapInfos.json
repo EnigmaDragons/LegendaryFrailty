@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "expanded": true,
+    "expanded": false,
     "name": "DEBUG",
     "order": 2,
     "parentId": 0,
-    "scrollX": 1404,
-    "scrollY": 790.28571428571422
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
   },
   {
     "id": 3,
@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 9,
     "parentId": 0,
-    "scrollX": 1621.3333333333333,
-    "scrollY": 1726.6666666666667
+    "scrollX": 1416,
+    "scrollY": 2338.6666666666665
   },
   {
     "id": 10,
@@ -88,7 +88,7 @@
     "order": 10,
     "parentId": 0,
     "scrollX": 1621.3333333333333,
-    "scrollY": 2029.3333333333333
+    "scrollY": 1736
   },
   {
     "id": 11,
@@ -105,8 +105,8 @@
     "name": "FinalDeathTrap",
     "order": 19,
     "parentId": 0,
-    "scrollX": 1390.2857142857142,
-    "scrollY": 790.28571428571422
+    "scrollX": 1081.3333333333333,
+    "scrollY": 790.66666666666663
   },
   {
     "id": 13,
@@ -195,7 +195,34 @@
     "name": "WaterTemple",
     "order": 22,
     "parentId": 0,
-    "scrollX": 1228.5,
-    "scrollY": 691.5
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
+  },
+  {
+    "id": 23,
+    "expanded": false,
+    "name": "Kitchen",
+    "order": 23,
+    "parentId": 0,
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
+  },
+  {
+    "id": 24,
+    "expanded": false,
+    "name": "RoboticRepair",
+    "order": 24,
+    "parentId": 0,
+    "scrollX": 1092,
+    "scrollY": 614.66666666666663
+  },
+  {
+    "id": 25,
+    "expanded": false,
+    "name": "DemonstrationRoom",
+    "order": 25,
+    "parentId": 0,
+    "scrollX": 832,
+    "scrollY": 640
   }
 ]

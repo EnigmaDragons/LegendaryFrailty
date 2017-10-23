@@ -2695,7 +2695,7 @@
     6928,
     3624,
     3612,
-    3596,
+    3612,
     3612,
     3622,
     6928,
@@ -2739,7 +2739,7 @@
     6937,
     6929,
     6941,
-    3616,
+    1639,
     6939,
     6929,
     6935,
@@ -2783,7 +2783,7 @@
     7283,
     7282,
     7286,
-    3616,
+    1639,
     7283,
     7282,
     7286,
@@ -2827,7 +2827,7 @@
     7289,
     7288,
     7292,
-    3628,
+    1639,
     7289,
     7288,
     7292,
@@ -24001,20 +24001,13 @@
           },
           "directionFix": false,
           "image": {
-            "tileId": 0,
-            "characterName": "!SF_Door2",
+            "characterIndex": 0,
+            "characterName": "",
             "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
+            "pattern": 0,
+            "tileId": 0
           },
           "list": [
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                14
-              ]
-            },
             {
               "code": 201,
               "indent": 0,
@@ -24022,16 +24015,9 @@
                 0,
                 16,
                 8,
-                4,
+                1,
                 0,
                 0
-              ]
-            },
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                15
               ]
             },
             {
@@ -24054,10 +24040,10 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 1,
+          "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 1,
           "walkAnime": true
         }
       ],

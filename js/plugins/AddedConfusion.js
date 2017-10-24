@@ -1,5 +1,5 @@
-Scene_Battle.prototype.isConfused = function() {
-	return this.isAppeared() && ((this.restriction() >= 1 && this.restriction() <= 3) || this.restriction == 5);
+Game_BattlerBase.prototype.isConfused = function() {
+	return this.isAppeared() && ((this.restriction() >= 1 && this.restriction() <= 3) || this.restriction() == 5);
 };
 
 Game_BattlerBase.prototype.canMove = function() {

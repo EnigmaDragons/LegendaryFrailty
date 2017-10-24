@@ -1507,6 +1507,32 @@
         "parameters": []
       },
       {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          17,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 113,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
         "code": 317,
         "indent": 1,
         "parameters": [
@@ -1558,32 +1584,6 @@
         "parameters": [
           3
         ]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          1,
-          17,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
       },
       {
         "code": 0,
@@ -2918,6 +2918,16 @@
         ]
       },
       {
+        "code": 126,
+        "indent": 1,
+        "parameters": [
+          11,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 1,
         "parameters": []
@@ -2941,12 +2951,41 @@
     "id": 25,
     "list": [
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          10
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          27,
+          27,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SolvePowerRoom",
     "switchId": 1,
     "trigger": 0
   },

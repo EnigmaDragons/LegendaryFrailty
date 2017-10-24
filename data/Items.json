@@ -269,7 +269,7 @@
     "occasion": 2,
     "price": 0,
     "repeats": 1,
-    "scope": 11,
+    "scope": 0,
     "speed": 0,
     "successRate": 100,
     "tpGain": 0
@@ -277,7 +277,7 @@
   {
     "id": 11,
     "animationId": 0,
-    "consumable": true,
+    "consumable": false,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -286,16 +286,23 @@
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 25,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 0,
     "itypeId": 1,
-    "name": "",
+    "name": "DEBUG - Solve Power Room",
     "note": "",
-    "occasion": 0,
+    "occasion": 2,
     "price": 0,
     "repeats": 1,
-    "scope": 7,
+    "scope": 0,
     "speed": 0,
     "successRate": 100,
     "tpGain": 0

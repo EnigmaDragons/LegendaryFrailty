@@ -27509,7 +27509,7 @@
               "code": 117,
               "indent": 0,
               "parameters": [
-                17
+                24
               ]
             },
             {
@@ -27857,7 +27857,7 @@
     },
     {
       "id": 6,
-      "name": "EV006",
+      "name": "ShowPlatformPowerCutscene",
       "note": "",
       "pages": [
         {

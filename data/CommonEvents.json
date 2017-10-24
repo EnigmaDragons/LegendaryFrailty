@@ -2851,12 +2851,89 @@
     "id": 24,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          0,
+          32,
+          1
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 1,
+        "parameters": [
+          17
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          0,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          20,
+          20,
+          0,
+          0,
+          400
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 1,
+        "parameters": [
+          32,
+          32,
+          0
+        ]
+      },
+      {
+        "code": 126,
+        "indent": 1,
+        "parameters": [
+          10,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 126,
+        "indent": 1,
+        "parameters": [
+          2,
+          0,
+          0,
+          6
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "InitGameIfNeeded",
     "switchId": 1,
     "trigger": 0
   },

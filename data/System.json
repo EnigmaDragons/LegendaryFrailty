@@ -80,8 +80,8 @@
     "pitch": 100,
     "volume": 100
   },
-  "battleback1Name": "DarkSpace",
-  "battleback2Name": "DarkSpace",
+  "battleback1Name": "FinalBoss",
+  "battleback2Name": "",
   "battlerHue": 0,
   "battlerName": "Dragon",
   "boat": {
@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 12,
+  "editMapId": 0,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 18,
-  "startX": 23,
-  "startY": 59,
+  "startMapId": 10,
+  "startX": 22,
+  "startY": 32,
   "switches": [
     "",
     "Battle1",
@@ -366,7 +366,7 @@
     "",
     "SkillsLearnable",
     "DialogueEnabled",
-    "",
+    "GameWasInitialized",
     "",
     "",
     "",
@@ -485,15 +485,15 @@
   },
   "testBattlers": [
     {
-      "actorId": 1,
+      "actorId": 3,
       "equips": [
         1,
-        1,
-        2,
-        0,
+        6,
+        5,
+        8,
         0
       ],
-      "level": 1
+      "level": 4
     },
     {
       "actorId": 0,
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 5,
+  "testTroopId": 11,
   "title1Name": "Book",
   "title2Name": "",
   "titleBgm": {
@@ -601,7 +601,7 @@
     "",
     ""
   ],
-  "versionId": 57838679,
+  "versionId": 53776665,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

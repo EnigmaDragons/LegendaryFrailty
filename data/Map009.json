@@ -27279,6 +27279,63 @@
               "code": 356,
               "indent": 0,
               "parameters": [
+                "Light activate"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Siren",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                60
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Siren",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                60
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Siren",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
                 "Light off 50"
               ]
             },
@@ -27650,34 +27707,6 @@
               "indent": 0,
               "parameters": [
                 1,
-                61,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 1,
-              "parameters": [
-                "Light deactivate"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 412,
-              "indent": 0,
-              "parameters": []
-            },
-            {
-              "code": 111,
-              "indent": 0,
-              "parameters": [
-                1,
                 63,
                 0,
                 0,
@@ -27782,13 +27811,6 @@
               "indent": 0,
               "parameters": [
                 "Light off 50"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "Light activate"
               ]
             },
             {
@@ -30748,7 +30770,7 @@
               "code": 230,
               "indent": 0,
               "parameters": [
-                20
+                60
               ]
             },
             {
@@ -30767,7 +30789,7 @@
               "code": 230,
               "indent": 0,
               "parameters": [
-                20
+                60
               ]
             },
             {

@@ -2127,8 +2127,8 @@
     6926,
     6941,
     0,
-    6931,
-    6929,
+    6939,
+    6919,
     6929,
     6929,
     6929,
@@ -2171,8 +2171,8 @@
     7282,
     7286,
     0,
+    7283,
     6928,
-    7282,
     7282,
     7282,
     7282,
@@ -2215,8 +2215,8 @@
     7288,
     7292,
     3626,
+    7289,
     6928,
-    7288,
     7288,
     7288,
     7288,
@@ -2258,9 +2258,9 @@
     3604,
     3604,
     3604,
-    3610,
+    3587,
+    3620,
     6928,
-    0,
     0,
     0,
     0,
@@ -2302,9 +2302,9 @@
     3584,
     3584,
     3584,
+    3584,
     3608,
     6928,
-    0,
     0,
     0,
     0,
@@ -2346,9 +2346,9 @@
     3584,
     3584,
     3584,
+    3584,
     3608,
     6928,
-    0,
     0,
     0,
     0,
@@ -2390,9 +2390,9 @@
     3584,
     3584,
     3584,
+    3584,
     3608,
     6928,
-    0,
     0,
     0,
     0,
@@ -2434,9 +2434,9 @@
     3596,
     3612,
     3612,
+    3612,
     3622,
     6928,
-    0,
     0,
     0,
     0,
@@ -2479,6 +2479,7 @@
     6939,
     6929,
     6919,
+    6929,
     6935,
     0,
     0,
@@ -2514,7 +2515,6 @@
     0,
     0,
     0,
-    0,
     7283,
     6928,
     7282,
@@ -2523,8 +2523,8 @@
     7283,
     7282,
     6928,
+    7282,
     7286,
-    0,
     0,
     0,
     0,
@@ -2567,8 +2567,8 @@
     7289,
     7288,
     6928,
+    7288,
     7292,
-    0,
     0,
     0,
     0,
@@ -14637,7 +14637,7 @@
     13,
     13,
     13,
-    13,
+    10,
     10,
     0,
     0,
@@ -14681,7 +14681,7 @@
     13,
     13,
     13,
-    13,
+    10,
     10,
     0,
     0,
@@ -15566,8 +15566,8 @@
     0,
     0,
     10,
-    13,
-    13,
+    10,
+    10,
     13,
     13,
     13,
@@ -15610,8 +15610,8 @@
     0,
     0,
     10,
-    13,
-    13,
+    10,
+    10,
     13,
     13,
     13,
@@ -16557,10 +16557,10 @@
     13,
     13,
     13,
+    10,
     13,
     13,
     10,
-    0,
     0,
     0,
     0,
@@ -16603,6 +16603,7 @@
     13,
     13,
     13,
+    13,
     10,
     0,
     0,
@@ -16620,9 +16621,9 @@
     0,
     0,
     0,
-    0,
     10,
-    13,
+    10,
+    10,
     13,
     13,
     13,
@@ -16664,7 +16665,6 @@
     0,
     0,
     0,
-    0,
     10,
     10,
     10,
@@ -16684,6 +16684,7 @@
     10,
     10,
     10,
+    13,
     13,
     13,
     13,
@@ -16708,7 +16709,6 @@
     0,
     0,
     0,
-    0,
     10,
     10,
     10,
@@ -16728,6 +16728,7 @@
     10,
     10,
     10,
+    13,
     13,
     13,
     13,
@@ -16752,7 +16753,6 @@
     0,
     0,
     0,
-    0,
     10,
     10,
     10,
@@ -16780,7 +16780,7 @@
     10,
     10,
     10,
-    0,
+    10,
     0,
     0,
     0,
@@ -16824,7 +16824,7 @@
     10,
     10,
     10,
-    0,
+    10,
     0,
     0,
     0,
@@ -16868,7 +16868,7 @@
     10,
     10,
     10,
-    0,
+    10,
     0,
     0,
     0,
@@ -16993,8 +16993,8 @@
     0,
     0,
     10,
-    13,
-    13,
+    10,
+    10,
     13,
     13,
     13,
@@ -41203,7 +41203,7 @@
         }
       ],
       "x": 28,
-      "y": 48
+      "y": 56
     },
     {
       "id": 176,
@@ -47024,6 +47024,202 @@
       ],
       "x": 20,
       "y": 4
+    },
+    {
+      "id": 273,
+      "name": "EV273",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Robots sold a lot better than my true passion..."
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 23,
+      "y": 54
+    },
+    {
+      "id": 274,
+      "name": "EV274",
+      "note": "Light 96 #03A9F4 D1",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 27,
+      "y": 48
     }
   ]
 }

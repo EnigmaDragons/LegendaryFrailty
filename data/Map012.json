@@ -39753,6 +39753,17 @@
               ]
             },
             {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                15,
+                15,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -40041,13 +40052,6 @@
               "indent": 1,
               "parameters": [
                 "Tint set #333333"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 1,
-              "parameters": [
-                "Light deactivate"
               ]
             },
             {

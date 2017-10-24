@@ -395,7 +395,7 @@
     "iconIndex": 429,
     "message1": "",
     "message2": "",
-    "mpCost": 27,
+    "mpCost": 21,
     "name": "Densify",
     "note": "Level 3 - Dimensional\n<Learn Cost: 80 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
     "occasion": 1,
@@ -425,7 +425,7 @@
     "iconIndex": 429,
     "message1": "",
     "message2": "",
-    "mpCost": 15,
+    "mpCost": 12,
     "name": "Gravitational Reversal",
     "note": "Level 4 - Dimensional\n<Learn Cost: 120 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
     "occasion": 1,
@@ -449,7 +449,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "",
+    "description": "Accelerate yourself to an extreme speed for the entire battle.",
     "effects": [
       {
         "code": 21,
@@ -462,7 +462,7 @@
     "iconIndex": 429,
     "message1": "",
     "message2": "",
-    "mpCost": 60,
+    "mpCost": 33,
     "name": "Hyperaccelerate",
     "note": "Level 5 - Dimensional \n<Learn Cost: 160 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
     "occasion": 1,
@@ -486,7 +486,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Avoids all forms of harm for 2 turns.",
+    "description": "Avoids all forms of harm for 3 turns.",
     "effects": [
       {
         "code": 21,
@@ -529,7 +529,7 @@
     "iconIndex": 429,
     "message1": "",
     "message2": "",
-    "mpCost": 90,
+    "mpCost": 60,
     "name": "Disintegrate",
     "note": "Ultimate - Dimensional\n<Learn Cost: 300 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
     "occasion": 1,
@@ -741,7 +741,7 @@
     "message2": "",
     "mpCost": 15,
     "name": "Diffusion Barrier",
-    "note": "Level 4 - Esoteric\n<Learn Cost: 120>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<After Eval>\n  var c = user.barrierPoints();\n  var amt = Math.ceil(user.mat * 1.2) - c;\n  user.gainBarrier(amt, 0);\n</After Eval>",
+    "note": "Level 4 - Esoteric\n<Learn Cost: 120 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<After Eval>\n  var c = user.barrierPoints();\n  var amt = Math.ceil(user.mat * 1.2) - c;\n  user.gainBarrier(amt, 0);\n</After Eval>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -771,7 +771,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Force Of Will",
-    "note": "Level 5 - Esoteric\n<Learn Cost: 160>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Passive State: 23>",
+    "note": "Level 5 - Esoteric\n<Learn Cost: 160 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Passive State: 23>",
     "occasion": 3,
     "repeats": 1,
     "requiredWtypeId1": 0,

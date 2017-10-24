@@ -392,12 +392,12 @@
       }
     ],
     "iconIndex": 242,
-    "maxTurns": 2,
+    "maxTurns": 3,
     "message1": "",
     "message2": "",
     "message3": "",
     "message4": "",
-    "minTurns": 2,
+    "minTurns": 3,
     "motion": 0,
     "name": "Ephemeral",
     "note": "<Custom Apply Effect>\n  user.setEva(100);\n  user.setMev(100);\n</Custom Apply Effect>\n\n<Custom Remove Effect>\n  user.clearXParamPlus();\n</Custom Remove Effect>",
@@ -621,7 +621,7 @@
       {
         "code": 22,
         "dataId": 7,
-        "value": 0.025
+        "value": -0.025
       }
     ],
     "iconIndex": 64,
@@ -962,9 +962,14 @@
         "code": 11,
         "dataId": 2,
         "value": 1.2
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.2
       }
     ],
-    "iconIndex": 118,
+    "iconIndex": 0,
     "maxTurns": 1,
     "message1": "",
     "message2": " starts attacking more frantically!",
@@ -974,9 +979,9 @@
     "motion": 0,
     "name": "Frantic",
     "note": "",
-    "overlay": 0,
+    "overlay": 4,
     "priority": 30,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,

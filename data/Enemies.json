@@ -222,7 +222,7 @@
         "kind": 0
       }
     ],
-    "exp": 15,
+    "exp": 18,
     "traits": [],
     "gold": 0,
     "name": "Spider Bot",
@@ -260,7 +260,7 @@
         "kind": 0
       }
     ],
-    "exp": 15,
+    "exp": 18,
     "traits": [],
     "gold": 0,
     "name": "Camera Drone",
@@ -298,7 +298,7 @@
         "kind": 0
       }
     ],
-    "exp": 30,
+    "exp": 36,
     "traits": [],
     "gold": 0,
     "name": "Sentry Bot",
@@ -310,7 +310,7 @@
       6,
       10,
       4,
-      9,
+      10,
       5
     ]
   },
@@ -374,7 +374,7 @@
         "kind": 0
       }
     ],
-    "exp": 45,
+    "exp": 54,
     "traits": [],
     "gold": 0,
     "name": "Hunter Bot",
@@ -412,7 +412,7 @@
         "kind": 0
       }
     ],
-    "exp": 240,
+    "exp": 220,
     "traits": [
       {
         "code": 14,
@@ -427,7 +427,7 @@
       400,
       70,
       21,
-      9,
+      5,
       24,
       3,
       12,
@@ -922,7 +922,7 @@
     "traits": [],
     "gold": 0,
     "name": "Viktor",
-    "note": "Story Character - 1st Encounter\n<JP: 80>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
+    "note": "Story Character - 1st Encounter\n<JP: 10>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
     "params": [
       210,
       432,

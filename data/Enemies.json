@@ -188,7 +188,7 @@
     "traits": [],
     "gold": 0,
     "name": "Repair Bot",
-    "note": "Level 2\n<JP: 10>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nLUK param > 1 +++ HP% param < 40%: Major Repairs, Highest MaxHP\nLUK param > 1 +++ HP% param < 100%: Minor Repairs, Highest MaxHP\nAlways: Zap\n</AI Priority>",
+    "note": "Level 2\n<JP: 10>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nAlways: Arrived\nMaxHP param > 100 +++ LUK param > 1 +++ HP% param < 40%: Major Repairs, Highest MaxHP\nLUK param > 1 +++ HP% param < 100%: Minor Repairs, Highest MaxHP\nAlways: Zap\n</AI Priority>",
     "params": [
       40,
       0,
@@ -340,7 +340,7 @@
     "traits": [],
     "gold": 0,
     "name": "Butler Bot",
-    "note": "Level 0\n<JP: 0>\n\n<AI Priority>\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
+    "note": "Level 0\n<JP: 0>\n\n<AI Priority>\nAlways: Arrived\nAlways: Care For A Drink?\nAlways: Call If You Need Anything\n</AI Priority> ",
     "params": [
       10,
       10,
@@ -413,16 +413,22 @@
       }
     ],
     "exp": 240,
-    "traits": [],
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 22,
+        "value": 1
+      }
+    ],
     "gold": 0,
     "name": "Mining Bot",
-    "note": "Level 3 - Sub-boss\n<JP: 100>\n\n<AI Priority>\nState !== Burning: Flame Burst\nRandom 70%: Drill\nAlways: Bum Rush\n</AI Priority>",
+    "note": "Level 3 - Sub-boss\n<JP: 100>\n\n<AI Priority>\nEval user.isStateAffected(32): Drill\nState !== Burning: Flame Burst\nRandom 70%: Spin Up\nAlways: Bum Rush\n</AI Priority>",
     "params": [
       400,
-      80,
-      22,
+      70,
+      21,
       9,
-      25,
+      24,
       3,
       12,
       10
@@ -921,9 +927,9 @@
       210,
       432,
       26,
-      5,
+      4,
       32,
-      14,
+      15,
       10,
       1
     ]

@@ -2211,7 +2211,7 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "(a.atk * 1.5) - b.def",
+      "formula": "(a.atk * 1.2) - b.def",
       "type": 1,
       "variance": 20
     },
@@ -2276,21 +2276,28 @@
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 21,
+        "dataId": 32,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "",
+    "message1": " is spinning up his drill!",
     "message2": "",
     "mpCost": 0,
-    "name": "",
+    "name": "Spin Up",
     "note": "",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
-    "scope": 1,
+    "scope": 11,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 2,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0

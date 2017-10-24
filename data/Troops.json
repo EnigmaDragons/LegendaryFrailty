@@ -394,26 +394,26 @@
     "members": [
       {
         "enemyId": 8,
-        "x": 334,
+        "x": 385,
         "y": 444,
         "hidden": true
       },
       {
         "enemyId": 10,
-        "x": 522,
-        "y": 384,
+        "x": 573,
+        "y": 381,
         "hidden": true
       },
       {
         "enemyId": 20,
-        "x": 171,
-        "y": 444,
+        "x": 129,
+        "y": 435,
         "hidden": false
       },
       {
         "enemyId": 4,
-        "x": 303,
-        "y": 345,
+        "x": 255,
+        "y": 342,
         "hidden": true
       }
     ],
@@ -613,6 +613,39 @@
             "indent": 0,
             "parameters": [
               3
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+          }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 45,
+          "enemyIndex": 1,
+          "enemyValid": true,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [
+          {
+            "code": 333,
+            "indent": 0,
+            "parameters": [
+              1,
+              0,
+              33
             ]
           },
           {

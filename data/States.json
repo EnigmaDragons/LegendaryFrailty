@@ -621,7 +621,7 @@
       {
         "code": 22,
         "dataId": 7,
-        "value": -0.04
+        "value": 0.025
       }
     ],
     "iconIndex": 64,
@@ -926,22 +926,22 @@
   },
   {
     "id": 32,
-    "autoRemovalTiming": 0,
+    "autoRemovalTiming": 2,
     "chanceByDamage": 100,
     "traits": [],
     "iconIndex": 0,
-    "maxTurns": 1,
+    "maxTurns": 2,
     "message1": "",
     "message2": "",
     "message3": "",
     "message4": "",
-    "minTurns": 1,
+    "minTurns": 2,
     "motion": 0,
-    "name": "",
+    "name": "Spun Up",
     "note": "",
     "overlay": 0,
     "priority": 50,
-    "removeAtBattleEnd": false,
+    "removeAtBattleEnd": true,
     "removeByDamage": false,
     "removeByRestriction": false,
     "removeByWalking": false,
@@ -952,19 +952,30 @@
     "id": 33,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "traits": [],
-    "iconIndex": 0,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 118,
     "maxTurns": 1,
     "message1": "",
-    "message2": "",
+    "message2": " starts attacking more frantically!",
     "message3": "",
     "message4": "",
     "minTurns": 1,
     "motion": 0,
-    "name": "",
+    "name": "Frantic",
     "note": "",
     "overlay": 0,
-    "priority": 50,
+    "priority": 30,
     "removeAtBattleEnd": false,
     "removeByDamage": false,
     "removeByRestriction": false,

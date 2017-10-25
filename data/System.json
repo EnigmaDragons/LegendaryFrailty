@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 10,
+  "editMapId": 22,
   "elements": [
     "",
     "Physical",
@@ -131,7 +131,7 @@
     "",
     ""
   ],
-  "gameTitle": "Working Title - Legendary Frailty",
+  "gameTitle": "Gnosis Disperitus",
   "gameoverMe": {
     "name": "GameOver",
     "pan": 0,
@@ -153,7 +153,7 @@
     true
   ],
   "optDisplayTp": false,
-  "optDrawTitle": true,
+  "optDrawTitle": false,
   "optExtraExp": false,
   "optFloorDeath": false,
   "optFollowers": false,
@@ -530,7 +530,7 @@
     }
   ],
   "testTroopId": 11,
-  "title1Name": "Book",
+  "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
     "name": "World Champions",
@@ -621,7 +621,7 @@
     "",
     ""
   ],
-  "versionId": 41660817,
+  "versionId": 54094058,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

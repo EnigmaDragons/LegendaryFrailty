@@ -983,8 +983,8 @@
     "members": [
       {
         "enemyId": 6,
-        "x": 195,
-        "y": 376,
+        "x": 174,
+        "y": 391,
         "hidden": false
       }
     ],
@@ -1021,8 +1021,8 @@
     "members": [
       {
         "enemyId": 5,
-        "x": 258,
-        "y": 352,
+        "x": 207,
+        "y": 412,
         "hidden": false
       }
     ],
@@ -1152,8 +1152,8 @@
     "members": [
       {
         "enemyId": 7,
-        "x": 330,
-        "y": 438,
+        "x": 339,
+        "y": 429,
         "hidden": false
       },
       {
@@ -1195,30 +1195,6 @@
           }
         ],
         "span": 0
-      },
-      {
-        "conditions": {
-          "actorHp": 50,
-          "actorId": 1,
-          "actorValid": false,
-          "enemyHp": 50,
-          "enemyIndex": 0,
-          "enemyValid": false,
-          "switchId": 1,
-          "switchValid": false,
-          "turnA": 3,
-          "turnB": 0,
-          "turnEnding": false,
-          "turnValid": true
-        },
-        "list": [
-          {
-            "code": 0,
-            "indent": 0,
-            "parameters": []
-          }
-        ],
-        "span": 0
       }
     ]
   },
@@ -1227,20 +1203,20 @@
     "members": [
       {
         "enemyId": 6,
-        "x": 279,
-        "y": 444,
+        "x": 273,
+        "y": 432,
         "hidden": false
       },
       {
         "enemyId": 6,
-        "x": 385,
-        "y": 379,
+        "x": 181,
+        "y": 361,
         "hidden": false
       },
       {
         "enemyId": 8,
-        "x": 127,
-        "y": 397,
+        "x": 115,
+        "y": 429,
         "hidden": true
       }
     ],
@@ -1281,8 +1257,27 @@
   },
   {
     "id": 22,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 5,
+        "x": 226,
+        "y": 364,
+        "hidden": false
+      },
+      {
+        "enemyId": 5,
+        "x": 131,
+        "y": 424,
+        "hidden": false
+      },
+      {
+        "enemyId": 5,
+        "x": 303,
+        "y": 444,
+        "hidden": false
+      }
+    ],
+    "name": "L2 - 3 Spiders",
     "pages": [
       {
         "conditions": {
@@ -1312,8 +1307,15 @@
   },
   {
     "id": 23,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 7,
+        "x": 231,
+        "y": 444,
+        "hidden": false
+      }
+    ],
+    "name": "L2 - 1 Sentry",
     "pages": [
       {
         "conditions": {
@@ -1377,14 +1379,14 @@
     "members": [
       {
         "enemyId": 9,
-        "x": 297,
+        "x": 252,
         "y": 405,
         "hidden": false
       },
       {
         "enemyId": 5,
-        "x": 504,
-        "y": 280,
+        "x": 381,
+        "y": 444,
         "hidden": false
       }
     ],
@@ -1424,21 +1426,9 @@
         "x": 396,
         "y": 424,
         "hidden": false
-      },
-      {
-        "enemyId": 13,
-        "x": 279,
-        "y": 214,
-        "hidden": false
-      },
-      {
-        "enemyId": 13,
-        "x": 417,
-        "y": 163,
-        "hidden": false
       }
     ],
-    "name": "L3 - 1 Flame Bot / 2 Wasps",
+    "name": "L3 - 1 Flame Bot",
     "pages": [
       {
         "conditions": {
@@ -1471,13 +1461,13 @@
     "members": [
       {
         "enemyId": 7,
-        "x": 141,
-        "y": 360,
+        "x": 153,
+        "y": 378,
         "hidden": false
       },
       {
         "enemyId": 7,
-        "x": 381,
+        "x": 366,
         "y": 444,
         "hidden": false
       }
@@ -1514,43 +1504,25 @@
     "id": 28,
     "members": [
       {
-        "enemyId": 13,
-        "x": 269,
-        "y": 238,
+        "enemyId": 4,
+        "x": 219,
+        "y": 352,
         "hidden": false
       },
       {
-        "enemyId": 13,
-        "x": 216,
-        "y": 364,
+        "enemyId": 4,
+        "x": 142,
+        "y": 444,
         "hidden": false
       },
       {
-        "enemyId": 13,
-        "x": 250,
-        "y": 109,
-        "hidden": false
-      },
-      {
-        "enemyId": 13,
-        "x": 386,
-        "y": 358,
-        "hidden": false
-      },
-      {
-        "enemyId": 13,
-        "x": 507,
-        "y": 286,
-        "hidden": false
-      },
-      {
-        "enemyId": 13,
-        "x": 394,
-        "y": 187,
+        "enemyId": 9,
+        "x": 393,
+        "y": 430,
         "hidden": false
       }
     ],
-    "name": "L3 - Wasp Swarm",
+    "name": "L3 - 2 Repair / 1 Hunter",
     "pages": [
       {
         "conditions": {
@@ -1617,9 +1589,21 @@
         "x": 273,
         "y": 418,
         "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 141,
+        "y": 229,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 84,
+        "y": 328,
+        "hidden": false
       }
     ],
-    "name": "L4 - 1 Flame Bot",
+    "name": "L4 - 1 Flame Bot / 2 Wasps",
     "pages": [
       {
         "conditions": {
@@ -1652,14 +1636,14 @@
     "members": [
       {
         "enemyId": 7,
-        "x": 199,
-        "y": 444,
+        "x": 181,
+        "y": 405,
         "hidden": false
       },
       {
         "enemyId": 12,
-        "x": 501,
-        "y": 307,
+        "x": 489,
+        "y": 444,
         "hidden": false
       }
     ],
@@ -1693,8 +1677,45 @@
   },
   {
     "id": 32,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 13,
+        "x": 269,
+        "y": 238,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 216,
+        "y": 364,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 250,
+        "y": 109,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 386,
+        "y": 358,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 507,
+        "y": 286,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 394,
+        "y": 187,
+        "hidden": false
+      }
+    ],
+    "name": "L4 - Wasp Swarm",
     "pages": [
       {
         "conditions": {
@@ -1724,8 +1745,51 @@
   },
   {
     "id": 33,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 13,
+        "x": 191,
+        "y": 151,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 336,
+        "y": 373,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 331,
+        "y": 178,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 434,
+        "y": 271,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 546,
+        "y": 202,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 535,
+        "y": 331,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 198,
+        "y": 403,
+        "hidden": false
+      }
+    ],
+    "name": "L4 - Wasp Swarm 2",
     "pages": [
       {
         "conditions": {
@@ -1786,8 +1850,27 @@
   },
   {
     "id": 35,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 9,
+        "x": 527,
+        "y": 444,
+        "hidden": false
+      },
+      {
+        "enemyId": 9,
+        "x": 377,
+        "y": 352,
+        "hidden": false
+      },
+      {
+        "enemyId": 7,
+        "x": 144,
+        "y": 444,
+        "hidden": false
+      }
+    ],
+    "name": "L5 - 2 Hunters / 1 Sentry",
     "pages": [
       {
         "conditions": {
@@ -1817,8 +1900,33 @@
   },
   {
     "id": 36,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 11,
+        "x": 447,
+        "y": 348,
+        "hidden": false
+      },
+      {
+        "enemyId": 9,
+        "x": 141,
+        "y": 420,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 294,
+        "y": 292,
+        "hidden": false
+      },
+      {
+        "enemyId": 13,
+        "x": 336,
+        "y": 418,
+        "hidden": false
+      }
+    ],
+    "name": "L5 - 1 Flame / 1 Hunter / 2 Wasps",
     "pages": [
       {
         "conditions": {

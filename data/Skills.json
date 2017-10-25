@@ -1710,7 +1710,7 @@
     "damage": {
       "critical": false,
       "elementId": 1,
-      "formula": "(a.atk - b.def) * 0.66",
+      "formula": "Math.ceil((a.atk - b.def + b.lv) * 0.68)",
       "type": 1,
       "variance": 20
     },

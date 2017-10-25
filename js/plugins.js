@@ -183,5 +183,6 @@ var $plugins =
 {"name":"ExitGame","status":true,"description":"Adds a quit button to the main menu and to the in game menu.","parameters":{"Button Text":"Exit Game"}},
 {"name":"BattleAutoSelection","status":true,"description":"Skip the selection window when there is only one available enemy or one available ally.","parameters":{}},
 {"name":"MOG_CollapseEffects","status":true,"description":"(v1.3) Adiciona efeitos de colapsos animados.","parameters":{"Default Collapse":"1","Shatter Direction":"Left"}},
-{"name":"AddedConfusion","status":true,"description":"","parameters":{}}
+{"name":"AddedConfusion","status":true,"description":"","parameters":{}},
+{"name":"MOG_TitlePictureCom","status":true,"description":"(v1.4) Adiciona comandos em imagens no lugar da janela.","parameters":{"Title Sprite":"false","Title Sprite X-Axis":"0","Title Sprite Y-Axis":"0","Cursor Visible":"false","Cursor Wave Animation":"true","Cursor X-Axis":"8","Cursor Y-Axis":"-10","Command Pos 1":"60,600","Command Pos 2":"360,600","Command Pos 3":"660,600","Command Pos 4":"960,600","Command Pos 5":"0,498","Command Pos 6":"0,530","Command Pos 7":"0,192","Command Pos 8":"0,224","Command Pos 9":"0,256","Command Pos 10":"0,288"}}
 ];

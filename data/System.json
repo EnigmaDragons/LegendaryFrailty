@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 15,
+  "editMapId": 10,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 9,
-  "startX": 33,
-  "startY": 54,
+  "startMapId": 10,
+  "startX": 22,
+  "startY": 32,
   "switches": [
     "",
     "Battle1",
@@ -355,7 +355,7 @@
     "Battle18",
     "TechDemonstrationFinished",
     "ShowLateGameSkills",
-    "",
+    "ViktorHasLeft",
     "",
     "",
     "",
@@ -621,7 +621,7 @@
     "",
     ""
   ],
-  "versionId": 44904934,
+  "versionId": 41660817,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

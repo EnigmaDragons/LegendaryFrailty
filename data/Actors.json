@@ -8,7 +8,7 @@
     "classId": 3,
     "equips": [
       1,
-      6,
+      10,
       5,
       5,
       0
@@ -16,7 +16,7 @@
     "faceIndex": 0,
     "faceName": "FrailtyFaces",
     "traits": [],
-    "initialLevel": 1,
+    "initialLevel": 10,
     "maxLevel": 99,
     "name": "Anselm - The Legend",
     "nickname": "",

@@ -42,19 +42,13 @@
     "id": 2,
     "members": [
       {
-        "enemyId": 1,
-        "x": 337,
-        "y": 436,
-        "hidden": false
-      },
-      {
-        "enemyId": 1,
-        "x": 480,
-        "y": 436,
+        "enemyId": 2,
+        "x": 261,
+        "y": 427,
         "hidden": false
       }
     ],
-    "name": "DEBUG",
+    "name": "1 Undead Samurai",
     "pages": [
       {
         "conditions": {

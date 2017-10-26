@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 12,
+  "editMapId": 22,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 18,
-  "startX": 23,
-  "startY": 6,
+  "startMapId": 9,
+  "startX": 42,
+  "startY": 53,
   "switches": [
     "",
     "Battle1",
@@ -533,7 +533,7 @@
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
-    "name": "World Champions",
+    "name": "TitleTheme",
     "pan": 0,
     "pitch": 100,
     "volume": 90
@@ -621,7 +621,7 @@
     "",
     ""
   ],
-  "versionId": 7696768,
+  "versionId": 94604327,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 22,
+  "editMapId": 18,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 9,
-  "startX": 42,
-  "startY": 53,
+  "startMapId": 18,
+  "startX": 23,
+  "startY": 6,
   "switches": [
     "",
     "Battle1",
@@ -545,10 +545,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
+    "CurrentX",
+    "CurrentY",
+    "LastX",
+    "LastY",
     "RespawnMap",
     "RespawnX",
     "RespawnY",
@@ -621,7 +621,7 @@
     "",
     ""
   ],
-  "versionId": 94604327,
+  "versionId": 86049989,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

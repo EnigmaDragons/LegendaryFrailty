@@ -523,307 +523,12 @@
     "id": 8,
     "list": [
       {
-        "code": 205,
-        "indent": 0,
-        "parameters": [
-          0,
-          {
-            "list": [
-              {
-                "code": 33,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  60
-                ],
-                "indent": null
-              },
-              {
-                "code": 18,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  60
-                ],
-                "indent": null
-              },
-              {
-                "code": 17,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  60
-                ],
-                "indent": null
-              },
-              {
-                "code": 16,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  60
-                ],
-                "indent": null
-              },
-              {
-                "code": 19,
-                "indent": null
-              },
-              {
-                "code": 0
-              }
-            ],
-            "repeat": false,
-            "skippable": false,
-            "wait": true
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 33,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              60
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 18,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              60
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 17,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              60
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 16,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              60
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 19,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 212,
-        "indent": 0,
-        "parameters": [
-          0,
-          127,
-          false
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [
-          20
-        ]
-      },
-      {
-        "code": 355,
-        "indent": 0,
-        "parameters": [
-          "this.I = 0;"
-        ]
-      },
-      {
-        "code": 112,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          12,
-          "($gamePlayer.x === $gameMap.event(this._eventId)._x || $gamePlayer.x - 2 === $gameMap.event(this._eventId)._x || $gamePlayer.x - 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 2 === $gameMap.event(this._eventId)._x) && ($gamePlayer.y === $gameMap.event(this._eventId)._y || $gamePlayer.y - 2 === $gameMap.event(this._eventId)._y || $gamePlayer.y - 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 2 === $gameMap.event(this._eventId)._y)"
-        ]
-      },
-      {
-        "code": 201,
-        "indent": 2,
-        "parameters": [
-          1,
-          10,
-          11,
-          12,
-          8,
-          0
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 2,
-        "parameters": [
-          42,
-          42,
-          0,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 115,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 355,
-        "indent": 1,
-        "parameters": [
-          "this.I++;"
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          12,
-          "this.I === 20"
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 413,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [
-          140
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "BombTrap",
+    "name": "",
     "switchId": 1,
     "trigger": 0
   },
@@ -1096,6 +801,15 @@
         "parameters": [
           12,
           "$gamePlayer.x === $gameMap.event(this._eventId)._x && $gamePlayer.y === $gameMap.event(this._eventId)._y"
+        ]
+      },
+      {
+        "code": 212,
+        "indent": 2,
+        "parameters": [
+          -1,
+          1,
+          true
         ]
       },
       {
@@ -2792,11 +2506,48 @@
     "id": 21,
     "list": [
       {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "$gameMap.event(this._eventId).LastX = $gameMap.event(this._eventId).CurrentX;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "$gameMap.event(this._eventId).CurrentX = $gameMap.event(this._eventId)._x;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "$gameMap.event(this._eventId).LastY = $gameMap.event(this._eventId).CurrentY;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "$gameMap.event(this._eventId).CurrentY = $gameMap.event(this._eventId)._y;"
+        ]
+      },
+      {
         "code": 111,
         "indent": 0,
         "parameters": [
           12,
-          "$gamePlayer.x === $gameMap.event(this._eventId)._x && $gamePlayer.y === $gameMap.event(this._eventId)._y"
+          "($gamePlayer.x === $gameMap.event(this._eventId).CurrentX && $gamePlayer.y === $gameMap.event(this._eventId).CurrentY) || ($gameMap.event(this._eventId).CurrentX === $gameVariables.value(8) && $gameMap.event(this._eventId).LastX === $gameVariables.value(6) && $gameMap.event(this._eventId).CurrentY === $gameVariables.value(9) && $gameMap.event(this._eventId).LastY === $gameVariables.value(7))"
+        ]
+      },
+      {
+        "code": 212,
+        "indent": 1,
+        "parameters": [
+          -1,
+          77,
+          true
         ]
       },
       {

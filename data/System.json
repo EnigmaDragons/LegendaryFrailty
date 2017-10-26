@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 18,
+  "editMapId": 17,
   "elements": [
     "",
     "Physical",
@@ -615,13 +615,13 @@
     "Trap2Convo",
     "",
     "SpikeConvo",
-    "",
-    "",
+    "ColorConvo",
+    "DiskConvo",
     "",
     "",
     ""
   ],
-  "versionId": 86049989,
+  "versionId": 14404736,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

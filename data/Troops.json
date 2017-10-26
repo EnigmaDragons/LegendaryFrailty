@@ -84,8 +84,15 @@
   },
   {
     "id": 3,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 17,
+        "x": 204,
+        "y": 406,
+        "hidden": false
+      }
+    ],
+    "name": "1 Gun Thug",
     "pages": [
       {
         "conditions": {

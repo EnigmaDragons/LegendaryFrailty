@@ -252,19 +252,13 @@
   },
   {
     "id": 10,
-    "atypeId": 0,
-    "description": "",
+    "atypeId": 2,
+    "description": "Channel dimensional energy to gain MP at the start of your turn.",
     "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
+    "traits": [],
+    "iconIndex": 414,
+    "name": "Dimension Ring",
+    "note": "Legendary\n\n<Passive State: 12>",
     "params": [
       0,
       0,

@@ -79,7 +79,7 @@
     "order": 9,
     "parentId": 0,
     "scrollX": 1416,
-    "scrollY": 2338.6666666666665
+    "scrollY": 1883.9999999999998
   },
   {
     "id": 10,
@@ -96,68 +96,60 @@
     "name": "TechRailExit",
     "order": 11,
     "parentId": 0,
-    "scrollX": 1621.5,
-    "scrollY": 1468.5
+    "scrollX": 1621.7142857142856,
+    "scrollY": 1469.1428571428571
   },
   {
     "id": 12,
     "expanded": false,
     "name": "FinalDeathTrap",
-    "order": 19,
+    "order": 18,
     "parentId": 0,
-    "scrollX": 1081.3333333333333,
-    "scrollY": 790.66666666666663
+    "scrollX": 1390.2857142857142,
+    "scrollY": 793.71428571428567
   },
   {
     "id": 13,
     "expanded": false,
-    "name": "ElectricRoom",
+    "name": "SpikeRoom",
     "order": 12,
     "parentId": 0,
-    "scrollX": 1786.909090909091,
-    "scrollY": 1005.8181818181819
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
-  {
-    "id": 14,
-    "expanded": false,
-    "name": "BombRoom",
-    "order": 13,
-    "parentId": 0,
-    "scrollX": 648.8,
-    "scrollY": 368.8
-  },
+  null,
   {
     "id": 15,
     "expanded": false,
     "name": "PowerRoom",
-    "order": 14,
+    "order": 13,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 16,
     "expanded": false,
     "name": "SubBossRoom",
-    "order": 15,
+    "order": 14,
     "parentId": 0,
-    "scrollX": 1622,
-    "scrollY": 1526
+    "scrollX": 1390.2857142857142,
+    "scrollY": 1525.7142857142856
   },
   {
     "id": 17,
     "expanded": false,
     "name": "ColorRoom",
-    "order": 16,
+    "order": 15,
     "parentId": 0,
-    "scrollX": 1786.909090909091,
-    "scrollY": 1005.8181818181819
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 18,
     "expanded": false,
     "name": "SecondFloor",
-    "order": 17,
+    "order": 16,
     "parentId": 0,
     "scrollX": 1390.2857142857142,
     "scrollY": 790.28571428571422
@@ -165,17 +157,17 @@
   {
     "id": 19,
     "expanded": false,
-    "name": "RingRoom",
-    "order": 18,
+    "name": "DiskRoom",
+    "order": 17,
     "parentId": 0,
-    "scrollX": 540.66666666666663,
-    "scrollY": 307.33333333333331
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 20,
     "expanded": false,
     "name": "FinalBoss",
-    "order": 20,
+    "order": 19,
     "parentId": 0,
     "scrollX": 1404,
     "scrollY": 790.28571428571422
@@ -184,7 +176,7 @@
     "id": 21,
     "expanded": false,
     "name": "WaterPalace",
-    "order": 21,
+    "order": 20,
     "parentId": 0,
     "scrollX": 1228.5,
     "scrollY": 691.5
@@ -193,7 +185,7 @@
     "id": 22,
     "expanded": false,
     "name": "WaterTemple",
-    "order": 22,
+    "order": 21,
     "parentId": 0,
     "scrollX": 1092,
     "scrollY": 614.66666666666663
@@ -202,7 +194,7 @@
     "id": 23,
     "expanded": false,
     "name": "Kitchen",
-    "order": 23,
+    "order": 22,
     "parentId": 0,
     "scrollX": 1092,
     "scrollY": 614.66666666666663
@@ -211,16 +203,43 @@
     "id": 24,
     "expanded": false,
     "name": "RoboticRepair",
-    "order": 24,
+    "order": 23,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 25,
     "expanded": false,
     "name": "DemonstrationRoom",
+    "order": 24,
+    "parentId": 0,
+    "scrollX": 832,
+    "scrollY": 640
+  },
+  {
+    "id": 26,
+    "expanded": false,
+    "name": "MiniSpikeRoom",
     "order": 25,
+    "parentId": 0,
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
+  },
+  {
+    "id": 27,
+    "expanded": false,
+    "name": "MiniColorRoom",
+    "order": 26,
+    "parentId": 0,
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
+  },
+  {
+    "id": 28,
+    "expanded": false,
+    "name": "MiniDiskRoom",
+    "order": 27,
     "parentId": 0,
     "scrollX": 832,
     "scrollY": 640

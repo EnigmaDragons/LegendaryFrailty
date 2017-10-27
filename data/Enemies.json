@@ -240,7 +240,7 @@
     "traits": [],
     "gold": 0,
     "name": "Camera Drone",
-    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Scan Intruder\nUser HP% param <= 50%: Transmit Report\nAlways: Zap\n</AI Priority>\n\n",
+    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Scan Intruder\nState !== Tracked +++ Random 40%: Tracking Target\nAlways: Zap\n</AI Priority>\n\n",
     "params": [
       32,
       30,

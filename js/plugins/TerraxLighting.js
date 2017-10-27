@@ -714,7 +714,10 @@ Imported.TerraxLighting = true;
 					var lightarray_state = $gameVariables.GetLightArrayState();
 					var lightarray_color = $gameVariables.GetLightArrayColor();
 
-					var lightid = Number(args[1]);
+					if (args[1] === "variable")
+						var lightid = $gameVariables.value(Number(args[2]))
+					else
+						var lightid = Number(args[1]);
 					var idfound = false;
 					for (var i = 0; i < lightarray_id.length; i++) {
 						if (lightarray_id[i] == lightid) {

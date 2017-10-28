@@ -164,5 +164,6 @@ var $plugins =
 {"name":"MOG_CollapseEffects","status":true,"description":"(v1.3) Adiciona efeitos de colapsos animados.","parameters":{"Default Collapse":"1","Shatter Direction":"Left"}},
 {"name":"AddedConfusion","status":true,"description":"","parameters":{}},
 {"name":"MOG_TitlePictureCom","status":true,"description":"(v1.4) Adiciona comandos em imagens no lugar da janela.","parameters":{"Title Sprite":"false","Title Sprite X-Axis":"0","Title Sprite Y-Axis":"0","Cursor Visible":"false","Cursor Wave Animation":"true","Cursor X-Axis":"8","Cursor Y-Axis":"-10","Command Pos 1":"60,600","Command Pos 2":"360,600","Command Pos 3":"660,600","Command Pos 4":"960,600","Command Pos 5":"0,498","Command Pos 6":"0,530","Command Pos 7":"0,192","Command Pos 8":"0,224","Command Pos 9":"0,256","Command Pos 10":"0,288"}},
-{"name":"MOG_TitleSplashScreen","status":false,"description":"(v1.0) Adiciona logos antes da tela de título.","parameters":{"Splash Frames":"1","Slash Duration":"140","Splash Fade Duration":"3","Full Screen Mode":"true"}}
+{"name":"MOG_TitleSplashScreen","status":false,"description":"(v1.0) Adiciona logos antes da tela de título.","parameters":{"Splash Frames":"1","Slash Duration":"140","Splash Fade Duration":"3","Full Screen Mode":"true"}},
+{"name":"SRD_SmoothCamera","status":true,"description":"Gives the camera of your game smoother motion during gameplay and specific camera motions.","parameters":{"Delay Power":"5","Cut Off Value":"0.02"}}
 ];

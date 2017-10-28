@@ -310,7 +310,7 @@
   {
     "id": 12,
     "animationId": 0,
-    "consumable": true,
+    "consumable": false,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -319,16 +319,23 @@
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 26,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
-    "iconIndex": 0,
+    "iconIndex": 245,
     "itypeId": 1,
-    "name": "",
+    "name": "DEBUG - Level Up",
     "note": "",
-    "occasion": 0,
+    "occasion": 2,
     "price": 0,
     "repeats": 1,
-    "scope": 7,
+    "scope": 0,
     "speed": 0,
     "successRate": 100,
     "tpGain": 0

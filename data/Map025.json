@@ -9026,40 +9026,10 @@
           },
           "list": [
             {
-              "code": 101,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "FrailtyFaces",
-                4,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Would you care for a refreshing beverage?"
-              ]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "RefreshingDrink",
-                  "volume": 90,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            {
-              "code": 314,
-              "indent": 0,
-              "parameters": [
-                0,
-                0
+                8
               ]
             },
             {

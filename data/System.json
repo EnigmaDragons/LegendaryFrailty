@@ -1,7 +1,7 @@
 {
   "airship": {
     "bgm": {
-      "name": "Blank",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -86,7 +86,7 @@
   "battlerName": "Dragon",
   "boat": {
     "bgm": {
-      "name": "Blank",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 21,
+  "editMapId": 22,
   "elements": [
     "",
     "Physical",
@@ -165,7 +165,7 @@
   ],
   "ship": {
     "bgm": {
-      "name": "Blank",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -186,43 +186,43 @@
   ],
   "sounds": [
     {
-      "name": "Cursor2",
+      "name": "GD_Cursor",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Decision1",
+      "name": "GD_Select",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Cancel2",
+      "name": "GD_Cancel",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Buzzer1",
+      "name": "GD_Unavailable",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Equip1",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Save",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
     },
     {
-      "name": "Load",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -312,7 +312,7 @@
       "volume": 90
     },
     {
-      "name": "Shop1",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 21,
-  "startX": 14,
-  "startY": 22,
+  "startMapId": 22,
+  "startX": 7,
+  "startY": 44,
   "switches": [
     "",
     "Battle1",
@@ -641,7 +641,7 @@
     "",
     ""
   ],
-  "versionId": 71886349,
+  "versionId": 42402417,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

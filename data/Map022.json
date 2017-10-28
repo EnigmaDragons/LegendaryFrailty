@@ -4707,6 +4707,13 @@
               ]
             },
             {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
+                "Light radius 40 #FFFFFF"
+              ]
+            },
+            {
               "code": 122,
               "indent": 1,
               "parameters": [
@@ -14207,25 +14214,31 @@
               ]
             },
             {
-              "code": 101,
+              "code": 102,
               "indent": 0,
               "parameters": [
-                "FrailtyFaces",
+                [
+                  "I am here to seek your favor and dwell here in your temple.",
+                  "It looks like you need a new guardian.",
+                  "I shall make your temple more grand."
+                ],
+                -1,
                 0,
-                0,
-                2
+                2,
+                0
               ]
             },
             {
-              "code": 401,
+              "code": 402,
               "indent": 0,
               "parameters": [
-                "I am here to seek your favor and dwell in your temple."
+                0,
+                "I am here to seek your favor and dwell here in your temple."
               ]
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "FrailtyFaces",
                 2,
@@ -14235,17 +14248,87 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "You have great strength, if you protect my temple you may "
               ]
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "reside here."
               ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "It looks like you need a new guardian."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap> You have proven yourself worthy of that title and I welcome you to stay here."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "I shall make your temple more grand."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap> As long as you protect my temple from those that may be tempted by a grand temple. You may drink of the magic water and build upon the temple."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 101,
@@ -14341,8 +14424,8 @@
               "parameters": [
                 0,
                 21,
-                13,
-                5,
+                22,
+                30,
                 0,
                 0
               ]

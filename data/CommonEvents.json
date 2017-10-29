@@ -3910,12 +3910,78 @@
     "id": 36,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          83,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          4,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Everyone has a fear of spiders. "
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Enemies will scream and run away at that sight of my Spider Bot."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          83,
+          83,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SpiderConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3923,12 +3989,61 @@
     "id": 37,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          84,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>Smile for the camera! As your recorded death will be used in the next advertisement for the Camera Drone."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          84,
+          84,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "CameraConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3936,12 +4051,61 @@
     "id": 38,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          85,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          5,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Minigun Apparatus is the perfect weapon when collateral damage is a plus!"
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          85,
+          85,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "MinigunConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3949,12 +4113,61 @@
     "id": 39,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          86,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "No prey is too difficult for the Hunter."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          86,
+          86,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "HunterConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3962,12 +4175,61 @@
     "id": 40,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          87,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>The hottest new Purification Bot for reducing your enemies to ashes."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          87,
+          87,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "FlameConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3975,12 +4237,61 @@
     "id": 41,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          88,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>The 24/7 Bodyguard Bot. You don’t need another bodyguard that sleeps on the job!"
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          88,
+          88,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "BodyguardConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -3988,12 +4299,61 @@
     "id": 42,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          89,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          5,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>The sting of death delivered in a quick and silent package. Wasp Drone."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          89,
+          89,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "WaspConvo",
     "switchId": 1,
     "trigger": 0
   },
@@ -4001,12 +4361,61 @@
     "id": 43,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          91,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "Actor_FW02_03",
+          5,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>Do your bots need a fixer upper, this little Robot Companion will have them running like they are fresh out of the box."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          91,
+          91,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "RepairConvo",
     "switchId": 1,
     "trigger": 0
   },

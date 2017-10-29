@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 16,
+  "editMapId": 11,
   "elements": [
     "",
     "Physical",
@@ -628,10 +628,10 @@
     "HunterConvo",
     "FlameConvo",
     "BodyguardConvo",
-    "WaspBot",
+    "WaspConvo",
     "PowerDeviceConvo",
-    "",
-    "",
+    "RepairConvo",
+    "TrainExitConvo",
     "",
     "",
     "",
@@ -641,7 +641,7 @@
     "",
     ""
   ],
-  "versionId": 95818964,
+  "versionId": 12045655,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

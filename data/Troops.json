@@ -1008,53 +1008,11 @@
         },
         "list": [
           {
-            "code": 111,
+            "code": 117,
             "indent": 0,
             "parameters": [
-              1,
-              84,
-              0,
-              0,
-              0
+              37
             ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "<WordWrap>Smile for the camera! As your recorded death will be used in the next advertisement for the Camera Drone."
-            ]
-          },
-          {
-            "code": 122,
-            "indent": 1,
-            "parameters": [
-              84,
-              84,
-              0,
-              0,
-              1
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 1,
-            "parameters": []
-          },
-          {
-            "code": 412,
-            "indent": 0,
-            "parameters": []
           },
           {
             "code": 0,
@@ -1095,70 +1053,11 @@
         },
         "list": [
           {
-            "code": 111,
+            "code": 117,
             "indent": 0,
             "parameters": [
-              1,
-              83,
-              0,
-              0,
-              0
+              36
             ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              4,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "Everyone has a fear of spiders. "
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "Enemies will scream and run away at that sight of my Spider Bot."
-            ]
-          },
-          {
-            "code": 122,
-            "indent": 1,
-            "parameters": [
-              83,
-              83,
-              0,
-              0,
-              1
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 1,
-            "parameters": []
-          },
-          {
-            "code": 412,
-            "indent": 0,
-            "parameters": []
           },
           {
             "code": 0,
@@ -1329,6 +1228,13 @@
         },
         "list": [
           {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              38
+            ]
+          },
+          {
             "code": 0,
             "indent": 0,
             "parameters": []
@@ -1410,53 +1316,11 @@
         },
         "list": [
           {
-            "code": 111,
+            "code": 117,
             "indent": 0,
             "parameters": [
-              1,
-              84,
-              0,
-              0,
-              0
+              37
             ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "<WordWrap>Smile for the camera! As your recorded death will be used in the next advertisement for the Camera Drone."
-            ]
-          },
-          {
-            "code": 122,
-            "indent": 1,
-            "parameters": [
-              84,
-              84,
-              0,
-              0,
-              1
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 1,
-            "parameters": []
-          },
-          {
-            "code": 412,
-            "indent": 0,
-            "parameters": []
           },
           {
             "code": 0,
@@ -1609,9 +1473,16 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              38
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1684,9 +1555,54 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              83,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              36
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              39
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1722,9 +1638,16 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              40
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1766,9 +1689,16 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              38
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1816,9 +1746,54 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              86,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              39
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              43
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1897,9 +1872,54 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              87,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              40
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              42
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,
@@ -1941,9 +1961,54 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              88,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              41
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              38
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,
@@ -2009,9 +2074,16 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              42
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -2083,9 +2155,16 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+              42
+            ]
+          },
           {
             "code": 0,
             "indent": 0,
@@ -2164,9 +2243,54 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              85,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              38
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              39
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,
@@ -2220,9 +2344,92 @@
           "turnA": 0,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
+          {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+              1,
+              87,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+              40
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+          },
+          {
+            "code": 111,
+            "indent": 1,
+            "parameters": [
+              1,
+              89,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "code": 117,
+            "indent": 2,
+            "parameters": [
+              42
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 2,
+            "parameters": []
+          },
+          {
+            "code": 411,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 117,
+            "indent": 2,
+            "parameters": [
+              39
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 2,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+          },
           {
             "code": 0,
             "indent": 0,

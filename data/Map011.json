@@ -24747,6 +24747,13 @@
               "code": 356,
               "indent": 1,
               "parameters": [
+                "FocusCamera player 0"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
                 "Tint set #333333"
               ]
             },

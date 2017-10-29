@@ -3745,10 +3745,69 @@
         "parameters": []
       },
       {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "YouDied",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0,
+          180,
+          true
+        ]
+      },
+      {
         "code": 230,
         "indent": 0,
         "parameters": [
-          420
+          80
+        ]
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          0,
+          0,
+          180,
+          true
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
         ]
       },
       {

@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 22,
+  "editMapId": 10,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 22,
-  "startX": 7,
-  "startY": 44,
+  "startMapId": 14,
+  "startX": 4,
+  "startY": 5,
   "switches": [
     "",
     "Battle1",
@@ -622,14 +622,14 @@
     "Intro3Convo",
     "Intro4Convo",
     "Intro5Convo",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "SpiderConvo",
+    "CameraConvo",
+    "MinigunConvo",
+    "HunterConvo",
+    "FlameConvo",
+    "BodyguardConvo",
+    "WaspBot",
+    "PowerDeviceConvo",
     "",
     "",
     "",
@@ -641,7 +641,7 @@
     "",
     ""
   ],
-  "versionId": 42402417,
+  "versionId": 47752311,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

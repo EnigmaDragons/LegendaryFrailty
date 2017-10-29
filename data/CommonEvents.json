@@ -2115,6 +2115,28 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          58,
+          58,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          59,
+          59,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -3945,12 +3967,122 @@
     "id": 37,
     "list": [
       {
+        "code": 212,
+        "indent": 0,
+        "parameters": [
+          0,
+          127,
+          false
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          20
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "this.I = 0;"
+        ]
+      },
+      {
+        "code": 112,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          12,
+          "($gamePlayer.x === $gameMap.event(this._eventId)._x || $gamePlayer.x - 2 === $gameMap.event(this._eventId)._x || $gamePlayer.x - 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 1 === $gameMap.event(this._eventId)._x || $gamePlayer.x + 2 === $gameMap.event(this._eventId)._x) && ($gamePlayer.y === $gameMap.event(this._eventId)._y || $gamePlayer.y - 2 === $gameMap.event(this._eventId)._y || $gamePlayer.y - 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 1 === $gameMap.event(this._eventId)._y || $gamePlayer.y + 2 === $gameMap.event(this._eventId)._y)"
+        ]
+      },
+      {
+        "code": 201,
+        "indent": 2,
+        "parameters": [
+          1,
+          10,
+          11,
+          12,
+          8,
+          0
+        ]
+      },
+      {
+        "code": 115,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 355,
+        "indent": 1,
+        "parameters": [
+          "this.I++;"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          12,
+          "this.I === 20"
+        ]
+      },
+      {
+        "code": 113,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 413,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "Explosion",
     "switchId": 1,
     "trigger": 0
   },

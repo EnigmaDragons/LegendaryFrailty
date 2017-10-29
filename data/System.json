@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 19,
+  "editMapId": 20,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 22,
-  "startX": 7,
-  "startY": 44,
+  "startMapId": 18,
+  "startX": 23,
+  "startY": 7,
   "switches": [
     "",
     "Battle1",
@@ -597,8 +597,8 @@
     "InitMiniColorRoom",
     "InitMiniDiskRoom",
     "InitWaterTemple",
-    "",
-    "",
+    "InitBossRoom",
+    "InitBossRun",
     "",
     "StayConvo",
     "EnterConvo",
@@ -638,10 +638,10 @@
     "",
     "",
     "",
-    "",
+    "SelfDestructInitialized",
     "HealthBarVisible"
   ],
-  "versionId": 89788506,
+  "versionId": 6091494,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

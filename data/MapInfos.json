@@ -9,7 +9,15 @@
     "scrollX": 1404,
     "scrollY": 776.57142857142856
   },
-  null,
+  {
+    "id": 2,
+    "expanded": false,
+    "name": "SelfDestrcutRun",
+    "order": 22,
+    "parentId": 18,
+    "scrollX": 816,
+    "scrollY": 794
+  },
   null,
   null,
   null,
@@ -31,8 +39,8 @@
     "name": "TechRailEntrance",
     "order": 5,
     "parentId": 9,
-    "scrollX": 1621.7142857142856,
-    "scrollY": 1736.5714285714284
+    "scrollX": 1608,
+    "scrollY": 1722.8571428571427
   },
   {
     "id": 11,
@@ -49,8 +57,8 @@
     "name": "FinalDeathTrap",
     "order": 20,
     "parentId": 18,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1390.2857142857142,
+    "scrollY": 793.71428571428567
   },
   {
     "id": 13,
@@ -58,8 +66,8 @@
     "name": "SpikeRoom",
     "order": 15,
     "parentId": 18,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 14,
@@ -94,17 +102,17 @@
     "name": "ColorRoom",
     "order": 17,
     "parentId": 18,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 18,
-    "expanded": false,
+    "expanded": true,
     "name": "SecondFloor",
     "order": 13,
     "parentId": 0,
     "scrollX": 1390.2857142857142,
-    "scrollY": 922.28571428571422
+    "scrollY": 790.28571428571422
   },
   {
     "id": 19,
@@ -121,8 +129,8 @@
     "name": "FinalBoss",
     "order": 21,
     "parentId": 18,
-    "scrollX": 1638,
-    "scrollY": 922
+    "scrollX": 1404,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 21,
@@ -200,7 +208,7 @@
     "id": 29,
     "expanded": false,
     "name": "Credits",
-    "order": 22,
+    "order": 23,
     "parentId": 0,
     "scrollX": 1404,
     "scrollY": 790.28571428571422

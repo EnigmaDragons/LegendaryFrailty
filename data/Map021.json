@@ -27093,8 +27093,8 @@
               "parameters": [
                 [
                   "Are you responsible for the green water?",
-                  "I have defended this temple for centuries from monsters 10 times your size. What do you got punk?",
-                  "Anselm 3: This is but a humble temple and does not hold treasure."
+                  "I have fended off insects stronger than you!",
+                  "This is but a humble temple and does not hold treasure."
                 ],
                 -1,
                 0,
@@ -27132,7 +27132,7 @@
               "indent": 1,
               "parameters": [
                 [
-                  "I have defended this temple for centuries from monsters 10 times your size. What do you got punk?",
+                  "I have fended off insects stronger than you!",
                   "This is but a humble temple and does not hold treasure."
                 ],
                 -1,
@@ -27146,7 +27146,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "I have defended this temple for centuries from monsters 10 times your size. What do you got punk?"
+                "I have fended off insects stronger than you!"
               ]
             },
             {
@@ -27216,7 +27216,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "I have defended this temple for centuries from monsters 10 times your size. What do you got punk?"
+                "I have fended off insects stronger than you!"
               ]
             },
             {
@@ -27246,7 +27246,7 @@
               "indent": 0,
               "parameters": [
                 2,
-                "Anselm 3: This is but a humble temple and does not hold treasure."
+                "This is but a humble temple and does not hold treasure."
               ]
             },
             {
@@ -27281,6 +27281,17 @@
               "indent": 0,
               "parameters": [
                 35
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                100,
+                100,
+                0,
+                0,
+                1
               ]
             },
             {

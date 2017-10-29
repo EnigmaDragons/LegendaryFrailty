@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 10,
+  "editMapId": 16,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 14,
-  "startX": 4,
-  "startY": 5,
+  "startMapId": 16,
+  "startX": 8,
+  "startY": 17,
   "switches": [
     "",
     "Battle1",
@@ -356,7 +356,7 @@
     "TechDemonstrationFinished",
     "ShowLateGameSkills",
     "ViktorHasLeft",
-    "",
+    "IsInDungeon",
     "",
     "",
     "",
@@ -542,8 +542,8 @@
     "",
     "Player Level",
     "Random Number",
-    "",
-    "",
+    "RespawnHp",
+    "RespawnMp",
     "",
     "CurrentX",
     "CurrentY",
@@ -641,7 +641,7 @@
     "",
     ""
   ],
-  "versionId": 47752311,
+  "versionId": 95818964,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

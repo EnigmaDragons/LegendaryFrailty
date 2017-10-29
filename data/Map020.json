@@ -1545,6 +1545,13 @@
           },
           "list": [
             {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                33
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -1567,7 +1574,7 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 1,
           "walkAnime": true
         }
       ],

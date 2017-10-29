@@ -87,7 +87,7 @@
     "name": "TechRailEntrance",
     "order": 10,
     "parentId": 0,
-    "scrollX": 1621.3333333333333,
+    "scrollX": 1622,
     "scrollY": 1736
   },
   {
@@ -117,7 +117,15 @@
     "scrollX": 1404,
     "scrollY": 790.28571428571422
   },
-  null,
+  {
+    "id": 14,
+    "expanded": false,
+    "name": "TrainEntrance",
+    "order": 28,
+    "parentId": 0,
+    "scrollX": 832,
+    "scrollY": 640
+  },
   {
     "id": 15,
     "expanded": false,
@@ -178,8 +186,8 @@
     "name": "WaterPalace",
     "order": 20,
     "parentId": 0,
-    "scrollX": 1228.5,
-    "scrollY": 691.5
+    "scrollX": 1390.2857142857142,
+    "scrollY": 1129.7142857142856
   },
   {
     "id": 22,
@@ -187,8 +195,8 @@
     "name": "WaterTemple",
     "order": 21,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 1390.2857142857142,
+    "scrollY": 790.28571428571422
   },
   {
     "id": 23,

@@ -80,6 +80,10 @@
  * @param AutoRefresh
  * @desc Set this to false to disable automatic refresh of the gauge
  * @default true
+ * 
+ * @param HideVariable
+ * @desc Specify a variable that you can set to 1 or 0 to determine ists visibility
+ * @default 0
  *
  * @help
  * ============================================================================
@@ -156,6 +160,12 @@ if (Imported["OrangeHudGauge"] === undefined) {
     } else if (parseInt(paramsLine.GaugeBackColor, 10) == paramsLine.GaugeBackColor) {
       paramsLine.GaugeBackColor = parseInt(paramsLine.GaugeBackColor, 10);
     }
+
+    if (!paramsLine.HideVariable) {
+      paramsLine.HideVariable = 0;
+    } else {
+      paramsLine.HideVariable = Number(paramsLine.HideVariable);
+    }
   };
 
   OrangeHudGauge.realX = function(variableData) {
@@ -197,6 +207,9 @@ if (Imported["OrangeHudGauge"] === undefined) {
   };
 
   OrangeHudGauge.drawGauge = function(hudWindow, variableData) {
+    if (variableData.HideVariable !== 0 && $gameVariables.value(variableData.HideVariable) === 0)
+      return;
+
     var x = this.realX(variableData);
     var y = this.realY(variableData);
 

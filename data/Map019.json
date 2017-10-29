@@ -12462,14 +12462,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The problem with projectile traps is you keep on having to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "replace the projectile."
+                "<WordWrap>The problem with projectile traps is you keep on having to replace the projectile."
               ]
             },
             {
@@ -12486,7 +12479,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well I solved it with these dangerious disks."
+                "Well I solved it with these dangerous disks."
               ]
             },
             {

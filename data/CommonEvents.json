@@ -3626,12 +3626,68 @@
     "id": 35,
     "list": [
       {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "DisableVictoryAftermath"
+        ]
+      },
+      {
+        "code": 301,
+        "indent": 0,
+        "parameters": [
+          0,
+          3,
+          false,
+          true
+        ]
+      },
+      {
+        "code": 601,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 603,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 117,
+        "indent": 1,
+        "parameters": [
+          34
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 604,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "EnableVictoryAftermath"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "StartThugBattle",
     "switchId": 1,
     "trigger": 0
   },

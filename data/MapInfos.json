@@ -18,7 +18,15 @@
     "scrollX": 816,
     "scrollY": 794
   },
-  null,
+  {
+    "id": 3,
+    "expanded": false,
+    "name": "Intro",
+    "order": 24,
+    "parentId": 0,
+    "scrollX": 1638,
+    "scrollY": 922
+  },
   null,
   null,
   null,
@@ -26,12 +34,12 @@
   null,
   {
     "id": 9,
-    "expanded": true,
+    "expanded": false,
     "name": "FirstFloor",
     "order": 4,
     "parentId": 0,
-    "scrollX": 1621.7142857142856,
-    "scrollY": 1923.4285714285713
+    "scrollX": 1622,
+    "scrollY": 1924
   },
   {
     "id": 10,
@@ -107,12 +115,12 @@
   },
   {
     "id": 18,
-    "expanded": true,
+    "expanded": false,
     "name": "SecondFloor",
     "order": 13,
     "parentId": 0,
-    "scrollX": 1390.2857142857142,
-    "scrollY": 790.28571428571422
+    "scrollX": 1622,
+    "scrollY": 922
   },
   {
     "id": 19,
@@ -129,8 +137,8 @@
     "name": "FinalBoss",
     "order": 21,
     "parentId": 18,
-    "scrollX": 1404,
-    "scrollY": 790.28571428571422
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 21,
@@ -143,12 +151,12 @@
   },
   {
     "id": 22,
-    "expanded": true,
+    "expanded": false,
     "name": "WaterTemple",
     "order": 1,
     "parentId": 0,
-    "scrollX": 1390.2857142857142,
-    "scrollY": 1369.7142857142856
+    "scrollX": 1622,
+    "scrollY": 1238
   },
   {
     "id": 23,

@@ -3313,12 +3313,69 @@
     "id": 31,
     "list": [
       {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          6,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0,
+          70,
+          true
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          160
+        ]
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          6,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          0,
+          0,
+          85,
+          true
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          6
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          15
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "FadeInAndOutText",
     "switchId": 1,
     "trigger": 0
   },

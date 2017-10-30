@@ -914,7 +914,7 @@
   },
   {
     "id": 30,
-    "animationId": 0,
+    "animationId": 135,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -930,7 +930,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Bash",
-    "note": "Level 1 - Martial\n<Learn Cost: 0 JP>\n<Rarity: 3>",
+    "note": "Level 1 - Martial\n<Learn Cost: 0 JP>\n<Rarity: 3>\n\n<Target Action>\nperform start\nmotion swing: user\nmove user: target, front center, 15\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 15\nmove user: home\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -944,7 +944,7 @@
   },
   {
     "id": 31,
-    "animationId": 0,
+    "animationId": 136,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -960,7 +960,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Essence Strike",
-    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0)\n    ++user._paramPlus[attackParamId];\n</Post-Damage Eval>",
+    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0) \n    ++user._paramPlus[attackParamId];\n</Post-Damage Eval>\n\n<Target Action>\nimmortal: targets, true\nperform start\nmove user: backward, 50, 4\nwait for movement\nmove user: target, front center, 15\nwait: 8\nmotion thrust: user\nwait: 7\naction animation\naction effect\nwait for animation\nif (target.hp <= 0)\n  flash: 0, 130, 130, 70, 3\n  animation 137: target\nend\n\nimmortal: targets, false\nwait: 20\nmove user: home\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 36,
-    "animationId": 0,
+    "animationId": 135,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -1117,9 +1117,9 @@
     "message2": "",
     "mpCost": 30,
     "name": "Quarterstaff Quadra-Strike",
-    "note": "Ultimate - Martial\n<Learn Cost: 300 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>",
+    "note": "Ultimate - Martial\n<Learn Cost: 300 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\n\nmove user: target, front center, 25\nwait: 5\njump user: 400, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\n\nmove user: target, back, 15\nwait: 6\nmotion swing: user\nface user: backward\nwait for movement\naction animation\naction effect\nwait for animation\n\njump user: 250, 15\nmove user: target, front center, 15\nwait: 6\nmotion swing: user\nface user: forward\nwait for movement\naction animation\naction effect\nwait for animation\n\njump user: 250, 15\nmove user: target, back center, 15\nwait: 6\nmotion swing: user\nface user: backward\nwait for movement\naction animation\naction effect\nwait for animation\n\nwait: 20\nmove user: home\n</Target Action>",
     "occasion": 1,
-    "repeats": 4,
+    "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,

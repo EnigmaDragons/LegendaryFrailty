@@ -27710,7 +27710,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 6
@@ -27770,7 +27770,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 6
@@ -27830,7 +27830,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 6
@@ -27890,7 +27890,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 6

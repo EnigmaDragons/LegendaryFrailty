@@ -2144,10 +2144,10 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful2",
+            "characterName": "!FuturisticUseful2",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 5
@@ -2221,10 +2221,10 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful2",
+            "characterName": "!FuturisticUseful2",
             "direction": 4,
             "pattern": 2,
             "characterIndex": 5
@@ -2298,10 +2298,10 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful2",
+            "characterName": "!FuturisticUseful2",
             "direction": 4,
             "pattern": 2,
             "characterIndex": 5
@@ -2375,10 +2375,10 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful2",
+            "characterName": "!FuturisticUseful2",
             "direction": 6,
             "pattern": 1,
             "characterIndex": 6

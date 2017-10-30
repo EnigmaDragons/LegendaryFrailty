@@ -1101,7 +1101,7 @@
   },
   {
     "id": 36,
-    "animationId": 0,
+    "animationId": 135,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -1117,9 +1117,9 @@
     "message2": "",
     "mpCost": 30,
     "name": "Quarterstaff Quadra-Strike",
-    "note": "Ultimate - Martial\n<Learn Cost: 300 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>",
+    "note": "Ultimate - Martial\n<Learn Cost: 300 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\n\nmove user: target, front center, 25\nwait: 5\njump user: 400, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\n\nmove user: target, back, 15\nwait: 6\nmotion swing: user\nface user: backward\nwait for movement\naction animation\naction effect\nwait for animation\n\njump user: 250, 15\nmove user: target, front center, 15\nwait: 6\nmotion swing: user\nface user: forward\nwait for movement\naction animation\naction effect\nwait for animation\n\njump user: 250, 15\nmove user: target, back center, 15\nwait: 6\nmotion swing: user\nface user: backward\nwait for movement\naction animation\naction effect\nwait for animation\n\nwait: 20\nmove user: home\n</Target Action>",
     "occasion": 1,
-    "repeats": 4,
+    "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,

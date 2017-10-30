@@ -1011,7 +1011,7 @@
   },
   {
     "id": 33,
-    "animationId": 0,
+    "animationId": 139,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -1027,7 +1027,7 @@
     "message2": "",
     "mpCost": 12,
     "name": "Skillful Strike",
-    "note": "Level 4 - Martial\n<Learn Cost: 120 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<After Eval>\n  var polarizedStateId = 24;\n  var stunnedStateId = 25;\n  if (user.hasState(polarizedStateId))\n    target.addState(stunnedStateId);\n</After Eval>",
+    "note": "Level 4 - Martial\n<Learn Cost: 120 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<After Eval>\n  var polarizedStateId = 24;\n  var stunnedStateId = 25;\n  if (user.hasState(polarizedStateId))\n    target.addState(stunnedStateId);\n</After Eval>\n\n<Target Action>\nmove user: point, 750, 320, 12\nse: GD_Swoosh\nwait: 35\nmove user: point, 620, 520, 12\nse: GD_Swoosh\nwait: 35\nmove user: target, head, 20\nse: GD_Swoosh\nwait: 8\njump user: 50, 12\nmotion swing: user\nwait: 5\naction animation\naction effect\nwait for animation\n\nwait: 20\nperform finish\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

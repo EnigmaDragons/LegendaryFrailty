@@ -166,5 +166,6 @@ var $plugins =
 {"name":"MOG_TitleSplashScreen","status":false,"description":"(v1.0) Adiciona logos antes da tela de título.","parameters":{"Splash Frames":"1","Slash Duration":"140","Splash Fade Duration":"3","Full Screen Mode":"true"}},
 {"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"false"}},
 {"name":"SRD_SmoothCamera","status":true,"description":"Gives the camera of your game smoother motion during gameplay and specific camera motions.","parameters":{"Delay Power":"5","Cut Off Value":"0.02"}},
-{"name":"TDDP_PreloadManager","status":true,"description":"1.1.1 Preload resources on scene/map load as well as game startup for a smoother gameplay experience.          id:TDDP_PreloadManager","parameters":{"Preload On Map Load":"true","Preload System Music":"true","Preload System SFX":"true","Print Debug to Console":"false"}}
+{"name":"TDDP_PreloadManager","status":true,"description":"1.1.1 Preload resources on scene/map load as well as game startup for a smoother gameplay experience.          id:TDDP_PreloadManager","parameters":{"Preload On Map Load":"true","Preload System Music":"true","Preload System SFX":"true","Print Debug to Console":"false"}},
+{"name":"ED_Credits","status":true,"description":"","parameters":{}}
 ];

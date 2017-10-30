@@ -26953,9 +26953,159 @@
               ]
             },
             {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                62,
+                {
+                  "list": [
+                    {
+                      "code": 16,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 16,
+                  "indent": null
+                }
+              ]
+            },
+            {
               "code": 222,
               "indent": 0,
               "parameters": []
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                62,
+                {
+                  "list": [
+                    {
+                      "code": 17,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 19,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 17,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 19,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
             },
             {
               "code": 123,
@@ -27017,6 +27167,125 @@
           },
           "list": [
             {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                62,
+                {
+                  "list": [
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 17,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 16,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 17,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 16,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
               "code": 221,
               "indent": 0,
               "parameters": []
@@ -27040,7 +27309,7 @@
                 0,
                 11,
                 32,
-                35,
+                36,
                 0,
                 0
               ]
@@ -36794,7 +37063,7 @@
     },
     {
       "id": 62,
-      "name": "Checkpoint",
+      "name": "CheckpointRail",
       "note": "",
       "pages": [
         {
@@ -36815,11 +37084,11 @@
           },
           "directionFix": false,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 8,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 0
           },
           "list": [
             {
@@ -49230,7 +49499,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 1
@@ -49296,7 +49565,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 4,
             "pattern": 1,
             "characterIndex": 1
@@ -49414,7 +49683,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 1
@@ -49488,7 +49757,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 4,
             "pattern": 1,
             "characterIndex": 1
@@ -49599,7 +49868,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 1
@@ -49673,7 +49942,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "FuturisticUseful",
+            "characterName": "!FuturisticUseful",
             "direction": 4,
             "pattern": 1,
             "characterIndex": 1

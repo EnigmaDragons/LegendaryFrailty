@@ -914,7 +914,7 @@
   },
   {
     "id": 30,
-    "animationId": 0,
+    "animationId": 135,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -930,7 +930,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Bash",
-    "note": "Level 1 - Martial\n<Learn Cost: 0 JP>\n<Rarity: 3>",
+    "note": "Level 1 - Martial\n<Learn Cost: 0 JP>\n<Rarity: 3>\n\n<Target Action>\nperform start\nmotion swing: user\nmove user: target, front center, 15\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 15\nmove user: home\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

@@ -1,5 +1,5 @@
 {
-  "autoplayBgm": false,
+  "autoplayBgm": true,
   "autoplayBgs": false,
   "battleback1Name": "",
   "battleback2Name": "",
@@ -1441,7 +1441,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "this.I = 0;"
+                "this.I = 180;"
               ]
             },
             {
@@ -1453,14 +1453,14 @@
               "code": 230,
               "indent": 1,
               "parameters": [
-                4
+                1
               ]
             },
             {
               "code": 355,
               "indent": 1,
               "parameters": [
-                "this.I++;"
+                "this.I--;"
               ]
             },
             {
@@ -1501,7 +1501,7 @@
               "indent": 1,
               "parameters": [
                 12,
-                "this.I === 45;"
+                "this.I === 0;"
               ]
             },
             {
@@ -1544,7 +1544,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "this.I = 0;"
+                "this.I = 4340"
               ]
             },
             {
@@ -1556,7 +1556,7 @@
               "code": 355,
               "indent": 1,
               "parameters": [
-                "this.I++;"
+                "this.I -= 4;"
               ]
             },
             {
@@ -1567,7 +1567,7 @@
                 97,
                 2,
                 0,
-                5
+                4
               ]
             },
             {
@@ -1584,7 +1584,7 @@
                 100,
                 255,
                 0,
-                5,
+                2,
                 true
               ]
             },
@@ -1626,7 +1626,7 @@
               "indent": 1,
               "parameters": [
                 12,
-                "this.I === 625"
+                "this.I <= 0"
               ]
             },
             {

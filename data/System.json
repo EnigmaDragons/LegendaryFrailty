@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 20,
+  "editMapId": 12,
   "elements": [
     "",
     "Physical",
@@ -599,7 +599,7 @@
     "InitWaterTemple",
     "InitBossRoom",
     "InitBossRun",
-    "",
+    "InitWaterPalace",
     "StayConvo",
     "EnterConvo",
     "LeaveConvo",
@@ -632,8 +632,8 @@
     "PowerDeviceConvo",
     "RepairConvo",
     "TrainExitConvo",
-    "",
-    "",
+    "DeathTrapConvo",
+    "DeathTrap2Convo",
     "",
     "",
     "",
@@ -641,7 +641,7 @@
     "SelfDestructInitialized",
     "HealthBarVisible"
   ],
-  "versionId": 6091494,
+  "versionId": 23499252,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

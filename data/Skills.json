@@ -974,7 +974,7 @@
   },
   {
     "id": 32,
-    "animationId": 0,
+    "animationId": 138,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -997,7 +997,7 @@
     "message2": "",
     "mpCost": 3,
     "name": "Polarize Weapon",
-    "note": "Level 3 - Martial\n<Learn Cost: 80 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>",
+    "note": "Level 3 - Martial\n<Learn Cost: 80 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\nmotion thrust: user\naction animation\naction effect\nwait for animation\nperform finish\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

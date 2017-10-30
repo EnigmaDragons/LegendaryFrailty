@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 12,
+  "editMapId": 29,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 18,
-  "startX": 23,
-  "startY": 7,
+  "startMapId": 3,
+  "startX": 16,
+  "startY": 12,
   "switches": [
     "",
     "Battle1",
@@ -635,13 +635,13 @@
     "DeathTrapConvo",
     "DeathTrap2Convo",
     "",
-    "",
-    "",
-    "",
+    "CreditsX",
+    "CreditsY",
+    "ShouldGoToCredits",
     "SelfDestructInitialized",
     "HealthBarVisible"
   ],
-  "versionId": 23499252,
+  "versionId": 73555711,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

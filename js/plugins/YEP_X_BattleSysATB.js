@@ -1835,7 +1835,7 @@ Game_Battler.prototype.updateATBStates = function() {
       if (!state) continue;
       if (!this._stateTurns[stateId]) continue;
       if (state.restriction >= 4 && state.autoRemovalTiming !== 0) {
-        var value = BattleManager.tickRate() / Yanfly.Param.BECTurnTime;
+        var value = (this.atbCharge() + this.atbSpeedTick()) / BattleManager.atbTarget();
         this._stateTurns[stateId] -= value;
         if (this._stateTurns[stateId] <= 0) this.removeState(stateId);
       }

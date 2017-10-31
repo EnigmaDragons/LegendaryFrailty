@@ -2460,6 +2460,15 @@
         "code": 121,
         "indent": 1,
         "parameters": [
+          31,
+          31,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 1,
+        "parameters": [
           32,
           32,
           0

@@ -63191,24 +63191,10 @@
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "gainJp 1 200"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "gainJp 2 200"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "gainJp 3 200"
+                40
               ]
             },
             {

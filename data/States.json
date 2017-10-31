@@ -4,7 +4,7 @@
     "id": 1,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
-    "iconIndex": 1,
+    "iconIndex": 410,
     "maxTurns": 1,
     "message1": " has fallen!",
     "message2": " is slain!",
@@ -287,7 +287,7 @@
         "value": 1.1
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 406,
     "maxTurns": 1,
     "message1": " is now being tracked.",
     "message2": "",
@@ -320,7 +320,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Legendary Willpower",
-    "note": "<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(user.mmp - user.mp, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
+    "note": "No Status Icon\n\n<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(user.mmp - user.mp, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,
@@ -341,7 +341,7 @@
         "value": 1
       }
     ],
-    "iconIndex": 128,
+    "iconIndex": 422,
     "maxTurns": 1,
     "message1": "",
     "message2": "",
@@ -381,7 +381,7 @@
         "value": 0
       }
     ],
-    "iconIndex": 242,
+    "iconIndex": 405,
     "maxTurns": 3,
     "message1": "",
     "message2": "",
@@ -411,7 +411,7 @@
         "value": 2.25
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 423,
     "maxTurns": 3,
     "message1": "",
     "message2": "",
@@ -434,7 +434,7 @@
     "id": 16,
     "autoRemovalTiming": 2,
     "chanceByDamage": 50,
-    "iconIndex": 6,
+    "iconIndex": 407,
     "maxTurns": 2,
     "message1": " is overwhelmed!",
     "message2": " is overwhelmed!",
@@ -493,7 +493,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Dimensional Willpower",
-    "note": "<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(3, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
+    "note": "No Status Icon\n\n<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(3, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,
@@ -524,7 +524,7 @@
         "value": 1.8
       }
     ],
-    "iconIndex": 305,
+    "iconIndex": 419,
     "maxTurns": 1,
     "message1": "",
     "message2": "",
@@ -563,7 +563,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Speed Boost",
-    "note": "",
+    "note": "No Status Icon",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,
@@ -584,7 +584,7 @@
         "value": 2
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 424,
     "maxTurns": 1,
     "message1": " is laser targetted!",
     "message2": "",
@@ -614,7 +614,7 @@
         "value": -0.025
       }
     ],
-    "iconIndex": 64,
+    "iconIndex": 404,
     "maxTurns": 2,
     "message1": " is burning!",
     "message2": " is burning!",
@@ -647,7 +647,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Force Of Will",
-    "note": "<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(3, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
+    "note": "No Status Icon\n\n<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(3, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,
@@ -668,7 +668,7 @@
         "value": 1.4
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 420,
     "maxTurns": 5,
     "message1": "'s weapon become polarized.",
     "message2": "",
@@ -692,7 +692,7 @@
     "autoRemovalTiming": 1,
     "chanceByDamage": 100,
     "traits": [],
-    "iconIndex": 9,
+    "iconIndex": 409,
     "maxTurns": 1,
     "message1": " is stunned and cannot move.",
     "message2": " is stunned and cannot move.",
@@ -725,7 +725,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "WasSiphoned",
-    "note": "",
+    "note": "No Status Icon",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,
@@ -780,7 +780,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Dimensionally Empowered",
-    "note": "<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(user.mmp - user.mp, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
+    "note": "No Status Icon\n\n<Custom Turn Start Effect>\n  if (user.mp < user.mmp)\n    user.gainMp(user.mmp - user.mp, true)\n  user.startDamagePopup();\n  user.clearResult();\n</Custom Turn Start Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,
@@ -810,7 +810,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Staff Master's Stance",
-    "note": "",
+    "note": "No Status Icon",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": false,
@@ -834,7 +834,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Growing Confidence",
-    "note": "<Custom Conclude Effect>\n  if (target.hp < 1) {\n    var percentAmt  = Math.ceil(user.mhp * 4/100);\n    var minHeal = 6;\n    var adjustedAmt = Math.max(percentAmt, minHeal);    \n    \n    var missingHp = user.mhp - user.hp;\n    var amt = Math.min(adjustedAmt, missingHp);\n    \n    user.gainHp(adjustedAmt, true);\n    user.startDamagePopup();\n    user.clearResult();\n  }\n</Custom Conclude Effect>\n\n<Custom Victory Effect>\n  user.setMat(user.mat + 1);\n</Custom Victory Effect>",
+    "note": "No Status Icon\n\n<Custom Conclude Effect>\n  if (target.hp < 1) {\n    var percentAmt  = Math.ceil(user.mhp * 4/100);\n    var minHeal = 6;\n    var adjustedAmt = Math.max(percentAmt, minHeal);    \n    \n    var missingHp = user.mhp - user.hp;\n    var amt = Math.min(adjustedAmt, missingHp);\n    \n    user.gainHp(adjustedAmt, true);\n    user.startDamagePopup();\n    user.clearResult();\n  }\n</Custom Conclude Effect>\n\n<Custom Victory Effect>\n  user.setMat(user.mat + 1);\n</Custom Victory Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,
@@ -860,7 +860,7 @@
         "value": 1.25
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 425,
     "maxTurns": 4,
     "message1": "",
     "message2": "",
@@ -895,7 +895,7 @@
         "value": 1.8
       }
     ],
-    "iconIndex": 0,
+    "iconIndex": 403,
     "maxTurns": 2,
     "message1": "",
     "message2": "'s gun is charged!",
@@ -919,7 +919,7 @@
     "autoRemovalTiming": 2,
     "chanceByDamage": 100,
     "traits": [],
-    "iconIndex": 0,
+    "iconIndex": 426,
     "maxTurns": 2,
     "message1": "",
     "message2": "",
@@ -968,7 +968,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Frantic",
-    "note": "",
+    "note": "No Status Icon",
     "overlay": 4,
     "priority": 30,
     "removeAtBattleEnd": true,

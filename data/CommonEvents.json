@@ -3310,6 +3310,20 @@
         "parameters": []
       },
       {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "$gameSystem.onBeforeSave();"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "DataManager.saveGameWithoutRescue(2);"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []

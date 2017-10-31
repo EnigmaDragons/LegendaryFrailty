@@ -4383,6 +4383,33 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You also found the electrical room key!"
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 0,
+              "parameters": [
+                3,
+                0,
+                0,
+                1
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []

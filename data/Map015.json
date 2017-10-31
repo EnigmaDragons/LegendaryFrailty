@@ -6587,7 +6587,7 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
             "characterName": "!Chest",
@@ -8633,7 +8633,7 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
             "characterName": "!Chest",
@@ -16144,8 +16144,8 @@
           "walkAnime": false
         }
       ],
-      "x": 17,
-      "y": 16
+      "x": 30,
+      "y": 15
     },
     {
       "id": 77,

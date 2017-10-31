@@ -4246,37 +4246,6 @@
         ]
       },
       {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "FrailtyFaces",
-          6,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "You discovered the voice commands that are used to "
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "summon Viktor's Butler bots. You can now order a"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "Steak and Lobster dinner in the middle of battle!"
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -4678,7 +4647,7 @@
         "indent": 1,
         "parameters": [
           12,
-          "this.I === 12"
+          "this.I === 21"
         ]
       },
       {

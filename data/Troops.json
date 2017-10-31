@@ -1011,7 +1011,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              37
+              47
             ]
           },
           {
@@ -1056,7 +1056,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              36
+              46
             ]
           },
           {
@@ -1231,7 +1231,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              38
+              48
             ]
           },
           {
@@ -1319,7 +1319,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              37
+              47
             ]
           },
           {
@@ -1373,70 +1373,11 @@
         },
         "list": [
           {
-            "code": 111,
+            "code": 117,
             "indent": 0,
             "parameters": [
-              1,
-              83,
-              0,
-              0,
-              0
+              46
             ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              4,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "Everyone has a fear of spiders. "
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 1,
-            "parameters": [
-              "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 1,
-            "parameters": [
-              "Enemies will scream and run away at that sight of my Spider Bot."
-            ]
-          },
-          {
-            "code": 122,
-            "indent": 1,
-            "parameters": [
-              83,
-              83,
-              0,
-              0,
-              1
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 1,
-            "parameters": []
-          },
-          {
-            "code": 412,
-            "indent": 0,
-            "parameters": []
           },
           {
             "code": 0,
@@ -1480,7 +1421,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              38
+              48
             ]
           },
           {
@@ -1573,7 +1514,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              36
+              46
             ]
           },
           {
@@ -1590,7 +1531,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              39
+              49
             ]
           },
           {
@@ -1645,7 +1586,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              40
+              50
             ]
           },
           {
@@ -1696,7 +1637,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              38
+              48
             ]
           },
           {
@@ -1764,7 +1705,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              39
+              49
             ]
           },
           {
@@ -1781,7 +1722,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              43
+              53
             ]
           },
           {
@@ -1890,7 +1831,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              40
+              50
             ]
           },
           {
@@ -1907,7 +1848,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              42
+              52
             ]
           },
           {
@@ -1979,7 +1920,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              41
+              51
             ]
           },
           {
@@ -1996,7 +1937,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              38
+              48
             ]
           },
           {
@@ -2081,7 +2022,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              42
+              52
             ]
           },
           {
@@ -2162,7 +2103,7 @@
             "code": 117,
             "indent": 0,
             "parameters": [
-              42
+              52
             ]
           },
           {
@@ -2261,7 +2202,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              38
+              48
             ]
           },
           {
@@ -2278,7 +2219,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              39
+              49
             ]
           },
           {
@@ -2362,7 +2303,7 @@
             "code": 117,
             "indent": 1,
             "parameters": [
-              40
+              50
             ]
           },
           {
@@ -2390,7 +2331,7 @@
             "code": 117,
             "indent": 2,
             "parameters": [
-              42
+              52
             ]
           },
           {
@@ -2407,7 +2348,7 @@
             "code": 117,
             "indent": 2,
             "parameters": [
-              39
+              49
             ]
           },
           {

@@ -6597,21 +6597,18 @@
           },
           "list": [
             {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                17,
-                17,
-                0,
-                0,
-                40
-              ]
-            },
-            {
               "code": 117,
               "indent": 0,
               "parameters": [
-                10
+                38
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
               ]
             },
             {
@@ -8646,56 +8643,10 @@
           },
           "list": [
             {
-              "code": 318,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                0,
-                0,
-                0,
-                5
-              ]
-            },
-            {
-              "code": 249,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "Victory2",
-                  "volume": 90,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                6,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You discovered the voice commands that are used to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "summon Viktor's Butler bots. You can now order a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Steak and Lobster dinner in the middle of battle!"
+                39
               ]
             },
             {

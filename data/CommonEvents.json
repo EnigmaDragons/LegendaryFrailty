@@ -1031,438 +1031,12 @@
     "id": 10,
     "list": [
       {
-        "code": 205,
-        "indent": 0,
-        "parameters": [
-          0,
-          {
-            "list": [
-              {
-                "code": 44,
-                "parameters": [
-                  {
-                    "name": "Chest1",
-                    "volume": 100,
-                    "pitch": 100,
-                    "pan": 0
-                  }
-                ],
-                "indent": null
-              },
-              {
-                "code": 17,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 18,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 19,
-                "indent": null
-              },
-              {
-                "code": 15,
-                "parameters": [
-                  6
-                ],
-                "indent": null
-              },
-              {
-                "code": 0
-              }
-            ],
-            "repeat": false,
-            "skippable": false,
-            "wait": true
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 44,
-            "parameters": [
-              {
-                "name": "Chest1",
-                "volume": 100,
-                "pitch": 100,
-                "pan": 0
-              }
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 17,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 18,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 19,
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 505,
-        "indent": 0,
-        "parameters": [
-          {
-            "code": 15,
-            "parameters": [
-              6
-            ],
-            "indent": null
-          }
-        ]
-      },
-      {
-        "code": 249,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Victory2",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
-        "code": 355,
-        "indent": 0,
-        "parameters": [
-          "this.I = 0;"
-        ]
-      },
-      {
-        "code": 112,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          2,
-          "PowerCrystal1",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          2,
-          "PowerCrystal2",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          2,
-          "PowerCrystal3",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 231,
-        "indent": 1,
-        "parameters": [
-          2,
-          "PowerCrystal4",
-          0,
-          0,
-          0,
-          0,
-          100,
-          100,
-          255,
-          0
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          4
-        ]
-      },
-      {
-        "code": 355,
-        "indent": 1,
-        "parameters": [
-          "this.I++;"
-        ]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          12,
-          "this.I === 12"
-        ]
-      },
-      {
-        "code": 235,
-        "indent": 2,
-        "parameters": [
-          2
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 413,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "Heal3",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
-        ]
-      },
-      {
-        "code": 112,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [
-          1,
-          17,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "code": 113,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 317,
-        "indent": 1,
-        "parameters": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 311,
-        "indent": 1,
-        "parameters": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          false
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          19,
-          19,
-          1,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          17,
-          17,
-          2,
-          0,
-          1
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 1,
-        "parameters": [
-          3
-        ]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 413,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 123,
-        "indent": 0,
-        "parameters": [
-          "A",
-          0
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "PowerCrystalChest",
+    "name": "",
     "switchId": 1,
     "trigger": 0
   },
@@ -4202,12 +3776,422 @@
     "id": 38,
     "list": [
       {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          41
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          2,
+          "VitalityCrystalRewardText",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          42
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          2
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "Heal3",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          20
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          3,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          4,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          5,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          6,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          7,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          0,
+          0,
+          80
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 112,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          17,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 113,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 311,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          false
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          1,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          17,
+          17,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 413,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          95,
+          95,
+          1,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "PowerCrystalChest",
     "switchId": 1,
     "trigger": 0
   },
@@ -4215,12 +4199,90 @@
     "id": 39,
     "list": [
       {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          41
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          2,
+          "OrderSteakAndLobsterRewardText",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          42
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          2
+        ]
+      },
+      {
+        "code": 318,
+        "indent": 0,
+        "parameters": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "FrailtyFaces",
+          6,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "You discovered the voice commands that are used to "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "summon Viktor's Butler bots. You can now order a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Steak and Lobster dinner in the middle of battle!"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SteakChest",
     "switchId": 1,
     "trigger": 0
   },
@@ -4228,12 +4290,70 @@
     "id": 40,
     "list": [
       {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          41
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          2,
+          "JobPointsRewardText",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          42
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          2
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "gainJp 1 200"
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "gainJp 2 200"
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "gainJp 3 200"
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "JPChest",
     "switchId": 1,
     "trigger": 0
   },
@@ -4241,12 +4361,189 @@
     "id": 41,
     "list": [
       {
+        "code": 205,
+        "indent": 0,
+        "parameters": [
+          0,
+          {
+            "list": [
+              {
+                "code": 36,
+                "indent": null
+              },
+              {
+                "code": 44,
+                "parameters": [
+                  {
+                    "name": "Chest1",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                  }
+                ],
+                "indent": null
+              },
+              {
+                "code": 17,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  6
+                ],
+                "indent": null
+              },
+              {
+                "code": 18,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  6
+                ],
+                "indent": null
+              },
+              {
+                "code": 19,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  6
+                ],
+                "indent": null
+              },
+              {
+                "code": 35,
+                "indent": null
+              },
+              {
+                "code": 0
+              }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": true
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 36,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 44,
+            "parameters": [
+              {
+                "name": "Chest1",
+                "volume": 100,
+                "pitch": 100,
+                "pan": 0
+              }
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 17,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              6
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 18,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              6
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 19,
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 15,
+            "parameters": [
+              6
+            ],
+            "indent": null
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [
+          {
+            "code": 35,
+            "indent": null
+          }
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "OpenChest",
     "switchId": 1,
     "trigger": 0
   },
@@ -4254,12 +4551,175 @@
     "id": 42,
     "list": [
       {
+        "code": 249,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "Victory2",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "this.I = 0;"
+        ]
+      },
+      {
+        "code": 112,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [
+          1,
+          "Reward1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [
+          1,
+          "Reward2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [
+          1,
+          "Reward3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [
+          1,
+          "Reward4",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 1,
+        "parameters": [
+          4
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 1,
+        "parameters": [
+          "this.I++;"
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          12,
+          "this.I === 12"
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 2,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 113,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 413,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "ChestAnimation",
     "switchId": 1,
     "trigger": 0
   },

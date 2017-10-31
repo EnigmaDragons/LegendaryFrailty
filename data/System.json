@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 29,
+  "editMapId": 12,
   "elements": [
     "",
     "Physical",
@@ -634,14 +634,14 @@
     "TrainExitConvo",
     "DeathTrapConvo",
     "DeathTrap2Convo",
-    "",
+    "HealthChestsGained",
     "CreditsX",
     "CreditsY",
     "ShouldGoToCredits",
     "SelfDestructInitialized",
     "HealthBarVisible"
   ],
-  "versionId": 73555711,
+  "versionId": 22376171,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

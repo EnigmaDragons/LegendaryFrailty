@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 12,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -331,8 +331,8 @@
     }
   ],
   "startMapId": 3,
-  "startX": 16,
-  "startY": 12,
+  "startX": 15,
+  "startY": 11,
   "switches": [
     "",
     "Battle1",
@@ -641,7 +641,7 @@
     "SelfDestructInitialized",
     "HealthBarVisible"
   ],
-  "versionId": 22376171,
+  "versionId": 18610187,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

@@ -133,7 +133,7 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "Math.max(Math.ceil(a.maxHp / 3), 50)",
+      "formula": "Math.max(Math.ceil(a.mhp / 3), 50)",
       "type": 3,
       "variance": 20
     },
@@ -146,7 +146,7 @@
     "mpCost": 6,
     "name": "Order Steak and Lobster",
     "note": "",
-    "occasion": 1,
+    "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,

@@ -2400,7 +2400,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "Dungeon_B",
+            "characterName": "!Dungeon_B",
             "direction": 4,
             "pattern": 0,
             "characterIndex": 1

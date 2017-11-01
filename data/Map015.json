@@ -24261,14 +24261,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What do you intend to do in here, it's just boring machines in "
+                "What do you intend to do in here? \\.\\."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here."
+                "There is nothing but boring machines."
               ]
             },
             {
@@ -24361,7 +24361,7 @@
         }
       ],
       "x": 2,
-      "y": 7
+      "y": 6
     },
     null
   ]

@@ -430,10 +430,10 @@
           "enemyValid": false,
           "switchId": 1,
           "switchValid": false,
-          "turnA": 0,
+          "turnA": 3,
           "turnB": 0,
           "turnEnding": false,
-          "turnValid": false
+          "turnValid": true
         },
         "list": [
           {
@@ -441,6 +441,13 @@
             "indent": 0,
             "parameters": [
               0
+            ]
+          },
+          {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+              80
             ]
           },
           {

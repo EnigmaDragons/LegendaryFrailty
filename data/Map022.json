@@ -4609,6 +4609,22 @@
               ]
             },
             {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                10,
+                "ControlsOverlay",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
               "code": 122,
               "indent": 0,
               "parameters": [

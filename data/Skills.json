@@ -960,7 +960,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Essence Strike",
-    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0) \n    ++user._paramPlus[attackParamId];\n</Post-Damage Eval>\n\n<Target Action>\nimmortal: targets, true\nperform start\nmove user: backward, 50, 4\nwait for movement\nmove user: target, front center, 15\nwait: 8\nmotion thrust: user\nwait: 7\naction animation\naction effect\nwait for animation\nif (target.hp <= 0)\n  flash: 0, 130, 130, 70, 3\n  animation 137: target\nend\n\nimmortal: targets, false\nwait: 20\nmove user: home\n</Target Action>",
+    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0) \n    user._paramPlus[attackParamId] += 2;\n</Post-Damage Eval>\n\n<Target Action>\nimmortal: targets, true\nperform start\nmove user: backward, 50, 4\nwait for movement\nmove user: target, front center, 15\nwait: 8\nmotion thrust: user\nwait: 7\naction animation\naction effect\nwait for animation\nif (target.hp <= 0)\n  flash: 0, 130, 130, 70, 3\n  animation 137: target\nend\n\nimmortal: targets, false\nwait: 20\nmove user: home\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

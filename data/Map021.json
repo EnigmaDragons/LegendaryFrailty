@@ -28829,7 +28829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I think everyone should read The Falacy Detective. Before they make a stupid argument."
+                "<WordWrap>I think everyone should read The Fallacy Detective. Before they make a stupid argument."
               ]
             },
             {
@@ -29295,8 +29295,17 @@
               ]
             },
             {
-              "code": 126,
+              "code": 111,
               "indent": 0,
+              "parameters": [
+                2,
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
               "parameters": [
                 2,
                 0,
@@ -29306,7 +29315,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -29316,10 +29325,28 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
-                "You found a \\I[411]Vitality Stone"
+                "You found a \\I[411] Vitality Stone"
               ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -29861,8 +29888,17 @@
               ]
             },
             {
-              "code": 126,
+              "code": 111,
               "indent": 0,
+              "parameters": [
+                2,
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
               "parameters": [
                 2,
                 0,
@@ -29872,7 +29908,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -29882,10 +29918,28 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
-                "You found a \\I[411]Vitality Stone"
+                "You found a \\I[411] Vitality Stone"
               ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -30042,8 +30096,17 @@
               ]
             },
             {
-              "code": 126,
+              "code": 111,
               "indent": 0,
+              "parameters": [
+                2,
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
               "parameters": [
                 2,
                 0,
@@ -30053,7 +30116,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -30063,10 +30126,28 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
-                "You found a \\I[411]Vitality Stone"
+                "You found a \\I[411] Vitality Stone"
               ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -30219,7 +30300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This one could have gone a lot better."
+                "This sculpture could have gone a lot better."
               ]
             },
             {
@@ -30296,7 +30377,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My first success it looks as proud as I felt."
+                "My first success! He looks as proud as I felt."
               ]
             },
             {
@@ -30758,12 +30839,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think i could use these stones as a Jenga set."
+                "I think I could use these stones as a Jenga set."
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                2,
+                "A",
+                1
               ]
             },
             {
               "code": 126,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 2,
                 0,
@@ -30773,7 +30863,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -30783,10 +30873,28 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
-                "You found a \\I[411]Vitality Stone"
+                "You found a \\I[411] Vitality Stone"
               ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -31482,8 +31590,17 @@
               ]
             },
             {
-              "code": 126,
+              "code": 111,
               "indent": 0,
+              "parameters": [
+                2,
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
               "parameters": [
                 2,
                 0,
@@ -31493,7 +31610,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -31503,10 +31620,28 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
-                "You found a \\I[411]Vitality Stone"
+                "You found a \\I[411] Vitality Stone"
               ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,
@@ -31582,7 +31717,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That doesn't come from a Photoshop, I painted that one."
+                "<WordWrap>That picture isn't Photoshopped, I painted it with my own hands"
               ]
             },
             {

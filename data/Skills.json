@@ -287,7 +287,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Reverses the momentum of the enemy's next action.",
+    "description": "Reverses the momentum of the enemy's next action.\nCauses attacks to backfire. Self-targetted actions are unchanged.",
     "effects": [
       {
         "code": 21,
@@ -525,7 +525,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Bring your foes to a conjured dimensional pocket.\nLasts the whole battle. You are very powerful here. ",
+    "description": "Bring your foes to a conjured dimensional pocket, for the whole\nbattle. Grants you limitless mana regen and empowers you. ",
     "effects": [],
     "hitType": 0,
     "iconIndex": 429,
@@ -952,7 +952,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "If this strike kills an enemy, you permanently gain +2 Attack.",
+    "description": "If this strike kills an enemy, you permanently gain +1 Attack.",
     "effects": [],
     "hitType": 1,
     "iconIndex": 431,
@@ -960,7 +960,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Essence Strike",
-    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0) \n    user._paramPlus[attackParamId] += 2;\n</Post-Damage Eval>\n\n<Target Action>\nimmortal: targets, true\nperform start\nmove user: backward, 50, 4\nwait for movement\nmove user: target, front center, 15\nwait: 8\nmotion thrust: user\nwait: 7\naction animation\naction effect\nwait for animation\nif (target.hp <= 0)\n  flash: 0, 130, 130, 70, 3\n  animation 137: target\nend\n\nimmortal: targets, false\nwait: 20\nmove user: home\n</Target Action>",
+    "note": "Level 2 - Martial\n<Learn Cost: 40 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Post-Damage Eval>\n  var attackParamId = 2;\n  if(target.hp <= 0) \n    user._paramPlus[attackParamId] += 1;\n</Post-Damage Eval>\n\n<Target Action>\nimmortal: targets, true\nperform start\nmove user: backward, 50, 4\nwait for movement\nmove user: target, front center, 15\nwait: 8\nmotion thrust: user\nwait: 7\naction animation\naction effect\nwait for animation\nif (target.hp <= 0)\n  flash: 0, 130, 130, 70, 3\n  animation 137: target\nend\n\nimmortal: targets, false\nwait: 20\nmove user: home\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

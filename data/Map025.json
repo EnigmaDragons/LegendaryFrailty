@@ -9030,14 +9030,6 @@
               ]
             },
             {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -9081,13 +9073,30 @@
           },
           "directionFix": false,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "$Bulterbot",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 0
           },
           "list": [
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                4,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Only one beverage per visitor."
+              ]
+            },
             {
               "code": 0,
               "indent": 0,
@@ -9106,9 +9115,9 @@
             "skippable": false,
             "wait": false
           },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
+          "moveSpeed": 4,
+          "moveType": 1,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,

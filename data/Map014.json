@@ -4628,6 +4628,30 @@
               ]
             },
             {
+              "code": 132,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "WaterPalaceBattle",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 133,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "OrchVictory",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 117,
               "indent": 1,
               "parameters": [

@@ -11381,6 +11381,30 @@
               "parameters": []
             },
             {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "WaterPalaceBattle",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 133,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "OrchVictory",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -11506,6 +11530,30 @@
               "code": 222,
               "indent": 0,
               "parameters": []
+            },
+            {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "WaterPalaceBattle",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 133,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "OrchVictory",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
             },
             {
               "code": 356,

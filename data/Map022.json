@@ -4620,6 +4620,30 @@
               ]
             },
             {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "WaterPalaceBattle",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 133,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "OrchVictory",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -4820,30 +4844,6 @@
           },
           "list": [
             {
-              "code": 132,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "WaterPalaceBattle",
-                  "volume": 100,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            {
-              "code": 133,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "OrchVictory",
-                  "volume": 100,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            {
               "code": 356,
               "indent": 0,
               "parameters": [
@@ -4897,18 +4897,6 @@
               "indent": 0,
               "parameters": [
                 "EnableVictoryAftermath"
-              ]
-            },
-            {
-              "code": 132,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "FW-Battle2",
-                  "volume": 90,
-                  "pitch": 100,
-                  "pan": 0
-                }
               ]
             },
             {

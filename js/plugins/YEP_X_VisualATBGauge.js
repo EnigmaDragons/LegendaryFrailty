@@ -255,6 +255,7 @@ Window_EnemyVisualATB.prototype.updateWindowAspects = function() {
 };
 
 Window_EnemyVisualATB.prototype.updateWindowSize = function() {
+	if (!this._battler) return;
     var spriteWidth = this._battler.atbGaugeWidth();
     var width = spriteWidth + this.standardPadding() * 2;
     width = Math.min(width, Graphics.boxWidth + this.standardPadding() * 2);
@@ -302,7 +303,9 @@ Window_EnemyVisualATB.prototype.updateOpacity = function() {
 };
 
 Window_EnemyVisualATB.prototype.maxOpacity = function() {
-    return this._battler.battler().opacity;
+	return (!!this._battler && !!this._battler.battler()) 
+		? this._battler.battler().opacity 
+		: 0;
 };
 
 Window_EnemyVisualATB.prototype.isShowWindow = function() {

@@ -4249,7 +4249,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 25,
+            "variableId": 32,
             "variableValid": true,
             "variableValue": 1
           },
@@ -4541,7 +4541,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 25,
+            "variableId": 32,
             "variableValid": true,
             "variableValue": 1
           },

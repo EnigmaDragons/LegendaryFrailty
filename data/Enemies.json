@@ -988,17 +988,9 @@
   },
   {
     "id": 23,
-    "actions": [
-      {
-        "conditionParam1": 0,
-        "conditionParam2": 0,
-        "conditionType": 0,
-        "rating": 5,
-        "skillId": 1
-      }
-    ],
-    "battlerHue": 0,
-    "battlerName": "",
+    "actions": [],
+    "battlerHue": 155,
+    "battlerName": "SF_Machine",
     "dropItems": [
       {
         "dataId": 1,
@@ -1016,36 +1008,20 @@
         "kind": 0
       }
     ],
-    "exp": 0,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": 0.95
-      },
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.05
-      },
-      {
-        "code": 31,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
+    "exp": 18,
+    "traits": [],
     "gold": 0,
-    "name": "",
-    "note": "",
+    "name": "Damaged Sentry Bot",
+    "note": "Level 2\n<JP: 20>\n\n<AI Priority>\nAlways: Full-Auto Burst\n</AI Priority>\n\n",
     "params": [
-      100,
-      0,
+      60,
+      40,
+      22,
+      6,
       10,
+      4,
       10,
-      10,
-      10,
-      10,
-      10
+      5
     ]
   },
   {

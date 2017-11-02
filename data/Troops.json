@@ -81,8 +81,8 @@
     "members": [
       {
         "enemyId": 17,
-        "x": 204,
-        "y": 406,
+        "x": 304,
+        "y": 415,
         "hidden": false
       }
     ],
@@ -118,9 +118,9 @@
     "id": 4,
     "members": [
       {
-        "enemyId": 7,
-        "x": 192,
-        "y": 444,
+        "enemyId": 23,
+        "x": 300,
+        "y": 424,
         "hidden": false
       }
     ],

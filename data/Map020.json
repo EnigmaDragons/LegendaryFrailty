@@ -2500,6 +2500,13 @@
               "code": 356,
               "indent": 1,
               "parameters": [
+                "Light activate"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
                 "Tint set #90CAF9"
               ]
             },

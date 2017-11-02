@@ -4204,6 +4204,65 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          100,
+          100,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "You feel like your former self."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\.You gained +10 Attack and Magic"
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          10
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          4,
+          0,
+          0,
+          10
+        ]
+      },
+      {
         "code": 0,
         "indent": 1,
         "parameters": []
@@ -4851,12 +4910,410 @@
     "id": 43,
     "list": [
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          95,
+          95,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          20
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          20
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          30
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          3,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          4,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          40
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          5,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          6,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          60
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          7,
+          0
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          80
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          19,
+          19,
+          2,
+          0,
+          80
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          100,
+          100,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          2,
+          1,
+          0,
+          10
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          4,
+          1,
+          0,
+          10
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "UndoLastPowerChest",
     "switchId": 1,
     "trigger": 0
   },

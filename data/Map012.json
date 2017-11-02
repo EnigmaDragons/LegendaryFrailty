@@ -39732,7 +39732,7 @@
               "code": 356,
               "indent": 2,
               "parameters": [
-                "Tint set #333333"
+                "Light deactivate"
               ]
             },
             {
@@ -39744,13 +39744,6 @@
               "code": 411,
               "indent": 1,
               "parameters": []
-            },
-            {
-              "code": 356,
-              "indent": 2,
-              "parameters": [
-                "Tint set #FFFFFF"
-              ]
             },
             {
               "code": 0,

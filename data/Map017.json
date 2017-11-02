@@ -8072,11 +8072,14 @@
               ]
             },
             {
-              "code": 123,
+              "code": 122,
               "indent": 0,
               "parameters": [
-                "A",
-                0
+                44,
+                44,
+                0,
+                0,
+                1
               ]
             },
             {
@@ -8112,14 +8115,14 @@
             "itemId": 1,
             "itemValid": false,
             "selfSwitchCh": "A",
-            "selfSwitchValid": true,
+            "selfSwitchValid": false,
             "switch1Id": 1,
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
+            "variableId": 44,
+            "variableValid": true,
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -13190,77 +13193,10 @@
               ]
             },
             {
-              "code": 122,
+              "code": 117,
               "indent": 3,
               "parameters": [
-                19,
-                19,
-                2,
-                0,
-                60
-              ]
-            },
-            {
-              "code": 317,
-              "indent": 3,
-              "parameters": [
-                0,
-                0,
-                0,
-                1,
-                0,
-                60
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 3,
-              "parameters": [
-                99,
-                {
-                  "list": [
-                    {
-                      "code": 19,
-                      "indent": null
-                    },
-                    {
-                      "code": 45,
-                      "parameters": [
-                        "SELF SWITCH A: OFF"
-                      ],
-                      "indent": null
-                    },
-                    {
-                      "code": 0
-                    }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 3,
-              "parameters": [
-                {
-                  "code": 19,
-                  "indent": null
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 3,
-              "parameters": [
-                {
-                  "code": 45,
-                  "parameters": [
-                    "SELF SWITCH A: OFF"
-                  ],
-                  "indent": null
-                }
+                43
               ]
             },
             {

@@ -6,17 +6,17 @@
     "name": "TechRailRide",
     "order": 12,
     "parentId": 9,
-    "scrollX": 1404,
-    "scrollY": 776.57142857142856
+    "scrollX": 1638,
+    "scrollY": 906
   },
   {
     "id": 2,
     "expanded": false,
-    "name": "SelfDestrcutRun",
+    "name": "SelfDestructRun",
     "order": 22,
     "parentId": 18,
-    "scrollX": 816,
-    "scrollY": 794
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 3,
@@ -47,8 +47,8 @@
     "name": "TechRailEntrance",
     "order": 5,
     "parentId": 9,
-    "scrollX": 1608,
-    "scrollY": 1722.8571428571427
+    "scrollX": 1622,
+    "scrollY": 1722
   },
   {
     "id": 11,
@@ -56,8 +56,8 @@
     "name": "TechRailExit",
     "order": 6,
     "parentId": 9,
-    "scrollX": 1621.7142857142856,
-    "scrollY": 1470.8571428571427
+    "scrollX": 1622,
+    "scrollY": 1470
   },
   {
     "id": 12,
@@ -65,8 +65,8 @@
     "name": "FinalDeathTrap",
     "order": 20,
     "parentId": 18,
-    "scrollX": 1390.2857142857142,
-    "scrollY": 793.71428571428567
+    "scrollX": 816,
+    "scrollY": 922
   },
   {
     "id": 13,
@@ -83,8 +83,8 @@
     "name": "TrainEntrance",
     "order": 3,
     "parentId": 22,
-    "scrollX": 1404,
-    "scrollY": 790.28571428571422
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 15,
@@ -115,7 +115,7 @@
   },
   {
     "id": 18,
-    "expanded": false,
+    "expanded": true,
     "name": "SecondFloor",
     "order": 13,
     "parentId": 0,
@@ -151,7 +151,7 @@
   },
   {
     "id": 22,
-    "expanded": false,
+    "expanded": true,
     "name": "WaterTemple",
     "order": 1,
     "parentId": 0,

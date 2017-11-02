@@ -712,7 +712,7 @@
     "traits": [],
     "gold": 0,
     "name": "Gun Thug",
-    "note": "Story - Weakling Fight\n\n<AI Priority>\nTarget HP% param === 100%: Submachine Gun Burst\nRandom 40%: Gun Jammed\nAlways: Submachine Gun Burst\nAlways: Reload\n</AI Priority>",
+    "note": "Story - Weakling Fight\n\n<AI Priority>\nTurn % 4 === 1: Gun Jammed\nAlways: Submachine Gun Burst\nAlways: Reload\n</AI Priority>",
     "params": [
       30,
       12,

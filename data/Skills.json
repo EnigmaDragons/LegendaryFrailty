@@ -3005,9 +3005,9 @@
     "message2": "",
     "mpCost": 6,
     "name": "Submachine Gun Burst",
-    "note": "",
+    "note": "<Target Action>\nperform start\nwait: 5\nanimation 1: target, mirror\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 24\nperform finish\n</Target Action>",
     "occasion": 0,
-    "repeats": 6,
+    "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,
@@ -3019,7 +3019,7 @@
   },
   {
     "id": 97,
-    "animationId": 0,
+    "animationId": 2,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -3035,7 +3035,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Reload",
-    "note": "",
+    "note": "<Target Action>\nperform start\naction animation\nwait: 60\naction effect\nwait: 60\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -3058,21 +3058,14 @@
       "variance": 20
     },
     "description": "",
-    "effects": [
-      {
-        "code": 44,
-        "dataId": 32,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
+    "effects": [],
     "hitType": 0,
     "iconIndex": 0,
     "message1": "",
     "message2": "",
     "mpCost": 0,
     "name": "Gun Jammed",
-    "note": "",
+    "note": "<Target Action>\nperform start\ncommon event: 32\naction effect\nwait: 120\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

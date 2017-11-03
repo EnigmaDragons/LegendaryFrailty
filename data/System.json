@@ -544,7 +544,7 @@
     "Random Number",
     "RespawnHp",
     "RespawnMp",
-    "",
+    "RespawnVitalityCrystals",
     "CurrentX",
     "CurrentY",
     "LastX",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 90746787,
+  "versionId": 40556047,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

@@ -4697,7 +4697,7 @@
         "indent": 0,
         "parameters": [
           {
-            "name": "Victory2",
+            "name": "GD_Reward",
             "volume": 100,
             "pitch": 100,
             "pan": 0
@@ -4820,7 +4820,7 @@
         "indent": 1,
         "parameters": [
           12,
-          "this.I === 21"
+          "this.I === 22"
         ]
       },
       {

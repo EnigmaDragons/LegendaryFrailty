@@ -83,7 +83,7 @@
   "battleback1Name": "FinalBoss",
   "battleback2Name": "",
   "battlerHue": 0,
-  "battlerName": "Dragon",
+  "battlerName": "Viktor",
   "boat": {
     "bgm": {
       "name": "",
@@ -228,10 +228,10 @@
       "volume": 90
     },
     {
-      "name": "Battle1",
+      "name": "GD_BattleBegun",
       "pan": 0,
       "pitch": 100,
-      "volume": 90
+      "volume": 100
     },
     {
       "name": "Run",
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 11,
+  "testTroopId": 16,
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 58967864,
+  "versionId": 90746787,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

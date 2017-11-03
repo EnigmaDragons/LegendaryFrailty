@@ -413,7 +413,7 @@
   },
   {
     "id": 14,
-    "animationId": 0,
+    "animationId": 140,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -436,7 +436,7 @@
     "message2": "",
     "mpCost": 33,
     "name": "Hyperaccelerate",
-    "note": "Level 5 - Dimensional \n<Learn Cost: 160 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
+    "note": "Level 5 - Dimensional \n<Learn Cost: 160 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\naction animation\nwait for animation\naction effect\nperform finish\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

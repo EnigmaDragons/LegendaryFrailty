@@ -436,7 +436,7 @@
     "message2": "",
     "mpCost": 33,
     "name": "Hyperaccelerate",
-    "note": "Level 5 - Dimensional \n<Learn Cost: 160 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\naction animation\nwait for animation\naction effect\nperform finish\n</Target Action>",
+    "note": "Level 5 - Dimensional \n<Learn Cost: 160 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Target Action>\nperform start\nmotion cast: user\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 20\nperform finish\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -757,7 +757,7 @@
   },
   {
     "id": 25,
-    "animationId": 0,
+    "animationId": 141,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -780,7 +780,7 @@
     "message2": "",
     "mpCost": 45,
     "name": "Sensory Overload",
-    "note": "Level 6 - Esoteric\n<Learn Cost: 200 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>",
+    "note": "Level 6 - Esoteric\n<Learn Cost: 200 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Whole Action>\nperform start\nmotion cast: user\nanimation 142: user\nwait for animation\nwait: 3\naction animation\nwait for animation\naction effect\nwait: 20\nperform finish\n</Whole Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

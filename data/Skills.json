@@ -1371,7 +1371,7 @@
   },
   {
     "id": 45,
-    "animationId": 0,
+    "animationId": 5,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -1387,7 +1387,7 @@
     "message2": "",
     "mpCost": 4,
     "name": "Mini-Cannon Shot",
-    "note": "",
+    "note": "<Target Action>\nperform start\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 20\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

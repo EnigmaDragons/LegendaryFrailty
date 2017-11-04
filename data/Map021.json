@@ -11898,6 +11898,808 @@
               ]
             },
             {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "Left: 2"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "Down: 2"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "Left: 2"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "Down: 3"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "Left: 2"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "Down: 2"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "Left: 2"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "Down: 3"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                252,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "SELF SWITCH B: ON"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "SELF SWITCH B: ON"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                253,
+                {
+                  "list": [
+                    {
+                      "code": 36,
+                      "indent": null
+                    },
+                    {
+                      "code": 17,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 19,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 35,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 36,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 17,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 19,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 35,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Yo dawg, I hear this be some sorta magic place, that means it gotta have treasure.\\. Right Pops?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Are you responsible for the green water?",
+                  "I have fended off insects stronger than you!",
+                  "This is but a humble temple and does not hold treasure."
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Are you responsible for the green water?"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I don’t know nothing about this here green."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [
+                [
+                  "I have fended off insects stronger than you!",
+                  "This is but a humble temple and does not hold treasure."
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [
+                0,
+                "I have fended off insects stronger than you!"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "I am not afraid of you! Let’s go pops!"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [
+                1,
+                "This is but a humble temple and does not hold treasure."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "You lying to me! No one lies to me pops!"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "I have fended off insects stronger than you!"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I am not afraid of you! Let’s go pops!"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "This is but a humble temple and does not hold treasure."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "You lying to me! No one lies to me pops!"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                35
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                252,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "SELF SWITCH C: ON"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "SELF SWITCH C: ON"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                100,
+                100,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "TELEPORT: 14, 36"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "TELEPORT: 14, 36"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 129,
+              "indent": 0,
+              "parameters": [
+                2,
+                0,
+                false
+              ]
+            },
+            {
+              "code": 129,
+              "indent": 0,
+              "parameters": [
+                4,
+                1,
+                false
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                253,
+                {
+                  "list": [
+                    {
+                      "code": 36,
+                      "indent": null
+                    },
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 17,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 16,
+                      "indent": null
+                    },
+                    {
+                      "code": 15,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 35,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 36,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 17,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 16,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 15,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 35,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>You have let my waters become toxic and in your pacificity you have grown weak."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>You are no longer a fit guardian. Stop the source of this pollution to my water and defeat my guardian again and I shall grant you your position back."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Follow the stream of water to it’s source. There I have seen a passageway to a dark castle owned by a powerful man named Viktor."
+              ]
+            },
+            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -39917,483 +40719,6 @@
             "actorValid": false,
             "itemId": 1,
             "itemValid": false,
-            "selfSwitchCh": "D",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Door1",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                252,
-                {
-                  "list": [
-                    {
-                      "code": 45,
-                      "parameters": [
-                        "SELF SWITCH B: ON"
-                      ],
-                      "indent": null
-                    },
-                    {
-                      "code": 0
-                    }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [
-                {
-                  "code": 45,
-                  "parameters": [
-                    "SELF SWITCH B: ON"
-                  ],
-                  "indent": null
-                }
-              ]
-            },
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                14
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "<WordWrap>Yo dawg, I hear this be some sorta magic place, that means it gotta have treasure.\\. Right Pops?"
-              ]
-            },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [
-                [
-                  "Are you responsible for the green water?",
-                  "I have fended off insects stronger than you!",
-                  "This is but a humble temple and does not hold treasure."
-                ],
-                -1,
-                0,
-                2,
-                0
-              ]
-            },
-            {
-              "code": 402,
-              "indent": 0,
-              "parameters": [
-                0,
-                "Are you responsible for the green water?"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I don’t know nothing about this here green."
-              ]
-            },
-            {
-              "code": 102,
-              "indent": 1,
-              "parameters": [
-                [
-                  "I have fended off insects stronger than you!",
-                  "This is but a humble temple and does not hold treasure."
-                ],
-                -1,
-                0,
-                2,
-                0
-              ]
-            },
-            {
-              "code": 402,
-              "indent": 1,
-              "parameters": [
-                0,
-                "I have fended off insects stronger than you!"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 2,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "I am not afraid of you! Let’s go pops!"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 2,
-              "parameters": []
-            },
-            {
-              "code": 402,
-              "indent": 1,
-              "parameters": [
-                1,
-                "This is but a humble temple and does not hold treasure."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 2,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "You lying to me! No one lies to me pops!"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 2,
-              "parameters": []
-            },
-            {
-              "code": 404,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 402,
-              "indent": 0,
-              "parameters": [
-                1,
-                "I have fended off insects stronger than you!"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I am not afraid of you! Let’s go pops!"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 402,
-              "indent": 0,
-              "parameters": [
-                2,
-                "This is but a humble temple and does not hold treasure."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "You lying to me! No one lies to me pops!"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 404,
-              "indent": 0,
-              "parameters": []
-            },
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                35
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                252,
-                {
-                  "list": [
-                    {
-                      "code": 45,
-                      "parameters": [
-                        "SELF SWITCH C: ON"
-                      ],
-                      "indent": null
-                    },
-                    {
-                      "code": 0
-                    }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [
-                {
-                  "code": 45,
-                  "parameters": [
-                    "SELF SWITCH C: ON"
-                  ],
-                  "indent": null
-                }
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                100,
-                100,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    {
-                      "code": 45,
-                      "parameters": [
-                        "TELEPORT: 14, 36"
-                      ],
-                      "indent": null
-                    },
-                    {
-                      "code": 0
-                    }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [
-                {
-                  "code": 45,
-                  "parameters": [
-                    "TELEPORT: 14, 36"
-                  ],
-                  "indent": null
-                }
-              ]
-            },
-            {
-              "code": 129,
-              "indent": 0,
-              "parameters": [
-                2,
-                0,
-                false
-              ]
-            },
-            {
-              "code": 129,
-              "indent": 0,
-              "parameters": [
-                4,
-                1,
-                false
-              ]
-            },
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                15
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "<WordWrap>You have let my waters become toxic and in your pacificity you have grown weak."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "<WordWrap>You are no longer a fit guardian. Stop the source of this pollution to my water and defeat my guardian again and I shall grant you your position back."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "<WordWrap>Follow the stream of water to it’s source. There I have seen a passageway to a dark castle owned by a powerful man named Viktor."
-              ]
-            },
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": true,
             "switch1Id": 1,
@@ -44691,7 +45016,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The person who gave me this was an organ donor,"
+                "The person who gave me this was an organ donor."
               ]
             },
             {
@@ -45321,7 +45646,7 @@
                     {
                       "code": 45,
                       "parameters": [
-                        "SELF SWITCH D: ON"
+                        "SELF SWITCH A: ON"
                       ],
                       "indent": null
                     },
@@ -45342,7 +45667,7 @@
                 {
                   "code": 45,
                   "parameters": [
-                    "SELF SWITCH D: ON"
+                    "SELF SWITCH A: ON"
                   ],
                   "indent": null
                 }

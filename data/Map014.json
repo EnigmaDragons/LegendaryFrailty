@@ -6906,7 +6906,7 @@
     {
       "id": 41,
       "name": "EV041",
-      "note": "",
+      "note": "Light 0 #000000",
       "pages": [
         {
           "conditions": {
@@ -7013,13 +7013,6 @@
               "code": 412,
               "indent": 1,
               "parameters": []
-            },
-            {
-              "code": 356,
-              "indent": 1,
-              "parameters": [
-                "Tint set #616161"
-              ]
             },
             {
               "code": 122,

@@ -76,6 +76,7 @@ const params = PluginManager.parameters('SRD_SmoothCamera');
 _.meetsRequirements = Imported["SumRndmDde Camera Core"];
 _.cutOff = parseFloat(params['Cut Off Value']);
 _.power = parseFloat(0.01 / parseFloat(params['Delay Power']));
+_.enabled = true;
 
 _.alertNeedCameraCore = function() {
 	alert("The 'SRD_CameraCore' plugin is required for using the 'SRD_SmoothCamera' plugin.");
@@ -133,7 +134,7 @@ Game_Map.prototype.shiftCameraPosition = function(x, y, dur) {
 
 _.Game_Character_updateScroll = Game_Character.prototype.updateScroll;
 Game_Character.prototype.updateScroll = function() {
-	if(!$gameMap.isCameraScrolling()) {
+	if(!$gameMap.isCameraScrolling() && _.enabled) {
 		const cut = _.cutOff;
 		const xSpeed = Math.floor(this.screenX() + ($gameMap.shiftX * 48) - $gameScreen.zoomX()) * _.power;
 		const ySpeed = Math.floor(this.screenY() + ($gameMap.shiftY * 48) - $gameScreen.zoomY()) * _.power;
@@ -165,6 +166,12 @@ Game_Interpreter.prototype.pluginCommand = function(command, args) {
 	const com = command.trim().toLowerCase();
 	if(com === 'setdelaypower') {
 		_.power = parseInt(0.01 / parseFloat(args[0]));
+	}
+	if (com === 'disablecamerasmoothing') {
+		_.enabled = false;
+	}
+	if (com === 'enablecameramoving') {
+		_.enabled = true;
 	}
 };
 

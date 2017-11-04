@@ -1622,8 +1622,8 @@
               "code": 122,
               "indent": 0,
               "parameters": [
-                72,
-                72,
+                74,
+                74,
                 0,
                 0,
                 1
@@ -1786,7 +1786,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 72,
+            "variableId": 74,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2055,12 +2055,17 @@
                 0,
                 11,
                 false,
-                false
+                true
               ]
             },
             {
-              "code": 101,
+              "code": 601,
               "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 1,
               "parameters": [
                 "Actor_FW02_03",
                 1,
@@ -2070,14 +2075,14 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "<WordWrap>You have got to be the only person on this planet capable of stopping me. I have got to kill you!"
               ]
             },
             {
               "code": 205,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 5,
                 {
@@ -2101,7 +2106,7 @@
             },
             {
               "code": 505,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 {
                   "code": 45,
@@ -2114,7 +2119,7 @@
             },
             {
               "code": 205,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 0,
                 {
@@ -2138,7 +2143,7 @@
             },
             {
               "code": 505,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 {
                   "code": 45,
@@ -2151,11 +2156,57 @@
             },
             {
               "code": 123,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "B",
                 0
               ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 603,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                74,
+                74,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                34
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 604,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,

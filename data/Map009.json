@@ -17277,7 +17277,7 @@
     0,
     0,
     0,
-    397,
+    0,
     0,
     0,
     0,
@@ -28033,13 +28033,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -28091,15 +28091,33 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                31,
+                31,
+                0,
+                0,
+                1
+              ]
+            },
             {
               "code": 356,
               "indent": 0,
@@ -28134,24 +28152,6 @@
               "code": 412,
               "indent": 0,
               "parameters": []
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                31,
-                31,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                2
-              ]
             },
             {
               "code": 0,
@@ -28195,27 +28195,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 31"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "Light off 50"
+                3
               ]
             },
             {
@@ -28230,10 +28223,17 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 31"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Light off 50"
               ]
             },
             {
@@ -36368,9 +36368,60 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 1,
+            "variableId": 70,
             "variableValid": false,
             "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 70,
+            "variableValid": true,
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -36419,14 +36470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I’m already prototyping a new design that can't be so easily "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drained."
+                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
               ]
             },
             {
@@ -36538,9 +36582,60 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 1,
+            "variableId": 70,
             "variableValid": false,
             "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 70,
+            "variableValid": true,
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -36589,14 +36684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I’m already prototyping a new design that can't be so easily "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drained."
+                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
               ]
             },
             {
@@ -36708,9 +36796,60 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 1,
+            "variableId": 70,
             "variableValid": false,
             "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 70,
+            "variableValid": true,
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -36759,14 +36898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I’m already prototyping a new design that can't be so easily "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drained."
+                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
               ]
             },
             {
@@ -36878,9 +37010,60 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 1,
+            "variableId": 70,
             "variableValid": false,
             "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 70,
+            "variableValid": true,
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -36929,14 +37112,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I’m already prototyping a new design that can't be so easily "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drained."
+                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
               ]
             },
             {
@@ -45929,7 +46105,7 @@
     {
       "id": 119,
       "name": "EV119",
-      "note": "Light 48 #FFFFFF 32",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -45970,12 +46146,51 @@
               "code": 401,
               "indent": 0,
               "parameters": [
+                "The pot of coffee looks freshly brewed."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Drink it.",
+                  "Leave it."
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Drink it."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
                 "You drink the pot of coffee and feel your mind elevate."
               ]
             },
             {
               "code": 317,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 0,
                 0,
@@ -45987,7 +46202,7 @@
             },
             {
               "code": 101,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "",
                 0,
@@ -45997,18 +46212,41 @@
             },
             {
               "code": 401,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "Your maximum MP has increased by 10."
               ]
             },
             {
               "code": 123,
-              "indent": 0,
+              "indent": 1,
               "parameters": [
                 "A",
                 0
               ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Leave it."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 0,

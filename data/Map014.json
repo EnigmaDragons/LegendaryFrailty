@@ -30,7 +30,7 @@
   "scrollType": 0,
   "specifyBattleback": false,
   "tilesetId": 2,
-  "width": 21,
+  "width": 29,
   "data": [
     2816,
     2816,
@@ -39,23 +39,6 @@
     2816,
     2816,
     2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
     2816,
     2816,
     2816,
@@ -73,19 +56,6 @@
     2816,
     2816,
     2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
     2816,
     2816,
     2816,
@@ -123,19 +93,6 @@
     2816,
     2816,
     2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
     2816,
     2816,
     2816,
@@ -157,19 +114,6 @@
     2816,
     2816,
     2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
     2816,
     2816,
     2816,
@@ -207,19 +151,6 @@
     2816,
     2816,
     2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
     2816,
     2816,
     2816,
@@ -241,19 +172,6 @@
     2816,
     2816,
     2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
     2816,
     2816,
     2816,
@@ -291,19 +209,6 @@
     2816,
     2816,
     2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
     2816,
     2816,
     2816,
@@ -325,19 +230,6 @@
     2816,
     2816,
     2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2816,
-    2840,
-    2064,
-    2048,
-    2072,
-    2832,
     2816,
     2816,
     2816,
@@ -368,149 +260,242 @@
     2816,
     2816,
     2816,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2840,
+    2064,
+    2048,
+    2072,
+    2832,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
+    2816,
     0,
     0,
     0,
@@ -534,19 +519,6 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
     0,
     0,
     0,
@@ -586,19 +558,6 @@
     0,
     0,
     0,
-    2112,
-    2096,
-    2120,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     0,
@@ -618,19 +577,6 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2112,
-    2096,
-    2120,
     0,
     0,
     0,
@@ -670,6 +616,43 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     2112,
     2096,
     2120,
@@ -691,9 +674,302 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     2112,
     2096,
     2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2112,
+    2096,
+    2120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -844,85 +1120,39 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     121,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    121,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     0,
@@ -992,6 +1222,71 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     121,
     0,
     0,
@@ -1040,6 +1335,99 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    121,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     114,
@@ -1061,6 +1449,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     122,
@@ -1082,6 +1478,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     113,
@@ -1103,6 +1507,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     121,
@@ -1124,6 +1536,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     113,
@@ -1145,6 +1565,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     121,
@@ -1166,6 +1594,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     113,
@@ -1187,6 +1623,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     112,
@@ -1208,6 +1652,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     114,
@@ -1229,6 +1681,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     122,
@@ -1250,6 +1710,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     114,
@@ -1271,6 +1739,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     122,
@@ -1292,6 +1768,14 @@
     123,
     122,
     123,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     114,
@@ -1313,6 +1797,14 @@
     115,
     114,
     115,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     122,
@@ -1334,6 +1826,14 @@
     114,
     115,
     114,
+    122,
+    123,
+    122,
+    123,
+    114,
+    115,
+    114,
+    115,
     114,
     115,
     114,
@@ -1355,6 +1855,14 @@
     122,
     123,
     122,
+    114,
+    115,
+    114,
+    115,
+    122,
+    123,
+    122,
+    123,
     122,
     123,
     122,
@@ -1376,6 +1884,10 @@
     114,
     115,
     114,
+    122,
+    123,
+    122,
+    123,
     0,
     0,
     0,
@@ -1712,6 +2224,134 @@
     0,
     0,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     10,
     10,
     10,
@@ -1778,6 +2418,34 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1787,6 +2455,10 @@
     10,
     10,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1799,6 +2471,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -1808,6 +2484,10 @@
     10,
     10,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1820,6 +2500,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1829,6 +2513,10 @@
     10,
     10,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1841,6 +2529,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1851,6 +2543,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1863,6 +2559,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1873,6 +2573,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1885,6 +2589,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1894,6 +2602,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1906,6 +2618,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1915,6 +2631,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1927,6 +2647,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     13,
@@ -1936,6 +2660,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1949,6 +2677,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -1957,6 +2689,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1970,6 +2706,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -1978,6 +2718,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -1991,6 +2735,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -1999,6 +2747,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -2012,6 +2764,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -2021,6 +2777,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -2033,6 +2793,10 @@
     10,
     10,
     10,
+    10,
+    10,
+    10,
+    10,
     13,
     13,
     10,
@@ -2042,6 +2806,10 @@
     13,
     13,
     13,
+    10,
+    10,
+    10,
+    10,
     10,
     10,
     10,
@@ -2120,7 +2888,7 @@
           "walkAnime": true
         }
       ],
-      "x": 4,
+      "x": 8,
       "y": 4
     },
     {
@@ -2197,7 +2965,7 @@
           "walkAnime": true
         }
       ],
-      "x": 5,
+      "x": 9,
       "y": 4
     },
     {
@@ -2274,7 +3042,7 @@
           "walkAnime": true
         }
       ],
-      "x": 6,
+      "x": 10,
       "y": 4
     },
     {
@@ -2351,13 +3119,13 @@
           "walkAnime": true
         }
       ],
-      "x": 7,
+      "x": 11,
       "y": 4
     },
     {
       "id": 5,
       "name": "EV005",
-      "note": "Light 40 #CDDC39 101",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2411,13 +3179,13 @@
           "walkAnime": true
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 4
     },
     {
       "id": 6,
-      "name": "EV006",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2468,16 +3236,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 15
     },
     {
       "id": 7,
-      "name": "EV007",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2528,16 +3347,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 15
     },
     {
       "id": 8,
-      "name": "EV008",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2588,16 +3458,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 15
     },
     {
       "id": 9,
-      "name": "EV009",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2648,16 +3569,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 14
     },
     {
       "id": 10,
-      "name": "EV010",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2708,16 +3680,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 14
     },
     {
       "id": 11,
-      "name": "EV011",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2768,16 +3791,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 14
     },
     {
       "id": 12,
-      "name": "EV012",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2828,16 +3902,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 13
     },
     {
       "id": 13,
-      "name": "EV013",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2888,16 +4013,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 13
     },
     {
       "id": 14,
-      "name": "EV014",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -2948,16 +4124,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 13
     },
     {
       "id": 15,
-      "name": "EV015",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3008,16 +4235,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 12
     },
     {
       "id": 16,
-      "name": "EV016",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3068,16 +4346,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 12
     },
     {
       "id": 17,
-      "name": "EV017",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3128,16 +4457,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 12
     },
     {
       "id": 18,
-      "name": "EV018",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3188,16 +4568,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 11
     },
     {
       "id": 19,
-      "name": "EV019",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3248,16 +4679,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 11
     },
     {
       "id": 20,
-      "name": "EV020",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3308,16 +4790,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 11
     },
     {
       "id": 21,
-      "name": "EV021",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3368,16 +4901,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 10
     },
     {
       "id": 22,
-      "name": "EV022",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3428,16 +5012,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 10
     },
     {
       "id": 23,
-      "name": "EV023",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3488,16 +5123,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 10
     },
     {
       "id": 24,
-      "name": "EV024",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3548,16 +5234,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 9
     },
     {
       "id": 25,
-      "name": "EV025",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3608,16 +5345,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 9
     },
     {
       "id": 26,
-      "name": "EV026",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3668,16 +5456,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 9
     },
     {
       "id": 27,
-      "name": "EV027",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3728,16 +5567,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 8
     },
     {
       "id": 28,
-      "name": "EV028",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3788,16 +5678,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 8
     },
     {
       "id": 29,
-      "name": "EV029",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3848,16 +5789,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 8
     },
     {
       "id": 30,
-      "name": "EV030",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3908,16 +5900,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 12,
       "y": 7
     },
     {
       "id": 31,
-      "name": "EV031",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -3968,16 +6011,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
+      "x": 13,
       "y": 7
     },
     {
       "id": 32,
-      "name": "EV032",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -4028,16 +6122,67 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 10,
+      "x": 14,
       "y": 7
     },
     {
       "id": 33,
-      "name": "EV033",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -4047,6 +6192,76 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 203,
+              "indent": 0,
+              "parameters": [
+                0,
+                0,
+                12,
+                4,
+                0
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
             "switch1Id": 1,
             "switch1Valid": false,
             "switch2Id": 1,
@@ -4089,15 +6304,66 @@
           "through": false,
           "trigger": 0,
           "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 9,
-      "y": 5
+      "x": 0,
+      "y": 0
     },
     {
       "id": 34,
-      "name": "EV034",
-      "note": "Light 40 #CDDC39 101",
+      "name": "",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -4148,10 +6414,61 @@
           "stepAnime": false,
           "through": false,
           "trigger": 0,
-          "walkAnime": true
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
         }
       ],
-      "x": 8,
+      "x": 13,
       "y": 5
     },
     {
@@ -4223,7 +6540,7 @@
           "walkAnime": true
         }
       ],
-      "x": 6,
+      "x": 10,
       "y": 15
     },
     {
@@ -4295,7 +6612,7 @@
           "walkAnime": true
         }
       ],
-      "x": 7,
+      "x": 11,
       "y": 15
     },
     {
@@ -4367,7 +6684,7 @@
           "walkAnime": true
         }
       ],
-      "x": 11,
+      "x": 15,
       "y": 15
     },
     {
@@ -4439,7 +6756,7 @@
           "walkAnime": true
         }
       ],
-      "x": 12,
+      "x": 16,
       "y": 15
     },
     {
@@ -4511,7 +6828,7 @@
           "walkAnime": true
         }
       ],
-      "x": 13,
+      "x": 17,
       "y": 15
     },
     {
@@ -4583,7 +6900,7 @@
           "walkAnime": true
         }
       ],
-      "x": 14,
+      "x": 18,
       "y": 15
     },
     {
@@ -4628,6 +6945,13 @@
               ]
             },
             {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
               "code": 132,
               "indent": 1,
               "parameters": [
@@ -4652,13 +6976,6 @@
               ]
             },
             {
-              "code": 117,
-              "indent": 1,
-              "parameters": [
-                17
-              ]
-            },
-            {
               "code": 111,
               "indent": 1,
               "parameters": [
@@ -4674,6 +6991,17 @@
               "indent": 2,
               "parameters": [
                 "Light deactivate"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                15,
+                15,
+                0,
+                0,
+                0
               ]
             },
             {
@@ -4736,6 +7064,117 @@
       ],
       "x": 0,
       "y": 15
+    },
+    {
+      "id": 42,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 15,
+            "variableValid": true,
+            "variableValue": 101
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Dungeon_B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 12,
+      "y": 5
     }
   ]
 }

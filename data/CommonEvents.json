@@ -1028,6 +1028,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          54,
+          54,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 115,
         "indent": 2,
         "parameters": []
@@ -1938,6 +1949,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          55,
+          55,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 3,
         "parameters": []
@@ -2094,6 +2116,17 @@
         "parameters": [
           40,
           40,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          55,
+          55,
           0,
           0,
           1
@@ -2262,6 +2295,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 3,
+        "parameters": [
+          55,
+          55,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 3,
         "parameters": []
@@ -2367,6 +2411,17 @@
         "parameters": [
           43,
           43,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          56,
+          56,
           0,
           0,
           1
@@ -4207,65 +4262,6 @@
         ]
       },
       {
-        "code": 122,
-        "indent": 1,
-        "parameters": [
-          100,
-          100,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 1,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "You feel like your former self."
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "\\.You gained +10 Attack and Magic"
-        ]
-      },
-      {
-        "code": 317,
-        "indent": 1,
-        "parameters": [
-          0,
-          0,
-          2,
-          0,
-          0,
-          10
-        ]
-      },
-      {
-        "code": 317,
-        "indent": 1,
-        "parameters": [
-          0,
-          0,
-          4,
-          0,
-          0,
-          10
-        ]
-      },
-      {
         "code": 0,
         "indent": 1,
         "parameters": []
@@ -4366,6 +4362,86 @@
       },
       {
         "code": 413,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          95,
+          0,
+          7,
+          0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          100,
+          100,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "You feel like your former self."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\.You gained +10 Attack and Magic"
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          10
+        ]
+      },
+      {
+        "code": 317,
+        "indent": 1,
+        "parameters": [
+          0,
+          0,
+          4,
+          0,
+          0,
+          10
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
         "indent": 0,
         "parameters": []
       },

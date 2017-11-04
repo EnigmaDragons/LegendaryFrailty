@@ -2297,12 +2297,6 @@
     0,
     0,
     0,
-    397,
-    0,
-    0,
-    0,
-    0,
-    397,
     0,
     0,
     0,
@@ -2318,7 +2312,13 @@
     0,
     0,
     0,
-    397,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -2517,17 +2517,6 @@
     0,
     0,
     0,
-    397,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    397,
     0,
     0,
     0,
@@ -2540,7 +2529,18 @@
     0,
     0,
     0,
-    397,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -2755,7 +2755,385 @@
     0,
     0,
     0,
-    397,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -3124,384 +3502,6 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
     0,
     0,
     0,
@@ -8691,13 +8691,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -8749,20 +8749,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 24"
+                2
               ]
             },
             {
@@ -8777,10 +8777,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 24"
               ]
             },
             {
@@ -8825,20 +8825,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 24"
+                3
               ]
             },
             {
@@ -8853,10 +8853,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 24"
               ]
             },
             {
@@ -9021,13 +9021,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -9079,20 +9079,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 25"
+                2
               ]
             },
             {
@@ -9107,10 +9107,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 25"
               ]
             },
             {
@@ -9155,20 +9155,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 25"
+                3
               ]
             },
             {
@@ -9183,10 +9183,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 25"
               ]
             },
             {
@@ -9240,13 +9240,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -9298,20 +9298,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 26"
+                2
               ]
             },
             {
@@ -9326,10 +9326,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 26"
               ]
             },
             {
@@ -9374,20 +9374,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 26"
+                3
               ]
             },
             {
@@ -9402,10 +9402,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 26"
               ]
             },
             {
@@ -9674,13 +9674,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -9732,20 +9732,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 27"
+                2
               ]
             },
             {
@@ -9760,10 +9760,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 27"
               ]
             },
             {
@@ -9808,20 +9808,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 27"
+                3
               ]
             },
             {
@@ -9836,10 +9836,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 27"
               ]
             },
             {
@@ -9893,13 +9893,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -9951,20 +9951,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 28"
+                2
               ]
             },
             {
@@ -9979,10 +9979,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 28"
               ]
             },
             {
@@ -10027,20 +10027,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 28"
+                3
               ]
             },
             {
@@ -10055,10 +10055,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 28"
               ]
             },
             {
@@ -10112,13 +10112,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -10170,20 +10170,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 29"
+                2
               ]
             },
             {
@@ -10198,10 +10198,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 29"
               ]
             },
             {
@@ -10246,20 +10246,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 29"
+                3
               ]
             },
             {
@@ -10274,10 +10274,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 29"
               ]
             },
             {
@@ -10331,13 +10331,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -10389,20 +10389,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 30"
+                2
               ]
             },
             {
@@ -10417,10 +10417,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 30"
               ]
             },
             {
@@ -10465,20 +10465,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 30"
+                3
               ]
             },
             {
@@ -10493,10 +10493,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 30"
               ]
             },
             {
@@ -24295,6 +24295,306 @@
       "x": 2,
       "y": 6
     },
-    null
+    {
+      "id": 156,
+      "name": "EV156",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Light on 222"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "FocusCamera 15 11 60"
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                60
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>I need to give that machine energy if I want to get through the door in the main hall."
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Light off 222"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "FocusCamera player 60"
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 5
+    },
+    {
+      "id": 157,
+      "name": "EV157",
+      "note": "Light 48 #FFFFFF 222",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 203,
+              "indent": 0,
+              "parameters": [
+                0,
+                0,
+                15,
+                11,
+                0
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    }
   ]
 }

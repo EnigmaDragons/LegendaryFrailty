@@ -2234,12 +2234,11 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
-    5,
     0,
+    1,
     0,
     0,
     0,
@@ -2259,11 +2258,9 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2284,7 +2281,6 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2343,7 +2339,6 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2368,7 +2363,6 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2388,12 +2382,10 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2413,12 +2405,10 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2438,12 +2428,10 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2463,12 +2451,10 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2488,12 +2474,10 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2513,7 +2497,6 @@
     0,
     0,
     0,
-    5,
     0,
     0,
     0,
@@ -2538,7 +2521,24 @@
     0,
     0,
     0,
-    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0,
@@ -3229,7 +3229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3306,7 +3306,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3443,7 +3443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3520,7 +3520,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3597,7 +3597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3674,7 +3674,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3751,7 +3751,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3828,7 +3828,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3905,7 +3905,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -3982,7 +3982,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -4059,7 +4059,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -4136,7 +4136,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -4213,7 +4213,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -4290,7 +4290,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -4367,7 +4367,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You observe lots the machine as it works."
+                "You observe the machine as it works."
               ]
             },
             {
@@ -11716,7 +11716,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -11793,7 +11793,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -11870,7 +11870,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -11947,7 +11947,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -12024,7 +12024,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -12665,7 +12665,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anselm's stomach rumbles as the room sways a little."
+                "Your stomach rumbles as the room sways a little."
               ]
             },
             {
@@ -12694,7 +12694,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anselm lost 20 health."
+                "You lost 20 health."
               ]
             },
             {
@@ -12847,7 +12847,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anselm's stomach rumbles as the room sways a little."
+                "Your stomach rumbles as the room sways a little."
               ]
             },
             {
@@ -12876,7 +12876,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anselm lost 20 health."
+                "You lost 20 health."
               ]
             },
             {
@@ -13110,7 +13110,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -20298,7 +20298,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Water you know you gained 1 health."
+                "You gained 1 health."
               ]
             },
             {

@@ -14333,7 +14333,6 @@
     0,
     0,
     0,
-    397,
     0,
     0,
     0,
@@ -14341,7 +14340,8 @@
     0,
     0,
     0,
-    397,
+    0,
+    0,
     0,
     0,
     0,
@@ -24915,13 +24915,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -24973,20 +24973,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 1"
+                2
               ]
             },
             {
@@ -25001,10 +25001,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 1"
               ]
             },
             {
@@ -25049,20 +25049,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 1"
+                3
               ]
             },
             {
@@ -25077,10 +25077,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 1"
               ]
             },
             {
@@ -25134,13 +25134,13 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
@@ -25192,20 +25192,20 @@
             "variableValid": true,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
+            "direction": 4,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light on 2"
+                2
               ]
             },
             {
@@ -25220,10 +25220,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                2
+                "Light on 2"
               ]
             },
             {
@@ -25268,20 +25268,20 @@
             "variableValid": true,
             "variableValue": 1
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
-            "characterIndex": 0,
-            "characterName": "",
+            "tileId": 0,
+            "characterName": "!FuturisticUseful2",
             "direction": 2,
             "pattern": 0,
-            "tileId": 0
+            "characterIndex": 4
           },
           "list": [
             {
-              "code": 356,
+              "code": 117,
               "indent": 0,
               "parameters": [
-                "Light off 2"
+                3
               ]
             },
             {
@@ -25296,10 +25296,10 @@
               ]
             },
             {
-              "code": 117,
+              "code": 356,
               "indent": 0,
               "parameters": [
-                3
+                "Light off 2"
               ]
             },
             {

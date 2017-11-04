@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 16,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -234,10 +234,10 @@
       "volume": 100
     },
     {
-      "name": "Run",
+      "name": "GD_Escape",
       "pan": 0,
       "pitch": 100,
-      "volume": 90
+      "volume": 100
     },
     {
       "name": "Attack3",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 16,
-  "startX": 8,
-  "startY": 17,
+  "startMapId": 3,
+  "startX": 15,
+  "startY": 11,
   "switches": [
     "",
     "Battle1",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 26920377,
+  "versionId": 73046052,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

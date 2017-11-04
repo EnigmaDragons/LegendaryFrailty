@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 22,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -358,7 +358,7 @@
     "ViktorHasLeft",
     "IsInDungeon",
     "ShouldHideControls",
-    "",
+    "MiningBotDefeated",
     "",
     "",
     "",
@@ -485,15 +485,15 @@
   },
   "testBattlers": [
     {
-      "actorId": 3,
+      "actorId": 1,
       "equips": [
         1,
-        6,
+        10,
         5,
-        8,
+        5,
         0
       ],
-      "level": 4
+      "level": 10
     },
     {
       "actorId": 0,
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 16,
+  "testTroopId": 2,
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 64110232,
+  "versionId": 68324839,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

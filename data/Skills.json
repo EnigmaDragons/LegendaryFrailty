@@ -2467,21 +2467,28 @@
       "variance": 20
     },
     "description": "",
-    "effects": [],
+    "effects": [
+      {
+        "code": 41,
+        "dataId": 0,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 0,
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "",
-    "note": "",
+    "name": "Retreat",
+    "note": "<Target Action>\ncommon event: 10\nmove target: backward, 400, 20\nwait for movement\nperform action\naction effect: target\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
-    "scope": 1,
+    "scope": 11,
     "speed": 0,
-    "stypeId": 1,
+    "stypeId": 0,
     "successRate": 100,
     "tpCost": 0,
     "tpGain": 0

@@ -32893,6 +32893,18 @@
               ]
             },
             {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "FW-Battle2",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 356,
               "indent": 0,
               "parameters": [

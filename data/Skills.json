@@ -495,7 +495,7 @@
       "type": 1,
       "variance": 0
     },
-    "description": "Release the electromagnetic bonds holding target's atoms together, \nkilling the target. Works on bosses.",
+    "description": "Release the electromagnetic bonds holding the target's atoms \ntogether, killing the target. Works on bosses.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 429,

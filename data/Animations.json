@@ -3712,7 +3712,7 @@
         ]
       ]
     ],
-    "name": "Triple Slash",
+    "name": "Savage Slash",
     "position": 1,
     "timings": [
       {
@@ -3741,7 +3741,7 @@
         ],
         "flashDuration": 3,
         "flashScope": 1,
-        "frame": 4,
+        "frame": 3,
         "se": {
           "name": "Slash2",
           "pan": 0,
@@ -3758,7 +3758,24 @@
         ],
         "flashDuration": 3,
         "flashScope": 1,
-        "frame": 9,
+        "frame": 7,
+        "se": {
+          "name": "Slash2",
+          "pan": 0,
+          "pitch": 100,
+          "volume": 90
+        }
+      },
+      {
+        "flashColor": [
+          0,
+          255,
+          170,
+          102
+        ],
+        "flashDuration": 3,
+        "flashScope": 1,
+        "frame": 11,
         "se": {
           "name": "Slash2",
           "pan": 0,

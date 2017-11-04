@@ -24736,23 +24736,6 @@
               ]
             },
             {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There are some very strange devices here."
-              ]
-            },
-            {
               "code": 123,
               "indent": 0,
               "parameters": [
@@ -27758,7 +27741,7 @@
               "parameters": [
                 0,
                 14,
-                3,
+                7,
                 4,
                 0,
                 0
@@ -28070,7 +28053,7 @@
               "parameters": [
                 0,
                 14,
-                3,
+                7,
                 4,
                 0,
                 0
@@ -28142,7 +28125,7 @@
               "parameters": [
                 0,
                 14,
-                3,
+                7,
                 4,
                 0,
                 0
@@ -28217,6 +28200,23 @@
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "There are some very strange devices here."
               ]
             },
             {
@@ -28342,6 +28342,23 @@
               "code": 401,
               "indent": 1,
               "parameters": [
+                "There are some very strange devices here."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
                 "I sense energy I can use within those containers."
               ]
             },
@@ -28435,6 +28452,23 @@
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "There are some very strange devices here."
               ]
             },
             {

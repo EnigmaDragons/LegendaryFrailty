@@ -43,7 +43,7 @@
     "maxLevel": 99,
     "name": "Anselm",
     "nickname": "",
-    "note": "<level up event: 6>\n<ATB Start: 1200>",
+    "note": "Normal Form\n\n<level up event: 6>\n<ATB Start: 1200>",
     "profile": ""
   },
   {
@@ -87,7 +87,7 @@
     "traits": [],
     "initialLevel": 10,
     "maxLevel": 10,
-    "name": "Anselm - The Legend",
+    "name": "Anselm",
     "nickname": "",
     "note": "Weakening Form",
     "profile": ""

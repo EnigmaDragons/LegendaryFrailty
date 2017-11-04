@@ -17,7 +17,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "This device requires Crystalized Energy to turn on"
+          "This device requires Crystallized Energy to turn on."
         ]
       },
       {
@@ -69,7 +69,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "You used Crystallized Energy to power the device on"
+          "You used Crystallized Energy to power the device on."
         ]
       },
       {
@@ -130,7 +130,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "You extracted Crystallized Energy from the device"
+          "You extracted Crystallized Energy from the device."
         ]
       },
       {
@@ -6147,12 +6147,269 @@
     "id": 56,
     "list": [
       {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "FrailtyFaces",
+          2,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Why have you come to my private temple late this night?"
+        ]
+      },
+      {
+        "code": 102,
+        "indent": 0,
+        "parameters": [
+          [
+            "I am here to seek your favor and dwell in your temple.",
+            "It looks like you need a new guardian.",
+            "I shall make your temple more grand."
+          ],
+          -1,
+          0,
+          2,
+          0
+        ]
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          0,
+          "I am here to seek your favor and dwell in your temple."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "FrailtyFaces",
+          2,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>You have great strength. If you protect my temple, you may reside here."
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          1,
+          "It looks like you need a new guardian."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "FrailtyFaces",
+          2,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>You have proven yourself worthy of that title. I welcome you to stay here."
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          2,
+          "I shall make your temple more grand."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "FrailtyFaces",
+          2,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>As long as you protect my temple from those that may be tempted its powers. You may drink of its magic water and build upon the temple."
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 404,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "FrailtyFaces",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "<WordWrap>That is gracious of you. I will not let any harm befall your temple."
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "<WordWrap>Many years passed."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "<WordWrap>Though invaders came for the magic waters of Juturna, none prevailed over its legendary guardian."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Anselm expanded the temple and made it glorious."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "<WordWrap>Attacks become more infrequent, and peace lasted for a season."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "<WordWrap>During this time of peace, Anselm took up a number of hobbies. "
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          82,
+          82,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 201,
+        "indent": 0,
+        "parameters": [
+          0,
+          21,
+          22,
+          30,
+          0,
+          0
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "WaterTempleConversation",
     "switchId": 1,
     "trigger": 0
   },

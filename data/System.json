@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 29,
   "elements": [
     "",
     "Physical",
@@ -642,9 +642,9 @@
     "HealthBarVisible",
     "ShouldHideControls",
     "ViktorHasLeft",
-    "",
-    "",
-    "",
+    "Zero",
+    "PowerBarX",
+    "IsInCutscene",
     "",
     "",
     "",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 73046052,
+  "versionId": 75209814,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

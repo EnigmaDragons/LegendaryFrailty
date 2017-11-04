@@ -11836,7 +11836,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What has happened to my \\{\\c[4]water!\\}"
+                "What has happened to my \\{\\c[4]water?\\}"
               ]
             },
             {
@@ -12696,7 +12696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Follow the stream of water to it’s source. There I have seen a passageway to a dark castle owned by a powerful man named Viktor."
+                "<WordWrap>Follow the stream of water to its source. There I have seen a passageway to a dark castle owned by a powerful man named Viktor."
               ]
             },
             {
@@ -42071,7 +42071,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I love this book Daemon, excellent plot!"
+                "<WordWrap>I love this book, Le Morte d’Arthur. What an excellent plot!"
               ]
             },
             {
@@ -42148,7 +42148,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I remember reading through The Hobbit, definitely a Masterpiece"
+                "I remember reading through The Halfling. It’s quite a masterpiece."
               ]
             },
             {
@@ -42225,7 +42225,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>The principles of object oriented spellcasting, it explained a lot of fundamentals."
+                "<WordWrap>The Principles of Object-Oriented Spellcasting. It explains a lot of fundamentals."
               ]
             },
             {
@@ -42255,8 +42255,8 @@
           "walkAnime": true
         }
       ],
-      "x": 22,
-      "y": 29
+      "x": 20,
+      "y": 26
     },
     {
       "id": 267,
@@ -42379,7 +42379,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Death Note what an intense ride that book was."
+                "The Decameron. What an intense ride that book was!"
               ]
             },
             {
@@ -42409,8 +42409,8 @@
           "walkAnime": true
         }
       ],
-      "x": 20,
-      "y": 26
+      "x": 22,
+      "y": 29
     },
     {
       "id": 269,
@@ -42456,7 +42456,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I think everyone should read The Fallacy Detective. Before they make a stupid argument."
+                "<WordWrap>I think everyone should read The Organon. They would make fewer stupid arguments, if they did. "
               ]
             },
             {
@@ -42533,7 +42533,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What a good opening book to the trilogy, The Hunger Games."
+                "What a good opening book to the trilogy, Gladiator Games."
               ]
             },
             {
@@ -42610,7 +42610,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monitor, is definitely a scary concept about what the future could be like."
+                "Monitor. It is definitely a scary vision for the future."
               ]
             },
             {
@@ -42687,7 +42687,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Clean Caster. I love the SOLID principles."
+                "Clean Caster. I love the DEIMOS principles."
               ]
             },
             {
@@ -42764,7 +42764,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>A solid read for dealing with people How to make friends an influence people. "
+                "<WordWrap>An excellent resource for dealing with people, How to Avoid Social Piranhas."
               ]
             },
             {
@@ -42952,7 +42952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Test-Driven Rituals, if people read this less demons would be unleashed in this world."
+                "<WordWrap>Test-Driven Rituals. If people read this, fewer demons would be unleashed in this world."
               ]
             },
             {
@@ -43055,7 +43055,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>One of the more creative books I've read The Wizard's Guide to the Galaxy."
+                "<WordWrap>This is one of the most creative books I've read. Mage’s Guide to the Galaxy."
               ]
             },
             {
@@ -43132,7 +43132,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Ender's game was much better in the book than when they acted it out."
+                "<WordWrap>Summa Magisteria: Elemental Dispositions. A great primer on the true nature of the elements. "
               ]
             },
             {
@@ -43209,7 +43209,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Darwin Awards was certainly an entertaining read."
+                "Pythagoras' Awards is certainly an enlightening read."
               ]
             },
             {
@@ -43286,7 +43286,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eragon seemed much better the first time I read it."
+                "Simonius seemed much better the first time I read it."
               ]
             },
             {
@@ -43363,7 +43363,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The perfect cup of coffee!"
+                "It’s the perfect cup of coffee!"
               ]
             },
             {
@@ -44264,7 +44264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this one pile of stones."
+                "I call this one Pile of Stones."
               ]
             },
             {
@@ -44598,7 +44598,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece, Enigma Dragon."
+                "I call this piece Dragon of Mysteries."
               ]
             },
             {
@@ -44675,7 +44675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece, Enigma Dragon."
+                "I call this piece Dragon of Mysteries."
               ]
             },
             {
@@ -44752,7 +44752,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece, Enigma Dragon."
+                "I call this piece Dragon of Mysteries."
               ]
             },
             {
@@ -44829,7 +44829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece, Enigma Dragon."
+                "I call this piece Dragon of Mysteries."
               ]
             },
             {
@@ -45319,7 +45319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I need another bookshelf to fit these on."
+                "I need another bookshelf for all of these."
               ]
             },
             {

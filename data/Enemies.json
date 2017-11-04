@@ -88,13 +88,13 @@
     "traits": [],
     "gold": 0,
     "name": "Fountain Guardian",
-    "note": "Story - Palace Resident\n\n<AI Priority>\nUser HP% param < 40% +++ Random 66%: Triple Slash\nUser HP% param > 40% +++ Random 25%: Triple Slash\nAlways: Hydroblast\n</AI Priority>",
+    "note": "Story - Palace Resident\n\n<AI Priority>\nUser HP% param < 40% +++ Random 66%: Savage Slash\nUser HP% param > 40% +++ Random 25%: Savage Slash\nAlways: Hydroblast\n</AI Priority>",
     "params": [
       800,
       260,
-      44,
+      39,
       12,
-      80,
+      89,
       12,
       40,
       1
@@ -874,7 +874,7 @@
     "traits": [],
     "gold": 0,
     "name": "Viktor",
-    "note": "Story Character - 1st Encounter\n<JP: 10>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
+    "note": "Story Character - 1st Encounter\n<JP: 10>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nSwitch 24 ON: Retreat\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
     "params": [
       210,
       432,

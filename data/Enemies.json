@@ -202,7 +202,7 @@
     "traits": [],
     "gold": 0,
     "name": "Spider Bot",
-    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nAlways: Mini-Cannon Shot\nAlways: Bite\n</AI Priority>",
+    "note": "Level 1\n<JP: 10>\n\n<AI Priority>\nRandom 50%: Mini-Cannon Shot\nAlways: Bite\n</AI Priority>",
     "params": [
       26,
       20,

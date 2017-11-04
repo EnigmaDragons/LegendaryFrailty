@@ -1401,7 +1401,7 @@
   },
   {
     "id": 46,
-    "animationId": 0,
+    "animationId": 6,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1417,7 +1417,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Bite",
-    "note": "",
+    "note": "<Target Action>\nmotion swing: user\nmove user: target, front base\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1551,7 +1551,7 @@
   },
   {
     "id": 51,
-    "animationId": 0,
+    "animationId": 7,
     "damage": {
       "critical": false,
       "elementId": 4,
@@ -1567,7 +1567,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Zap",
-    "note": "",
+    "note": "<Target Action>\nmove user: point, 600, 550\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

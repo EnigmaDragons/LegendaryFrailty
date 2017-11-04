@@ -611,7 +611,7 @@
       {
         "code": 22,
         "dataId": 7,
-        "value": -0.025
+        "value": -0.032
       }
     ],
     "iconIndex": 404,
@@ -946,17 +946,17 @@
       {
         "code": 21,
         "dataId": 2,
-        "value": 1.2
+        "value": 1.4
       },
       {
         "code": 11,
         "dataId": 2,
-        "value": 1.2
+        "value": 1.4
       },
       {
         "code": 21,
         "dataId": 6,
-        "value": 1.2
+        "value": 1.4
       }
     ],
     "iconIndex": 0,

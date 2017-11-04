@@ -560,6 +560,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          102,
+          102,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -1128,29 +1139,23 @@
     "id": 10,
     "list": [
       {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "Actor_FW02_03",
-          5,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "Gotta jet!"
-        ]
-      },
-      {
         "code": 121,
         "indent": 0,
         "parameters": [
           21,
           21,
           0
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          102,
+          102,
+          0,
+          0,
+          1
         ]
       },
       {
@@ -1598,8 +1603,17 @@
     "id": 16,
     "list": [
       {
-        "code": 101,
+        "code": 111,
         "indent": 0,
+        "parameters": [
+          0,
+          25,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
         "parameters": [
           "Actor_FW02_03",
           1,
@@ -1609,14 +1623,14 @@
       },
       {
         "code": 401,
-        "indent": 0,
+        "indent": 1,
         "parameters": [
           "Nuh-uh. Don't be tampering with my robot."
         ]
       },
       {
         "code": 101,
-        "indent": 0,
+        "indent": 1,
         "parameters": [
           "Actor_FW02_03",
           1,
@@ -1626,10 +1640,20 @@
       },
       {
         "code": 401,
-        "indent": 0,
+        "indent": 1,
         "parameters": [
           "Let's keep this a clean fight. "
         ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
       },
       {
         "code": 0,
@@ -3857,12 +3881,21 @@
     "id": 36,
     "list": [
       {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          25,
+          25,
+          0
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SetMiningBotAffected",
     "switchId": 1,
     "trigger": 0
   },

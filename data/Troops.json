@@ -422,6 +422,201 @@
     "pages": [
       {
         "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 0,
+          "enemyIndex": 1,
+          "enemyValid": false,
+          "switchId": 24,
+          "switchValid": true,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              4,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I suppose that concludes the A/B test."
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              4,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "It worked so much better in my simulation."
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              0,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Thanks for the free Quality Testing! \\.\\."
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Now be a good guest and show yourself out."
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "Gotta jet!"
+            ]
+          },
+          {
+            "code": 339,
+            "indent": 0,
+            "parameters": [
+              0,
+              2,
+              79,
+              -2
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+          }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 100,
+          "enemyIndex": 2,
+          "enemyValid": true,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 1,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [
+          {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+              25,
+              25,
+              1
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "I've been needing someone to help with Quality Assurance."
+            ]
+          },
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+              "Actor_FW02_03",
+              5,
+              0,
+              2
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "My new prototype is ready for you to try out."
+            ]
+          },
+          {
+            "code": 241,
+            "indent": 0,
+            "parameters": [
+              {
+                "name": "BossBattle",
+                "volume": 100,
+                "pitch": 100,
+                "pan": 0
+              }
+            ]
+          },
+          {
+            "code": 335,
+            "indent": 0,
+            "parameters": [
+              1
+            ]
+          },
+          {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+          }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
           "actorHp": 70,
           "actorId": 2,
           "actorValid": true,
@@ -504,84 +699,7 @@
           "actorHp": 50,
           "actorId": 1,
           "actorValid": false,
-          "enemyHp": 100,
-          "enemyIndex": 2,
-          "enemyValid": true,
-          "switchId": 1,
-          "switchValid": false,
-          "turnA": 1,
-          "turnB": 0,
-          "turnEnding": false,
-          "turnValid": false
-        },
-        "list": [
-          {
-            "code": 101,
-            "indent": 0,
-            "parameters": [
-              "Actor_FW02_03",
-              5,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 0,
-            "parameters": [
-              "I've been needing someone to help with Quality Assurance."
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 0,
-            "parameters": [
-              "Actor_FW02_03",
-              5,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 0,
-            "parameters": [
-              "My new prototype is ready for you to try out."
-            ]
-          },
-          {
-            "code": 241,
-            "indent": 0,
-            "parameters": [
-              {
-                "name": "BossBattle",
-                "volume": 100,
-                "pitch": 100,
-                "pan": 0
-              }
-            ]
-          },
-          {
-            "code": 335,
-            "indent": 0,
-            "parameters": [
-              1
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 0,
-            "parameters": []
-          }
-        ],
-        "span": 0
-      },
-      {
-        "conditions": {
-          "actorHp": 50,
-          "actorId": 1,
-          "actorValid": false,
-          "enemyHp": 70,
+          "enemyHp": 0,
           "enemyIndex": 1,
           "enemyValid": true,
           "switchId": 1,
@@ -593,34 +711,12 @@
         },
         "list": [
           {
-            "code": 101,
+            "code": 121,
             "indent": 0,
             "parameters": [
-              "Actor_FW02_03",
-              5,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 0,
-            "parameters": [
-              "You're really wailing on my Robot. "
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 0,
-            "parameters": [
-              "Let's make things a little more interesting."
-            ]
-          },
-          {
-            "code": 335,
-            "indent": 0,
-            "parameters": [
-              3
+              24,
+              24,
+              0
             ]
           },
           {
@@ -672,11 +768,11 @@
           "enemyHp": 50,
           "enemyIndex": 0,
           "enemyValid": false,
-          "switchId": 1,
-          "switchValid": false,
+          "switchId": 25,
+          "switchValid": true,
           "turnA": 0,
           "turnB": 0,
-          "turnEnding": true,
+          "turnEnding": false,
           "turnValid": false
         },
         "list": [
@@ -684,14 +780,25 @@
             "code": 111,
             "indent": 0,
             "parameters": [
+              1,
+              102,
               0,
-              21,
-              1
+              0,
+              0
             ]
           },
           {
             "code": 111,
             "indent": 1,
+            "parameters": [
+              0,
+              25,
+              0
+            ]
+          },
+          {
+            "code": 111,
+            "indent": 2,
             "parameters": [
               5,
               1,
@@ -701,14 +808,14 @@
           },
           {
             "code": 117,
-            "indent": 2,
+            "indent": 3,
             "parameters": [
               16
             ]
           },
           {
             "code": 339,
-            "indent": 2,
+            "indent": 3,
             "parameters": [
               0,
               2,
@@ -718,17 +825,17 @@
           },
           {
             "code": 0,
-            "indent": 2,
+            "indent": 3,
             "parameters": []
           },
           {
             "code": 411,
-            "indent": 1,
+            "indent": 2,
             "parameters": []
           },
           {
             "code": 111,
-            "indent": 2,
+            "indent": 3,
             "parameters": [
               5,
               1,
@@ -738,14 +845,14 @@
           },
           {
             "code": 117,
-            "indent": 3,
+            "indent": 4,
             "parameters": [
               16
             ]
           },
           {
             "code": 339,
-            "indent": 3,
+            "indent": 4,
             "parameters": [
               0,
               2,
@@ -755,6 +862,16 @@
           },
           {
             "code": 0,
+            "indent": 4,
+            "parameters": []
+          },
+          {
+            "code": 412,
+            "indent": 3,
+            "parameters": []
+          },
+          {
+            "code": 0,
             "indent": 3,
             "parameters": []
           },
@@ -784,26 +901,35 @@
             "parameters": []
           },
           {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+              25,
+              25,
+              1
+            ]
+          },
+          {
             "code": 0,
             "indent": 0,
             "parameters": []
           }
         ],
-        "span": 1
+        "span": 2
       },
       {
         "conditions": {
           "actorHp": 50,
           "actorId": 1,
           "actorValid": false,
-          "enemyHp": 1,
+          "enemyHp": 70,
           "enemyIndex": 1,
-          "enemyValid": false,
+          "enemyValid": true,
           "switchId": 1,
           "switchValid": false,
           "turnA": 0,
           "turnB": 0,
-          "turnEnding": true,
+          "turnEnding": false,
           "turnValid": false
         },
         "list": [
@@ -812,96 +938,40 @@
             "indent": 0,
             "parameters": [
               0,
-              21,
+              24,
               1
             ]
           },
           {
-            "code": 111,
+            "code": 101,
             "indent": 1,
             "parameters": [
+              "Actor_FW02_03",
               5,
-              1,
-              1,
-              1
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 2,
-            "parameters": [
-              "Actor_FW02_03",
-              4,
               0,
               2
             ]
           },
           {
             "code": 401,
-            "indent": 2,
-            "parameters": [
-              "I suppose that concludes the A/B test."
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 2,
-            "parameters": [
-              "Actor_FW02_03",
-              4,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 2,
-            "parameters": [
-              "It worked so much better in my simulation."
-            ]
-          },
-          {
-            "code": 101,
-            "indent": 2,
-            "parameters": [
-              "Actor_FW02_03",
-              0,
-              0,
-              2
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 2,
-            "parameters": [
-              "Thanks for the free Quality Testing! \\.\\."
-            ]
-          },
-          {
-            "code": 401,
-            "indent": 2,
-            "parameters": [
-              "Now be a good guest and show yourself out."
-            ]
-          },
-          {
-            "code": 121,
-            "indent": 2,
-            "parameters": [
-              24,
-              24,
-              0
-            ]
-          },
-          {
-            "code": 0,
-            "indent": 2,
-            "parameters": []
-          },
-          {
-            "code": 412,
             "indent": 1,
-            "parameters": []
+            "parameters": [
+              "You're really wailing on my Robot. "
+            ]
+          },
+          {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+              "Let's make things a little more interesting."
+            ]
+          },
+          {
+            "code": 335,
+            "indent": 1,
+            "parameters": [
+              3
+            ]
           },
           {
             "code": 0,
@@ -919,7 +989,7 @@
             "parameters": []
           }
         ],
-        "span": 1
+        "span": 0
       }
     ]
   },

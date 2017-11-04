@@ -134,7 +134,7 @@
       3,
       11,
       3,
-      8,
+      18,
       11
     ]
   },
@@ -170,7 +170,7 @@
       0,
       15,
       4,
-      13,
+      20,
       4,
       15,
       5
@@ -356,13 +356,13 @@
     "name": "Hunter Bot",
     "note": "Level 3\n<JP: 30>\n\n<AI Priority>\nState !== Laser Targetted: Laser Targetting, Highest HP\nAlways: Ironsight Shot\n</AI Priority>",
     "params": [
-      80,
+      90,
       40,
-      33,
+      38,
       10,
       10,
       5,
-      20,
+      22,
       5
     ]
   },
@@ -400,12 +400,12 @@
     "name": "Mining Bot",
     "note": "Level 3 - Sub-boss\n<JP: 100>\n\n<AI Priority>\nEval user.isStateAffected(32): Drill\nState !== Burning: Flame Burst\nRandom 70%: Spin Up\nAlways: Bum Rush\n</AI Priority>",
     "params": [
-      400,
+      320,
       70,
-      21,
-      5,
-      24,
-      3,
+      22,
+      4,
+      25,
+      2,
       12,
       10
     ]
@@ -438,11 +438,11 @@
     "name": "Flame Bot",
     "note": "Level 4\n<JP: 40>\n\n<AI Priority>\nTurn === 1: Metallic Bite\nRandom 50%: Blue Flame Spit\nAlways: Metallic Bite\n</AI Priority>",
     "params": [
-      85,
+      95,
       80,
-      20,
+      24,
       8,
-      32,
+      35,
       20,
       33,
       15
@@ -481,7 +481,7 @@
       30,
       18,
       4,
-      7,
+      6,
       16,
       10
     ]
@@ -516,7 +516,7 @@
     "params": [
       16,
       10,
-      26,
+      30,
       3,
       10,
       4,
@@ -552,13 +552,13 @@
     "name": "Commando Bot",
     "note": "Final Boss\n<JP: 400>\n\n<AI Priority>\nUser HP% param < 50% +++ User Attack param > 50: Triple Blast\nEval user.isStateAffected(31): Blast\nUser HP% param < 50%: Large Missile Swarm\nTroop Alive Members <= 3: Missile Swarm\nAlways: Energy Charge\n</AI Priority> ",
     "params": [
-      800,
+      1000,
       400,
       46,
-      12,
+      14,
       10,
-      12,
-      20,
+      14,
+      23,
       20
     ]
   },
@@ -874,7 +874,7 @@
     "traits": [],
     "gold": 0,
     "name": "Viktor",
-    "note": "Story Character - 1st Encounter\n<JP: 10>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nSwitch 24 ON: Retreat\nLUK param > 1 +++ State === Inverted Axis: Reboot, Highest MaxHP \nLUK param > 1 +++ State === Dense: Reboot, Highest MaxHP\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
+    "note": "Story Character - 1st Encounter\n<JP: 10>\n<ATB Start: 1500>\n\n-- Luck param 1 is for non-robots.\n\n<AI Priority>\nUser HP% param <= 70%: Relocate\nAlways: Initialize Metrics\nAlways: Monitor A/B Test\n</AI Priority>\n",
     "params": [
       210,
       432,

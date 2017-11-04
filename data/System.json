@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 16,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 3,
-  "startX": 15,
-  "startY": 11,
+  "startMapId": 16,
+  "startX": 8,
+  "startY": 17,
   "switches": [
     "",
     "Battle1",
@@ -359,7 +359,7 @@
     "IsInDungeon",
     "ShouldHideControls",
     "MiningBotDefeated",
-    "",
+    "MiningBotAffected",
     "",
     "",
     "",
@@ -485,15 +485,15 @@
   },
   "testBattlers": [
     {
-      "actorId": 1,
+      "actorId": 3,
       "equips": [
         1,
-        10,
+        6,
         5,
-        5,
+        8,
         0
       ],
-      "level": 10
+      "level": 3
     },
     {
       "actorId": 0,
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 2,
+  "testTroopId": 10,
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
@@ -641,7 +641,7 @@
     "SelfDestructInitialized",
     "HealthBarVisible",
     "ShouldHideControls",
-    "",
+    "ViktorHasLeft",
     "",
     "",
     "",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 68324839,
+  "versionId": 26920377,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

@@ -1521,7 +1521,7 @@
   },
   {
     "id": 50,
-    "animationId": 9,
+    "animationId": 10,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1537,7 +1537,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Scan Intruder",
-    "note": "<Limit Uses: 1>\n\n<Target Action>\naction animation\nwait for animation\naction effect\n</Target Action>",
+    "note": "<Limit Uses: 1>\n",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1581,7 +1581,7 @@
   },
   {
     "id": 52,
-    "animationId": 0,
+    "animationId": 9,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1604,7 +1604,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Tracking Target",
-    "note": "",
+    "note": "<Target Action>\nperform start\naction animation\nwait for animation\naction effect\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

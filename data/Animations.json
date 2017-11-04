@@ -7743,7 +7743,7 @@
           -100,
           0,
           100,
-          270,
+          90,
           0,
           255,
           1
@@ -7765,7 +7765,7 @@
           -100,
           0,
           100,
-          270,
+          90,
           0,
           255,
           1
@@ -7787,7 +7787,7 @@
           -100,
           0,
           100,
-          270,
+          90,
           0,
           192,
           1
@@ -7809,7 +7809,7 @@
           -100,
           0,
           100,
-          270,
+          90,
           0,
           128,
           1
@@ -7831,7 +7831,7 @@
           -100,
           0,
           100,
-          270,
+          90,
           0,
           64,
           1
@@ -8249,7 +8249,7 @@
       ],
       []
     ],
-    "name": "Scan Intruder",
+    "name": "Target Tracking",
     "position": 1,
     "timings": [
       {
@@ -8290,13 +8290,11 @@
   },
   {
     "id": 10,
-    "animation1Hue": 0,
-    "animation1Name": "",
+    "animation1Hue": 327,
+    "animation1Name": "Revival2",
     "animation2Hue": 0,
     "animation2Name": "",
-    "frames": [
-      []
-    ],
+    "frames": [],
     "name": "",
     "position": 1,
     "timings": []

@@ -6503,7 +6503,7 @@
                     {
                       "code": 45,
                       "parameters": [
-                        "TELEPORT: 0, 0"
+                        "TELEPORT: 10, 27"
                       ],
                       "indent": null
                     },
@@ -6524,7 +6524,7 @@
                 {
                   "code": 45,
                   "parameters": [
-                    "TELEPORT: 0, 0"
+                    "TELEPORT: 10, 27"
                   ],
                   "indent": null
                 }

@@ -26179,7 +26179,7 @@
                     {
                       "code": 45,
                       "parameters": [
-                        "JUMP FORWARD: 20"
+                        "TELEPORT: 50, 29"
                       ],
                       "indent": null
                     },
@@ -26210,7 +26210,7 @@
                 {
                   "code": 45,
                   "parameters": [
-                    "JUMP FORWARD: 20"
+                    "TELEPORT: 50, 29"
                   ],
                   "indent": null
                 }

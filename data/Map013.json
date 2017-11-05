@@ -2886,7 +2886,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2945,7 +2945,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2993,7 +2993,7 @@
         }
       ],
       "x": 17,
-      "y": 13
+      "y": 14
     },
     {
       "id": 3,
@@ -7997,7 +7997,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8056,7 +8056,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8104,7 +8104,7 @@
         }
       ],
       "x": 17,
-      "y": 14
+      "y": 13
     },
     {
       "id": 33,
@@ -8182,7 +8182,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8241,7 +8241,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8367,7 +8367,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8426,7 +8426,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8552,7 +8552,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8611,7 +8611,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8737,7 +8737,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8796,7 +8796,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8922,7 +8922,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -8981,7 +8981,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9107,7 +9107,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9166,7 +9166,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9292,7 +9292,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9351,7 +9351,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9477,7 +9477,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9536,7 +9536,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9662,7 +9662,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9721,7 +9721,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9847,7 +9847,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -9906,7 +9906,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10032,7 +10032,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10091,7 +10091,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10139,7 +10139,7 @@
         }
       ],
       "x": 10,
-      "y": 9
+      "y": 8
     },
     {
       "id": 44,
@@ -10217,7 +10217,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10276,7 +10276,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10324,7 +10324,7 @@
         }
       ],
       "x": 10,
-      "y": 8
+      "y": 9
     },
     {
       "id": 45,
@@ -10402,7 +10402,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10461,7 +10461,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10587,7 +10587,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10646,7 +10646,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10772,7 +10772,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10831,7 +10831,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -10957,7 +10957,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11016,7 +11016,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11142,7 +11142,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11201,7 +11201,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11327,7 +11327,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11386,7 +11386,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11512,7 +11512,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11571,7 +11571,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11697,7 +11697,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11756,7 +11756,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11882,7 +11882,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -11941,7 +11941,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12067,7 +12067,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12126,7 +12126,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12202,7 +12202,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -12252,7 +12252,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12318,199 +12318,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 0,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                9
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        }
-      ],
-      "x": 15,
-      "y": 13
-    },
-    {
-      "id": 56,
-      "name": "EV056",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": false,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 0,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 0,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [
-                60
-              ]
-            },
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12561,8 +12369,8 @@
       "y": 14
     },
     {
-      "id": 57,
-      "name": "EV057",
+      "id": 56,
+      "name": "EV056",
       "note": "",
       "pages": [
         {
@@ -12586,7 +12394,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -12636,7 +12444,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12702,7 +12510,199 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                9
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 15,
+      "y": 13
+    },
+    {
+      "id": 57,
+      "name": "EV057",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
             "variableId": 16,
+            "variableValid": false,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                60
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12778,7 +12778,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -12828,7 +12828,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12894,7 +12894,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -12970,7 +12970,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13020,7 +13020,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13086,7 +13086,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13162,7 +13162,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13212,7 +13212,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13278,7 +13278,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13354,7 +13354,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13404,7 +13404,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13470,7 +13470,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13546,7 +13546,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13596,7 +13596,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13662,7 +13662,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13738,7 +13738,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13788,7 +13788,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13854,7 +13854,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -13930,7 +13930,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -13980,7 +13980,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14046,7 +14046,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14122,7 +14122,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -14172,7 +14172,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14238,7 +14238,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14314,7 +14314,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -14364,7 +14364,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14430,7 +14430,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14506,7 +14506,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -14556,7 +14556,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14622,7 +14622,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14698,7 +14698,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -14748,7 +14748,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14814,7 +14814,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -14890,7 +14890,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -14940,7 +14940,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15006,7 +15006,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15082,7 +15082,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -15132,7 +15132,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15198,7 +15198,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15274,7 +15274,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -15324,7 +15324,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15390,7 +15390,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15466,7 +15466,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -15516,7 +15516,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15582,7 +15582,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15658,7 +15658,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -15708,7 +15708,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15774,7 +15774,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15850,7 +15850,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -15900,7 +15900,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -15966,7 +15966,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16042,7 +16042,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -16092,7 +16092,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16158,7 +16158,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16234,7 +16234,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -16284,7 +16284,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16350,7 +16350,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16426,7 +16426,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -16476,7 +16476,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16542,7 +16542,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16618,7 +16618,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -16668,7 +16668,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16734,7 +16734,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16810,7 +16810,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -16860,7 +16860,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -16869,7 +16869,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -16926,75 +16926,8 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                9
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        }
-      ],
-      "x": 14,
-      "y": 13
-    },
-    {
-      "id": 80,
-      "name": "EV080",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": false,
             "variableValue": 1
           },
           "directionFix": false,
@@ -17003,131 +16936,6 @@
             "characterName": "!Other1",
             "direction": 2,
             "pattern": 0,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [
-                120
-              ]
-            },
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -17169,8 +16977,8 @@
       "y": 13
     },
     {
-      "id": 81,
-      "name": "EV081",
+      "id": 80,
+      "name": "EV080",
       "note": "",
       "pages": [
         {
@@ -17194,7 +17002,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -17244,7 +17052,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17253,7 +17061,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17310,7 +17118,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17319,7 +17127,199 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                9
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 14,
+      "y": 13
+    },
+    {
+      "id": 81,
+      "name": "EV081",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": false,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
             "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                120
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17386,7 +17386,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -17436,7 +17436,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17445,7 +17445,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17502,7 +17502,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17511,7 +17511,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17578,7 +17578,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -17628,7 +17628,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17637,7 +17637,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17694,7 +17694,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17703,7 +17703,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17770,7 +17770,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -17820,7 +17820,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17829,7 +17829,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17886,7 +17886,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -17895,7 +17895,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -17962,7 +17962,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18012,7 +18012,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18021,7 +18021,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18078,7 +18078,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18087,7 +18087,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18154,7 +18154,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18204,7 +18204,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18213,7 +18213,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18270,7 +18270,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18279,7 +18279,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18346,7 +18346,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18396,7 +18396,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18405,7 +18405,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18462,7 +18462,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18471,7 +18471,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18538,7 +18538,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18588,7 +18588,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18597,7 +18597,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18654,7 +18654,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18663,7 +18663,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18730,7 +18730,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18780,7 +18780,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18789,7 +18789,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18846,7 +18846,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18855,7 +18855,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -18922,7 +18922,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -18972,7 +18972,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -18981,7 +18981,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19038,7 +19038,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19047,7 +19047,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19114,7 +19114,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -19164,7 +19164,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19173,7 +19173,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19230,7 +19230,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19239,7 +19239,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19306,7 +19306,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -19356,7 +19356,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19365,7 +19365,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19422,7 +19422,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19431,7 +19431,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19498,7 +19498,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -19548,7 +19548,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19557,7 +19557,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19614,7 +19614,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19623,7 +19623,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19690,7 +19690,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -19740,7 +19740,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19749,7 +19749,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19806,7 +19806,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19815,7 +19815,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19882,7 +19882,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -19932,7 +19932,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -19941,7 +19941,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -19998,7 +19998,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20007,7 +20007,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20074,7 +20074,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -20124,7 +20124,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20133,7 +20133,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20190,7 +20190,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20199,7 +20199,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20266,7 +20266,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -20316,7 +20316,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20325,7 +20325,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20382,7 +20382,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20391,7 +20391,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20458,7 +20458,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -20508,7 +20508,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20517,7 +20517,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20574,7 +20574,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20583,7 +20583,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20650,7 +20650,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -20700,7 +20700,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20709,7 +20709,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20766,7 +20766,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20775,7 +20775,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20842,7 +20842,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -20892,7 +20892,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20901,7 +20901,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -20958,7 +20958,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -20967,7 +20967,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -21034,7 +21034,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -21084,7 +21084,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -21093,7 +21093,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -21150,7 +21150,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -21159,7 +21159,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -24990,7 +24990,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -25040,7 +25040,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -25049,7 +25049,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -25106,7 +25106,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -25115,7 +25115,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -25182,7 +25182,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -25232,7 +25232,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -25241,7 +25241,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -25298,7 +25298,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -25307,7 +25307,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -25643,8 +25643,8 @@
               "code": 122,
               "indent": 2,
               "parameters": [
-                16,
-                16,
+                120,
+                120,
                 0,
                 0,
                 0
@@ -25661,8 +25661,8 @@
               "code": 122,
               "indent": 2,
               "parameters": [
-                16,
-                16,
+                120,
+                120,
                 0,
                 0,
                 1

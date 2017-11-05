@@ -1623,7 +1623,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -1682,7 +1682,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -1808,7 +1808,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -1867,7 +1867,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -1993,7 +1993,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2052,7 +2052,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2178,7 +2178,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2237,7 +2237,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2313,7 +2313,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -2363,7 +2363,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2429,7 +2429,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2505,7 +2505,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -2555,7 +2555,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2621,7 +2621,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2697,7 +2697,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -2747,7 +2747,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2813,7 +2813,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -2889,7 +2889,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -2939,7 +2939,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3005,7 +3005,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3081,7 +3081,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -3131,7 +3131,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3140,7 +3140,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -3197,7 +3197,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3206,7 +3206,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -3273,7 +3273,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -3323,7 +3323,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3332,7 +3332,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -3389,75 +3389,8 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                9
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        }
-      ],
-      "x": 9,
-      "y": 6
-    },
-    {
-      "id": 11,
-      "name": "EV011",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": false,
             "variableValue": 1
           },
           "directionFix": false,
@@ -3466,131 +3399,6 @@
             "characterName": "!Other1",
             "direction": 2,
             "pattern": 0,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 4
-          },
-          "list": [
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [
-                120
-              ]
-            },
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 6,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 4,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 16,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!Other1",
-            "direction": 2,
-            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -3632,8 +3440,8 @@
       "y": 5
     },
     {
-      "id": 12,
-      "name": "EV012",
+      "id": 11,
+      "name": "EV011",
       "note": "",
       "pages": [
         {
@@ -3657,7 +3465,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -3707,7 +3515,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3716,7 +3524,7 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
-            "pattern": 1,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -3773,7 +3581,7 @@
             "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 16,
+            "variableId": 120,
             "variableValid": true,
             "variableValue": 1
           },
@@ -3782,7 +3590,199 @@
             "tileId": 0,
             "characterName": "!Other1",
             "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                9
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": false,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
             "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                120
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 120,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
             "characterIndex": 4
           },
           "list": [
@@ -4148,8 +4148,8 @@
               "code": 122,
               "indent": 2,
               "parameters": [
-                16,
-                16,
+                120,
+                120,
                 0,
                 0,
                 0
@@ -4166,8 +4166,8 @@
               "code": 122,
               "indent": 2,
               "parameters": [
-                16,
-                16,
+                120,
+                120,
                 0,
                 0,
                 1

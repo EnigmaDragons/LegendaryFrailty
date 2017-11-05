@@ -571,6 +571,18 @@
         ]
       },
       {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "GD_Escape",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -6692,12 +6704,24 @@
     "id": 59,
     "list": [
       {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "GD_RobotWheelsGoing2",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "ButlerEscapes",
     "switchId": 1,
     "trigger": 0
   },

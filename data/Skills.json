@@ -1869,6 +1869,12 @@
     "description": "",
     "effects": [
       {
+        "code": 44,
+        "dataId": 59,
+        "value1": 1,
+        "value2": 0
+      },
+      {
         "code": 41,
         "dataId": 0,
         "value1": 1,

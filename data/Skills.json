@@ -1521,7 +1521,7 @@
   },
   {
     "id": 50,
-    "animationId": 10,
+    "animationId": 0,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1694,7 +1694,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Full-Auto Burst",
-    "note": "",
+    "note": "<Target Action>\nmove user: point, 480, 550\nanimation 11: user\nanimation 10: target, mirror\nwait for animation\naction effect\naction effect\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 3,
     "requiredWtypeId1": 0,

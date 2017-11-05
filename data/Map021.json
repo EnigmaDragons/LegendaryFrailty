@@ -40101,7 +40101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Yo dawg, I hear this be some sorta magic place, that means it gotta have treasure.\\. Right Pops?"
+                "<WordWrap>Yo dawg, I hear this be some sorta magic place. That means it’s gotta have treasure. \\. Right Pops?"
               ]
             },
             {
@@ -40180,7 +40180,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I am not afraid of you! Let’s go pops!"
+                "I not afraid of you! Let’s go, Pops!"
               ]
             },
             {
@@ -40210,7 +40210,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You lying to me! No one lies to me pops!"
+                "You be lying to me! No one lies to me, Pops!"
               ]
             },
             {
@@ -40250,7 +40250,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I am not afraid of you! Let’s go pops!"
+                "I not afraid of you! Let’s go, Pops!"
               ]
             },
             {
@@ -40280,7 +40280,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You lying to me! No one lies to me pops!"
+                "You be lying to me! No one lies to me, Pops!"
               ]
             },
             {
@@ -40580,7 +40580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>You have let my waters become toxic! I entrusted you with a divine mission yet you have been negligent."
+                "<WordWrap>You have let my waters become toxic! I entrusted you with a divine mission, yet you have been negligent."
               ]
             },
             {
@@ -40597,7 +40597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>You are no longer a fit guardian. Stop the source of this pollution to my water and defeat my guardian again and I shall grant you your position back."
+                "<WordWrap>You are no longer a worthy guardian. Stop the source of this pollution to my water and defeat my guardian again and I shall grant you your position back."
               ]
             },
             {
@@ -40614,7 +40614,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Follow the stream of water to its source. There I have seen a passageway to a dark castle owned by a powerful man named Viktor."
+                "<WordWrap>Follow the stream of water to its source. There, I have seen a passageway to a dark castle owned by a powerful man named Viktor."
               ]
             },
             {
@@ -42240,7 +42240,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elegant Spellcrafting Vol 1. What a controversial read."
+                "Elegant Spellcrafting Vol 1. - What a controversial read."
               ]
             },
             {
@@ -42317,7 +42317,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Decameron. What an intense ride that book was!"
+                "The Decameron - What an intense ride that book was!"
               ]
             },
             {
@@ -42394,7 +42394,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I think everyone should read The Organon. They would make fewer stupid arguments, if they did. "
+                "<WordWrap>I think everyone should read The Organon. They would make fewer stupid arguments if they did. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                " "
               ]
             },
             {
@@ -42471,7 +42478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What a good opening book to the trilogy, Gladiator Games."
+                "Gladiator Games is such a good opening book to the trilogy,"
               ]
             },
             {
@@ -42548,7 +42555,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monitor. It is definitely a scary vision for the future."
+                "Monitor — It is definitely a scary vision for the future."
               ]
             },
             {
@@ -42625,7 +42632,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Clean Caster. I love the DEIMOS principles."
+                "Clean Caster - I love the DEIMOS principles."
               ]
             },
             {
@@ -42702,7 +42709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>An excellent resource for dealing with people, How to Avoid Social Piranhas."
+                "<WordWrap>An excellent resource for dealing with people - How to Avoid Social Piranhas."
               ]
             },
             {
@@ -42890,7 +42897,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Test-Driven Rituals. If people read this, fewer demons would be unleashed in this world."
+                "<WordWrap>Test-Driven Rituals - If people read this, fewer demons would be unleashed in this world."
               ]
             },
             {
@@ -42993,7 +43000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>This is one of the most creative books I've read. Mage’s Guide to the Galaxy."
+                "<WordWrap>This is one of the most creative books I've ever read — Mage’s Guide to the Galaxy."
               ]
             },
             {
@@ -43070,7 +43077,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Summa Magisteria: Elemental Dispositions. A great primer on the true nature of the elements. "
+                "<WordWrap>Summa Magisteria: Elemental Dispositions - A great primer on the true nature of the elements. "
               ]
             },
             {
@@ -43455,7 +43462,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>An apple a day keeps the doctor away. \\.Well I have not seen a doctor in centuries so it must be true."
+                "<WordWrap>An apple a day keeps the doctor away. \\.Well, I have not seen a doctor in centuries, so it must be true."
               ]
             },
             {
@@ -44202,7 +44209,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this one Pile of Stones."
+                "I call this one \"Pile of Stones\"."
               ]
             },
             {
@@ -44536,7 +44543,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece Dragon of Mysteries."
+                "I call this piece \"Dragon of Mysteries.\""
               ]
             },
             {
@@ -44613,7 +44620,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece Dragon of Mysteries."
+                "I call this piece \"Dragon of Mysteries.\""
               ]
             },
             {
@@ -44690,7 +44697,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece Dragon of Mysteries."
+                "I call this piece \"Dragon of Mysteries.\""
               ]
             },
             {
@@ -44767,7 +44774,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I call this piece Dragon of Mysteries."
+                "I call this piece \"Dragon of Mysteries.\""
               ]
             },
             {
@@ -45257,7 +45264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I need another bookshelf for all of these."
+                "I need another bookcase for all of these."
               ]
             },
             {

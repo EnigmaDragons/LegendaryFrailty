@@ -312,6 +312,24 @@ Scene_Title.prototype.centerSprite = function(sprite) {
 
 Scene_Title.prototype.createCommandWindow = function() {
     this._commandWindow = new Window_TitleCommand();
+    //Custom Code
+    this._commandWindow.cursorRight = function(wrap) {
+        var index = this.index();
+        var maxItems = this.maxItems();
+        var maxCols = this.maxCols();
+        if (index < maxItems - maxCols || (wrap && maxCols === 1)) {
+            this.select((index + maxCols) % maxItems);
+        }
+    };
+    this._commandWindow.cursorLeft = function(wrap) {
+        var index = this.index();
+        var maxItems = this.maxItems();
+        var maxCols = this.maxCols();
+        if (index >= maxCols || (wrap && maxCols === 1)) {
+            this.select((index - maxCols + maxItems) % maxItems);
+        }
+    };
+    //End Custom Code
     this._commandWindow.setHandler('newGame',  this.commandNewGame.bind(this));
     this._commandWindow.setHandler('continue', this.commandContinue.bind(this));
     this._commandWindow.setHandler('options',  this.commandOptions.bind(this));

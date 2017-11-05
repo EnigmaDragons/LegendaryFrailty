@@ -1392,13 +1392,6 @@
           },
           "list": [
             {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "hide_variable_hud : 1"
-              ]
-            },
-            {
               "code": 135,
               "indent": 0,
               "parameters": [

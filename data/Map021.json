@@ -27540,7 +27540,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The toxins stopped flowing, and you have become strong again. "
+                "Welcome back, Anselm."
               ]
             },
             {
@@ -27557,7 +27557,53 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Welcome back!"
+                "I am pleased to see you return in good health."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>My waters are pure again, and it seems you have become strong again."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>You may be my guardian once again. Be ever vigilant in defense of my temple!"
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                60
               ]
             },
             {
@@ -27565,9 +27611,9 @@
               "indent": 1,
               "parameters": [
                 0,
-                29,
-                7,
-                6,
+                4,
+                15,
+                11,
                 0,
                 0
               ]
@@ -40362,13 +40408,6 @@
               "indent": 0,
               "parameters": [
                 "Light off 203"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
-                "show_variable_hud : 1"
               ]
             },
             {

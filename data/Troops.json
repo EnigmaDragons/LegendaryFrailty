@@ -1005,7 +1005,7 @@
       {
         "enemyId": 21,
         "x": 128,
-        "y": 388,
+        "y": 400,
         "hidden": false
       }
     ],
@@ -1157,7 +1157,14 @@
   },
   {
     "id": 14,
-    "members": [],
+    "members": [
+      {
+        "enemyId": 21,
+        "x": 408,
+        "y": 436,
+        "hidden": false
+      }
+    ],
     "name": "",
     "pages": [
       {

@@ -2238,7 +2238,7 @@
             "skippable": false,
             "wait": false
           },
-          "moveSpeed": 3,
+          "moveSpeed": 6,
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,

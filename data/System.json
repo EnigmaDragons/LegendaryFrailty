@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 25,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 25,
-  "startX": 2,
-  "startY": 9,
+  "startMapId": 3,
+  "startX": 15,
+  "startY": 11,
   "switches": [
     "",
     "Battle1",
@@ -645,7 +645,7 @@
     "Zero",
     "PowerBarX",
     "IsInCutscene",
-    "",
+    "TempleConvo",
     "DemonstrationProgress",
     "",
     "",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 71926023,
+  "versionId": 74452955,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

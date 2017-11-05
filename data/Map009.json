@@ -27629,7 +27629,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Given you might try to ruin my public image."
+                "<WordWrap>I obviously can’t leave it to chance that you might try to ruin my public image."
               ]
             },
             {
@@ -36470,7 +36470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
+                "<WordWrap>I'm prototyping a new power source that you can't make Crystallized Energy from."
               ]
             },
             {
@@ -36684,7 +36684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
+                "<WordWrap>I'm prototyping a new power source that you can't make Crystallized Energy from."
               ]
             },
             {
@@ -36898,7 +36898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
+                "<WordWrap>I'm prototyping a new power source that you can't make Crystallized Energy from."
               ]
             },
             {
@@ -37112,7 +37112,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I'm prototyping a new power source that you can't make crystalized energy from."
+                "<WordWrap>I'm prototyping a new power source that you can't make Crystallized Energy from."
               ]
             },
             {
@@ -38459,7 +38459,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "May I interest you in a beverage?"
+                "May I offer you a beverage?"
               ]
             },
             {
@@ -38580,14 +38580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you are hungry or thirsty later during your tour"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "don't hesitate to ask us for refreshements."
+                "<WordWrap>If you are hungry or thirsty later during your tour, don't hesitate to ask us for refreshments."
               ]
             },
             {
@@ -39450,7 +39443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -39467,7 +39460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -39515,7 +39508,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -39532,21 +39525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -39563,7 +39542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -39580,21 +39559,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -42628,7 +42600,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>This plant looks identical to the plant over there, leaf for leaf. I wonder why you would use fake plants."
+                "<WordWrap>This plant looks identical to the plant over there, leaf for leaf. I wonder why he would use fake plants."
               ]
             },
             {
@@ -42893,7 +42865,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>I wonder what signifigance the transition to red from darkness the artist intended."
+                "<WordWrap>I wonder what significance the artist intended with the transition from darkness to red."
               ]
             },
             {
@@ -44934,7 +44906,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Using gold as means of showing off success. It's a good effort toward encouraging people that they will have success in ventures with you."
+                "<WordWrap>Using gold as a means of showing off success... It's a good effort towards encouraging people that they will have success in ventures with you."
               ]
             },
             {

@@ -6479,6 +6479,13 @@
         ]
       },
       {
+        "code": 356,
+        "indent": 1,
+        "parameters": [
+          "hide_variable_hud : 1"
+        ]
+      },
+      {
         "code": 0,
         "indent": 1,
         "parameters": []
@@ -6497,6 +6504,13 @@
           0,
           0,
           1
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 1,
+        "parameters": [
+          "show_variable_hud : 1"
         ]
       },
       {

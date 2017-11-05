@@ -3220,18 +3220,6 @@
           },
           "list": [
             {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "Sound2",
-                  "volume": 100,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -3268,6 +3256,18 @@
               "parameters": [
                 0,
                 "Drink it."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Sound2",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
               ]
             },
             {

@@ -45373,6 +45373,107 @@
               "parameters": []
             },
             {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 249,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "GD_Sleeping",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                1,
+                "Sleeping",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [
+                1,
+                0,
+                0,
+                0,
+                -120,
+                0,
+                100,
+                100,
+                255,
+                0,
+                120,
+                true
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [
+                1,
+                0,
+                0,
+                0,
+                -300,
+                0,
+                100,
+                100,
+                255,
+                0,
+                150,
+                true
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [
+                1,
+                0,
+                0,
+                0,
+                -420,
+                0,
+                100,
+                100,
+                0,
+                0,
+                120,
+                true
+              ]
+            },
+            {
               "code": 205,
               "indent": 1,
               "parameters": [

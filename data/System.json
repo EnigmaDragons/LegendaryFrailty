@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 18,
   "elements": [
     "",
     "Physical",
@@ -659,9 +659,9 @@
     "",
     "",
     "",
-    ""
+    "SpikeReset"
   ],
-  "versionId": 74452955,
+  "versionId": 31608020,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

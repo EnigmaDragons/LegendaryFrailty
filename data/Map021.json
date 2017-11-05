@@ -39646,7 +39646,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "Light on 184"
+                "Light on 203"
               ]
             },
             {
@@ -40355,6 +40355,20 @@
                   ],
                   "indent": null
                 }
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "Light off 203"
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "show_variable_hud : 1"
               ]
             },
             {

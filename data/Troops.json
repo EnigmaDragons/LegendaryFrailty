@@ -512,6 +512,18 @@
             ]
           },
           {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+              {
+                "name": "GD_Escape",
+                "volume": 100,
+                "pitch": 100,
+                "pan": 0
+              }
+            ]
+          },
+          {
             "code": 339,
             "indent": 0,
             "parameters": [

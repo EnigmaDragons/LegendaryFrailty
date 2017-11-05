@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 29,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -645,7 +645,7 @@
     "Zero",
     "PowerBarX",
     "IsInCutscene",
-    "",
+    "TempleConvo",
     "",
     "",
     "",
@@ -661,7 +661,7 @@
     "",
     ""
   ],
-  "versionId": 75209814,
+  "versionId": 31589709,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

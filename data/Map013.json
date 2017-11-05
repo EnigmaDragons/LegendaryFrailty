@@ -26235,14 +26235,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I tried to make this room with electricity on the floor instead "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of spikes."
+                "<WordWrap>I tried to make this room with electricity on the floor instead of spikes..."
               ]
             },
             {

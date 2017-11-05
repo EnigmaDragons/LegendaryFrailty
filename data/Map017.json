@@ -8246,7 +8246,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "<WordWrap>You may start on any color but you must follow the pattern Blue Green Red until completeion."
+                "<WordWrap>You may start on any color, but you must follow the pattern Blue -> Green -> Red until completion."
               ]
             },
             {

@@ -31340,7 +31340,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>You're one to talk, you are taking my vitality stones from those boxes."
+                "<WordWrap>You're one to talk! You are taking my Vitality Stones from those boxes."
               ]
             },
             {
@@ -31743,7 +31743,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<WordWrap>Don't touch that. It controls the temperature and you don't want to make us both uncomfortable."
+                "<WordWrap>Don't touch that! It controls the temperature, and you don't want to make us both uncomfortable."
               ]
             },
             {
@@ -31752,7 +31752,7 @@
               "parameters": [
                 [
                   "Turn up the heat",
-                  "Drop the temperture",
+                  "Drop the temperature",
                   "Don't touch it"
                 ],
                 2,
@@ -31783,7 +31783,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Congratulations you have me sweating bullets here."
+                "Congratulations, you have me sweating bullets here."
               ]
             },
             {
@@ -31804,7 +31804,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "Drop the temperture"
+                "Drop the temperature"
               ]
             },
             {
@@ -31821,7 +31821,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "That was cold thing to do."
+                "That was a cold thing to do."
               ]
             },
             {

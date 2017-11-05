@@ -4414,14 +4414,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you have ever seen those out of place traps that you wonder "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "who the hell would put this here. That was me!"
+                "<WordWrap>If you have ever seen those out-of-place traps that you wonder ‘who the HELL would put this here’... That was me!"
               ]
             },
             {

@@ -29967,7 +29967,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -29984,7 +29984,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -30001,21 +30001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -30032,7 +30018,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -30049,21 +30035,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -30080,7 +30052,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -30097,21 +30069,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -30203,7 +30168,7 @@
           "walkAnime": true
         }
       ],
-      "x": 33,
+      "x": 34,
       "y": 51
     },
     {
@@ -38863,620 +38828,6 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                4,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You have clearly gotten off on the wrong stop."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                1,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That’s a magical parlor trick."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                1,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                62,
-                62,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 62,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 34,
-      "y": 51
-    },
-    {
-      "id": 72,
-      "name": "EV072",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 111,
-              "indent": 0,
-              "parameters": [
-                0,
-                31,
-                1
-              ]
-            },
-            {
-              "code": 115,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 412,
-              "indent": 0,
-              "parameters": []
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                4,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You have clearly gotten off on the wrong stop."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                1,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That’s a magical parlor trick."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                1,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                62,
-                62,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 62,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 35,
-      "y": 51
-    },
-    {
-      "id": 73,
-      "name": "EV073",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 111,
-              "indent": 0,
-              "parameters": [
-                0,
-                31,
-                1
-              ]
-            },
-            {
-              "code": 115,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 412,
-              "indent": 0,
-              "parameters": []
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "Actor_FW02_03",
-                5,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
                 "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
@@ -39511,21 +38862,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -39694,6 +39031,550 @@
       ],
       "x": 35,
       "y": 52
+    },
+    {
+      "id": 72,
+      "name": "EV072",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                31,
+                1
+              ]
+            },
+            {
+              "code": 115,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                4,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You have clearly gotten off at the wrong stop."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That’s nothing more than a magical parlor trick."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                62,
+                62,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 62,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 35,
+      "y": 54
+    },
+    {
+      "id": 73,
+      "name": "EV073",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                31,
+                1
+              ]
+            },
+            {
+              "code": 115,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                4,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You have clearly gotten off at the wrong stop."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That’s nothing more than a magical parlor trick."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                62,
+                62,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 62,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 31,
+      "y": 54
     },
     {
       "id": 74,
@@ -40353,7 +40234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -40370,7 +40251,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -40387,21 +40268,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -40418,7 +40285,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -40435,21 +40302,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -40466,7 +40319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -40483,21 +40336,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -40589,8 +40435,8 @@
           "walkAnime": true
         }
       ],
-      "x": 32,
-      "y": 51
+      "x": 31,
+      "y": 52
     },
     {
       "id": 77,
@@ -40660,7 +40506,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -40677,7 +40523,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -40694,21 +40540,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -40725,7 +40557,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -40742,21 +40574,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -40773,7 +40591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -40790,21 +40608,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -40967,7 +40778,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -40984,7 +40795,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -41001,21 +40812,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -41032,7 +40829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -41049,21 +40846,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -41080,7 +40863,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -41097,21 +40880,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -41203,8 +40979,8 @@
           "walkAnime": true
         }
       ],
-      "x": 31,
-      "y": 52
+      "x": 32,
+      "y": 51
     },
     {
       "id": 79,
@@ -47653,7 +47429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -47670,7 +47446,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -47687,21 +47463,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -47718,7 +47480,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -47735,21 +47497,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -47766,7 +47514,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -47783,21 +47531,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -47889,8 +47630,8 @@
           "walkAnime": true
         }
       ],
-      "x": 31,
-      "y": 54
+      "x": 33,
+      "y": 51
     },
     {
       "id": 132,
@@ -47960,7 +47701,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome welcome\\..\\..\\.. wait a minute, \\.you’re not my investors."
+                "Welcome, welcome\\..\\..\\.. wait a minute, \\.you’re not one of my investors."
               ]
             },
             {
@@ -47977,7 +47718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have clearly gotten off on the wrong stop."
+                "You have clearly gotten off at the wrong stop."
               ]
             },
             {
@@ -47994,21 +47735,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where are you?\\."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It’s ill-mannered of you to talk at someone rather than to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "<WordWrap>Where are you?\\. It’s ill-mannered of you to talk at someone rather than to them."
               ]
             },
             {
@@ -48025,7 +47752,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ill-mannered!\\. I’m showing you one of my great inventions! "
+                "<WordWrap>Ill-mannered!\\. I’m showing you one of my great inventions! "
               ]
             },
             {
@@ -48042,21 +47769,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I am able to see, hear and talk to you from the comfort of my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "room on the other side of this facility."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\.Now don’t you think that’s impressive."
+                "<WordWrap>I am able to see, hear and talk to you from the comfort of my room on the other side of this facility. \\.Now, don’t you think that’s impressive?"
               ]
             },
             {
@@ -48073,7 +47786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That’s a magical parlor trick."
+                "That’s nothing more than a magical parlor trick."
               ]
             },
             {
@@ -48090,21 +47803,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now who is being ill-mannered, an uninvited, unwelcome guest."
+                "<WordWrap>Now who is being ill-mannered? An uninvited and unwelcome guest, that’s who!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\.I recommend you get back into the train, and go back to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "whatever hole you came from."
+                "<WordWrap>\\.I recommend you get back into the train, and go back to whatever hole you came from."
               ]
             },
             {
@@ -48197,7 +47903,7 @@
         }
       ],
       "x": 35,
-      "y": 54
+      "y": 51
     },
     null,
     null,

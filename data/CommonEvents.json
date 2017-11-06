@@ -3703,7 +3703,7 @@
         "code": 356,
         "indent": 1,
         "parameters": [
-          "setJp 1 $gameVariables[109]"
+          "setJp 2 $gameVariables[109]"
         ]
       },
       {

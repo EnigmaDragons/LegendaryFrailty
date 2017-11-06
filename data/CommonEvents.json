@@ -3518,6 +3518,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 0,
+        "parameters": [
+          109,
+          109,
+          0,
+          4,
+          "$gameParty.leader().jp()"
+        ]
+      },
+      {
         "code": 111,
         "indent": 0,
         "parameters": [
@@ -3590,14 +3601,10 @@
         ]
       },
       {
-        "code": 122,
+        "code": 117,
         "indent": 0,
         "parameters": [
-          100,
-          100,
-          0,
-          0,
-          0
+          57
         ]
       },
       {
@@ -3690,6 +3697,13 @@
           0,
           1,
           5
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 1,
+        "parameters": [
+          "setJp 1 $gameVariables[109]"
         ]
       },
       {
@@ -3804,14 +3818,10 @@
         "parameters": []
       },
       {
-        "code": 122,
+        "code": 117,
         "indent": 0,
         "parameters": [
-          100,
-          100,
-          0,
-          0,
-          1
+          57
         ]
       },
       {

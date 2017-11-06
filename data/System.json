@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 24,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -330,9 +330,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 24,
-  "startX": 19,
-  "startY": 9,
+  "startMapId": 3,
+  "startX": 15,
+  "startY": 11,
   "switches": [
     "",
     "Battle1",
@@ -661,7 +661,7 @@
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 50059511,
+  "versionId": 30375072,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

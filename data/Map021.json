@@ -40356,13 +40356,6 @@
               ]
             },
             {
-              "code": 117,
-              "indent": 0,
-              "parameters": [
-                57
-              ]
-            },
-            {
               "code": 205,
               "indent": 0,
               "parameters": [
@@ -40613,6 +40606,47 @@
               "indent": 0,
               "parameters": [
                 "<WordWrap>Follow the stream of water to its source. There, I have seen a passageway to a dark castle owned by a powerful man named Viktor."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                57
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                3,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>The \\C[12]Vitality Bar\\C[0] at the top of screen represents Anselm's current power level. "
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "FrailtyFaces",
+                3,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>You will find ways to help Anselm restore his strength during the adventure. Fill the bar completely for an extra bonus."
               ]
             },
             {
@@ -49465,6 +49499,7 @@
       ],
       "x": 13,
       "y": 37
-    }
+    },
+    null
   ]
 }

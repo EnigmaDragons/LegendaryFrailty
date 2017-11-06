@@ -8557,7 +8557,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "Light radius 40 #FFFFFF"
+                "Light radius 0 #FFFFFF"
               ]
             },
             {

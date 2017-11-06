@@ -3778,11 +3778,11 @@
     0,
     0,
     0,
-    10,
+    22,
     22,
     13,
     22,
-    10,
+    22,
     0,
     0,
     0,
@@ -3799,11 +3799,11 @@
     0,
     0,
     0,
-    10,
     22,
     13,
+    13,
+    13,
     22,
-    10,
     0,
     0,
     0,
@@ -4679,9 +4679,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
+            "direction": 4,
             "pattern": 2,
-            "characterIndex": 5
+            "characterIndex": 1
           },
           "list": [
             {

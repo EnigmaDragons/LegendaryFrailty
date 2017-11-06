@@ -40462,9 +40462,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
+            "direction": 4,
             "pattern": 2,
-            "characterIndex": 5
+            "characterIndex": 1
           },
           "list": [
             {
@@ -41653,9 +41653,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
+            "direction": 4,
             "pattern": 2,
-            "characterIndex": 5
+            "characterIndex": 1
           },
           "list": [
             {
@@ -43072,9 +43072,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
+            "direction": 4,
             "pattern": 2,
-            "characterIndex": 5
+            "characterIndex": 1
           },
           "list": [
             {
@@ -44263,9 +44263,9 @@
           "image": {
             "tileId": 0,
             "characterName": "Wires",
-            "direction": 2,
+            "direction": 4,
             "pattern": 2,
-            "characterIndex": 5
+            "characterIndex": 1
           },
           "list": [
             {

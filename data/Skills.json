@@ -1307,7 +1307,7 @@
     "animationId": 27,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "Math.min(7, Math.max(a.atk - b.def, 2))",
       "type": 1,
       "variance": 0
@@ -1367,7 +1367,7 @@
     "animationId": 5,
     "damage": {
       "critical": false,
-      "elementId": 1,
+      "elementId": 2,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -1397,7 +1397,7 @@
     "animationId": 6,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "Math.ceil((a.atk - b.def) * 0.82)",
       "type": 1,
       "variance": 20
@@ -1457,7 +1457,7 @@
     "animationId": 42,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 2,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -2181,7 +2181,7 @@
     "animationId": 35,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "(a.atk * 1.2) - b.def",
       "type": 1,
       "variance": 20
@@ -2654,7 +2654,7 @@
     "animationId": 40,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -2811,7 +2811,7 @@
     "animationId": 44,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 2,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -2841,7 +2841,7 @@
     "animationId": 43,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 2,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -2998,7 +2998,7 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 35
@@ -3148,7 +3148,7 @@
     "animationId": 3,
     "damage": {
       "critical": false,
-      "elementId": 0,
+      "elementId": 1,
       "formula": "a.atk - b.def",
       "type": 1,
       "variance": 20
@@ -3298,9 +3298,9 @@
     "animationId": 0,
     "damage": {
       "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
+      "elementId": 1,
+      "formula": "a.atk - b.def",
+      "type": 1,
       "variance": 20
     },
     "description": "",
@@ -3313,7 +3313,7 @@
     "name": "Action Hero",
     "note": "<Target Action>\nperform start\nwait: 20\nanimation 12: target, mirror\nwait: 12\naction effect\nanimation 12: target, mirror\nwait: 12\naction effect\nanimation 12: target, mirror\nwait: 12\naction effect\nanimation 12: target, mirror\nwait: 12\naction effect\nwait: 30\nperform finish\n</Target Action>",
     "occasion": 0,
-    "repeats": 1,
+    "repeats": 2,
     "requiredWtypeId1": 0,
     "requiredWtypeId2": 0,
     "scope": 1,

@@ -6644,6 +6644,13 @@
         ]
       },
       {
+        "code": 356,
+        "indent": 1,
+        "parameters": [
+          "hide_variable_hud : 1"
+        ]
+      },
+      {
         "code": 0,
         "indent": 1,
         "parameters": []

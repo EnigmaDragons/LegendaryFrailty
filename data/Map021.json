@@ -27395,7 +27395,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "The toxins stopped flowing, and you have become strong again. "
+                "Welcome back, Anselm."
               ]
             },
             {
@@ -27412,7 +27412,53 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Welcome back!"
+                "I am pleased to see you return in good health."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "<WordWrap>My waters are pure again, and it seems you have become strong again."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [
+                "FrailtyFaces",
+                2,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "<WordWrap>You may be my guardian once again. Be ever vigilant in defense of my temple!"
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 2,
+              "parameters": [
+                60
               ]
             },
             {
@@ -27420,9 +27466,9 @@
               "indent": 2,
               "parameters": [
                 0,
-                29,
-                7,
-                6,
+                4,
+                15,
+                11,
                 0,
                 0
               ]
@@ -27515,119 +27561,6 @@
             "characterIndex": 3
           },
           "list": [
-            {
-              "code": 111,
-              "indent": 0,
-              "parameters": [
-                1,
-                99,
-                0,
-                1,
-                0
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Welcome back, Anselm."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I am pleased to see you return in good health."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "<WordWrap>My waters are pure again, and it seems you have become strong again."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "FrailtyFaces",
-                2,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "<WordWrap>You may be my guardian once again. Be ever vigilant in defense of my temple!"
-              ]
-            },
-            {
-              "code": 221,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 230,
-              "indent": 1,
-              "parameters": [
-                60
-              ]
-            },
-            {
-              "code": 201,
-              "indent": 1,
-              "parameters": [
-                0,
-                4,
-                15,
-                11,
-                0,
-                0
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 412,
-              "indent": 0,
-              "parameters": []
-            },
             {
               "code": 0,
               "indent": 0,

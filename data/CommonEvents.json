@@ -56,23 +56,6 @@
         ]
       },
       {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "You used Crystallized Energy to power the device on."
-        ]
-      },
-      {
         "code": 0,
         "indent": 0,
         "parameters": []
@@ -114,23 +97,6 @@
           0,
           0,
           1
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "You extracted Crystallized Energy from the device."
         ]
       },
       {

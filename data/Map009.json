@@ -28574,51 +28574,6 @@
               ]
             },
             {
-              "code": 111,
-              "indent": 1,
-              "parameters": [
-                1,
-                31,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 2,
-              "parameters": [
-                "Light activate"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 2,
-              "parameters": []
-            },
-            {
-              "code": 411,
-              "indent": 1,
-              "parameters": []
-            },
-            {
-              "code": 356,
-              "indent": 2,
-              "parameters": [
-                "Light deactivate"
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 2,
-              "parameters": []
-            },
-            {
-              "code": 412,
-              "indent": 1,
-              "parameters": []
-            },
-            {
               "code": 122,
               "indent": 1,
               "parameters": [

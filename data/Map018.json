@@ -33044,13 +33044,6 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "Light on 74"
-              ]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": [
                 "Light on 4240"
               ]
             },
@@ -33065,7 +33058,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "Light on 740"
+                "Light on 440"
               ]
             },
             {

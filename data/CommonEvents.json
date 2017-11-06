@@ -466,6 +466,18 @@
     "id": 7,
     "list": [
       {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "GD_Escape",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
         "code": 101,
         "indent": 0,
         "parameters": [
@@ -534,18 +546,6 @@
           0,
           0,
           1
-        ]
-      },
-      {
-        "code": 250,
-        "indent": 0,
-        "parameters": [
-          {
-            "name": "GD_Escape",
-            "volume": 100,
-            "pitch": 100,
-            "pan": 0
-          }
         ]
       },
       {

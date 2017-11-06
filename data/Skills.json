@@ -320,7 +320,7 @@
     "damage": {
       "critical": false,
       "elementId": 0,
-      "formula": "Math.max(Math.ceil(a.mat * 1.25 - b.mdf), 2)",
+      "formula": "Math.ceil(a.mat * 1.25 - b.mdf) + 2",
       "type": 1,
       "variance": 20
     },

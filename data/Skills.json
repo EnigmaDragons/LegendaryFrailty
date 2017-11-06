@@ -1320,7 +1320,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Sting",
-    "note": "",
+    "note": "<Whole Action>\naction animation\naction effect\n<Whole Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

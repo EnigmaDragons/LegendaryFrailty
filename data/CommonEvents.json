@@ -5561,12 +5561,61 @@
     "id": 45,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          108,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "FrailtyFaces",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>I really have gotten out of practice! I used to crush weak foes -- now I can barely hurt them."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          108,
+          108,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "AnselmFeelingWeakConvo",
     "switchId": 1,
     "trigger": 0
   },

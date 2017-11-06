@@ -25532,6 +25532,18 @@
               ]
             },
             {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Push",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 205,
               "indent": 1,
               "parameters": [
@@ -25827,6 +25839,18 @@
               "code": 222,
               "indent": 0,
               "parameters": []
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Push",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
             },
             {
               "code": 205,

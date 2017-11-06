@@ -8613,7 +8613,7 @@
     },
     {
       "id": 5,
-      "name": "DemonFight",
+      "name": "GuardianFight",
       "note": "",
       "pages": [
         {
@@ -8672,6 +8672,14 @@
               ]
             },
             {
+              "code": 123,
+              "indent": 1,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
               "code": 0,
               "indent": 1,
               "parameters": []
@@ -8703,14 +8711,6 @@
               "indent": 0,
               "parameters": [
                 "EnableVictoryAftermath"
-              ]
-            },
-            {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
               ]
             },
             {
@@ -10893,18 +10893,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -10941,13 +10939,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -10985,8 +10983,8 @@
           "walkAnime": true
         }
       ],
-      "x": 14,
-      "y": 34
+      "x": 12,
+      "y": 39
     },
     {
       "id": 31,
@@ -11032,18 +11030,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11080,13 +11076,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11125,7 +11121,7 @@
         }
       ],
       "x": 13,
-      "y": 34
+      "y": 39
     },
     {
       "id": 32,
@@ -11171,18 +11167,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11219,13 +11213,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11263,8 +11257,8 @@
           "walkAnime": true
         }
       ],
-      "x": 12,
-      "y": 34
+      "x": 14,
+      "y": 39
     },
     {
       "id": 33,
@@ -11310,18 +11304,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11358,13 +11350,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11402,8 +11394,8 @@
           "walkAnime": true
         }
       ],
-      "x": 11,
-      "y": 34
+      "x": 15,
+      "y": 39
     },
     {
       "id": 34,
@@ -11449,18 +11441,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11497,13 +11487,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11541,8 +11531,8 @@
           "walkAnime": true
         }
       ],
-      "x": 10,
-      "y": 34
+      "x": 16,
+      "y": 39
     },
     {
       "id": 35,
@@ -11588,18 +11578,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11636,13 +11624,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11680,8 +11668,8 @@
           "walkAnime": true
         }
       ],
-      "x": 9,
-      "y": 34
+      "x": 17,
+      "y": 39
     },
     {
       "id": 36,
@@ -11727,18 +11715,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11775,13 +11761,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11819,8 +11805,8 @@
           "walkAnime": true
         }
       ],
-      "x": 8,
-      "y": 34
+      "x": 18,
+      "y": 39
     },
     {
       "id": 37,
@@ -11866,18 +11852,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -11914,13 +11898,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -11958,8 +11942,8 @@
           "walkAnime": true
         }
       ],
-      "x": 7,
-      "y": 34
+      "x": 19,
+      "y": 39
     },
     {
       "id": 38,
@@ -12005,18 +11989,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12053,13 +12035,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12097,8 +12079,8 @@
           "walkAnime": true
         }
       ],
-      "x": 6,
-      "y": 34
+      "x": 21,
+      "y": 39
     },
     {
       "id": 39,
@@ -12144,18 +12126,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12192,13 +12172,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12236,8 +12216,8 @@
           "walkAnime": true
         }
       ],
-      "x": 5,
-      "y": 34
+      "x": 21,
+      "y": 44
     },
     {
       "id": 40,
@@ -12283,18 +12263,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12331,13 +12309,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12375,8 +12353,8 @@
           "walkAnime": true
         }
       ],
-      "x": 4,
-      "y": 34
+      "x": 21,
+      "y": 43
     },
     {
       "id": 41,
@@ -12422,18 +12400,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12470,13 +12446,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12514,8 +12490,8 @@
           "walkAnime": true
         }
       ],
-      "x": 3,
-      "y": 34
+      "x": 21,
+      "y": 42
     },
     {
       "id": 42,
@@ -12561,18 +12537,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12609,13 +12583,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12653,8 +12627,8 @@
           "walkAnime": true
         }
       ],
-      "x": 2,
-      "y": 34
+      "x": 21,
+      "y": 41
     },
     {
       "id": 43,
@@ -12700,18 +12674,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12748,13 +12720,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12792,8 +12764,8 @@
           "walkAnime": true
         }
       ],
-      "x": 1,
-      "y": 34
+      "x": 21,
+      "y": 40
     },
     {
       "id": 44,
@@ -12839,18 +12811,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -12887,13 +12857,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -12931,8 +12901,8 @@
           "walkAnime": true
         }
       ],
-      "x": 0,
-      "y": 34
+      "x": 20,
+      "y": 39
     },
     {
       "id": 45,
@@ -12978,18 +12948,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13026,13 +12994,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13070,8 +13038,8 @@
           "walkAnime": true
         }
       ],
-      "x": 15,
-      "y": 34
+      "x": 9,
+      "y": 39
     },
     {
       "id": 46,
@@ -13117,18 +13085,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13165,13 +13131,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13209,8 +13175,8 @@
           "walkAnime": true
         }
       ],
-      "x": 17,
-      "y": 34
+      "x": 8,
+      "y": 39
     },
     {
       "id": 47,
@@ -13256,18 +13222,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13304,13 +13268,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13348,8 +13312,8 @@
           "walkAnime": true
         }
       ],
-      "x": 18,
-      "y": 34
+      "x": 7,
+      "y": 39
     },
     {
       "id": 48,
@@ -13395,18 +13359,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13443,13 +13405,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13487,8 +13449,8 @@
           "walkAnime": true
         }
       ],
-      "x": 19,
-      "y": 34
+      "x": 7,
+      "y": 40
     },
     {
       "id": 49,
@@ -13534,18 +13496,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13582,13 +13542,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13626,8 +13586,8 @@
           "walkAnime": true
         }
       ],
-      "x": 20,
-      "y": 34
+      "x": 7,
+      "y": 41
     },
     {
       "id": 50,
@@ -13673,18 +13633,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13721,13 +13679,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13765,8 +13723,8 @@
           "walkAnime": true
         }
       ],
-      "x": 21,
-      "y": 34
+      "x": 7,
+      "y": 42
     },
     {
       "id": 51,
@@ -13812,18 +13770,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13860,13 +13816,13 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
           },
           "directionFix": false,
           "image": {
@@ -13904,8 +13860,8 @@
           "walkAnime": true
         }
       ],
-      "x": 22,
-      "y": 34
+      "x": 7,
+      "y": 43
     },
     {
       "id": 52,
@@ -13951,18 +13907,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is the hidden temple of Juturna."
+                "What a journey! I wonder if I am getting close. "
               ]
             },
             {
-              "code": 122,
+              "code": 121,
               "indent": 0,
               "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
+                26,
+                26,
+                0
               ]
             },
             {
@@ -13999,68 +13953,8 @@
             "itemValid": false,
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 23,
-      "y": 34
-    },
-    {
-      "id": 53,
-      "name": "EV053",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
+            "switch1Id": 26,
+            "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
             "variableId": 1,
@@ -14077,85 +13971,6 @@
           },
           "list": [
             {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There is the hidden temple of Juturna."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -14182,565 +13997,14 @@
           "walkAnime": true
         }
       ],
-      "x": 24,
-      "y": 34
+      "x": 7,
+      "y": 44
     },
-    {
-      "id": 54,
-      "name": "EV054",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There is the hidden temple of Juturna."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 25,
-      "y": 34
-    },
-    {
-      "id": 55,
-      "name": "EV055",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There is the hidden temple of Juturna."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 26,
-      "y": 34
-    },
-    {
-      "id": 56,
-      "name": "EV056",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There is the hidden temple of Juturna."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 27,
-      "y": 34
-    },
-    {
-      "id": 57,
-      "name": "EV057",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "FrailtyFaces",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There is the hidden temple of Juturna."
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 0,
-              "parameters": [
-                106,
-                106,
-                0,
-                0,
-                1
-              ]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 106,
-            "variableValid": true,
-            "variableValue": 1
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 28,
-      "y": 34
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null,
     null,

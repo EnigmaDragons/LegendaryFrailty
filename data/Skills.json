@@ -129,7 +129,7 @@
   },
   {
     "id": 5,
-    "animationId": 0,
+    "animationId": 18,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -316,7 +316,7 @@
   },
   {
     "id": 11,
-    "animationId": 0,
+    "animationId": 19,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -376,7 +376,7 @@
   },
   {
     "id": 13,
-    "animationId": 0,
+    "animationId": 46,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -392,7 +392,7 @@
     "message2": "",
     "mpCost": 12,
     "name": "Gravitational Reversal",
-    "note": "Level 4 - Dimensional\n<Learn Cost: 120 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
+    "note": "Level 4 - Dimensional\n<Learn Cost: 120 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Whole Action>\nshake screen: 10, 10, 23\naction animation\nwait: 23\naction effect\nwait: 9\nperform finish\n</Whole Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -480,7 +480,7 @@
   },
   {
     "id": 16,
-    "animationId": 0,
+    "animationId": 20,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -630,7 +630,7 @@
   },
   {
     "id": 21,
-    "animationId": 0,
+    "animationId": 21,
     "damage": {
       "critical": false,
       "elementId": 10,
@@ -646,7 +646,7 @@
     "message2": "",
     "mpCost": 9,
     "name": "Siphon Energy",
-    "note": "Level 2 - Esoteric\n<Learn Cost: 40 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Select Conditions>\n   Not State: WasSiphoned\n</Select Conditions>\n<After Eval>\n  var siphonedStateId = 26;\n  if (!target.isStateAffected(siphonedStateId)) {\n    user.gainJp(10);\n    var rawAmt = Math.max(Math.ceil((a.mat - b.def) / 2), 2);\n    var amt = Math.min(target.mp, rawAmt); \n    target.gainMp(-amt);\n    user.gainMp(amt);\n    user.startDamagePopup();\n    target.startDamagePopup();\n    user.clearDamagePopup();\n    target.clearDamagePopup();\n    target.addState(siphonedStateId);\n  } else {\n    $gameMessage.addText(\"Cannot siphon the same enemy twice.\");\n  }\n</After Eval>",
+    "note": "Level 2 - Esoteric\n<Learn Cost: 40 JP>\n<Rarity: 2>\n<Learn Require Switch: 30>\n\n<Select Conditions>\n   Not State: WasSiphoned\n</Select Conditions>\n<Target Action>\n  perform start\n  action animation\n  animation 22: user\n  wait for animation\n  action effect\n  wait: 9\n  perform finish\n</Target Action>\n<After Eval>\n  var siphonedStateId = 26;\n  if (!target.isStateAffected(siphonedStateId)) {\n    user.gainJp(10);\n    var rawAmt = Math.max(Math.ceil((a.mat - b.def) / 2), 2);\n    var amt = Math.min(target.mp, rawAmt); \n    target.gainMp(-amt);\n    user.gainMp(amt);\n    user.startDamagePopup();\n    target.startDamagePopup();\n    user.clearDamagePopup();\n    target.clearDamagePopup();\n    target.addState(siphonedStateId);\n  } else {\n    $gameMessage.addText(\"Cannot siphon the same enemy twice.\");\n  }\n</After Eval>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -690,7 +690,7 @@
   },
   {
     "id": 23,
-    "animationId": 0,
+    "animationId": 23,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1034,7 +1034,7 @@
   },
   {
     "id": 34,
-    "animationId": 0,
+    "animationId": 24,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1050,7 +1050,7 @@
     "message2": "",
     "mpCost": 9,
     "name": "Whirlwind Attack",
-    "note": "Level 5 - Martial\n<Learn Cost: 160 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Whole Action>\nperform start\naction effect\nperform finish\n</Whole Action>",
+    "note": "Level 5 - Martial\n<Learn Cost: 160 JP>\n<Rarity: 3>\n<Learn Require Switch: 30>\n\n<Whole Action>\nopacity user: 0\naction animation\nwait for animation\naction effect\nopacity user: 255\n</Whole Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1214,7 +1214,7 @@
   },
   {
     "id": 40,
-    "animationId": 0,
+    "animationId": 25,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1244,7 +1244,7 @@
   },
   {
     "id": 41,
-    "animationId": 0,
+    "animationId": 26,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1304,7 +1304,7 @@
   },
   {
     "id": 43,
-    "animationId": 0,
+    "animationId": 27,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1454,7 +1454,7 @@
   },
   {
     "id": 48,
-    "animationId": 0,
+    "animationId": 42,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1470,7 +1470,7 @@
     "message2": "",
     "mpCost": 20,
     "name": "Collide",
-    "note": "<Target Action>\n  move user: target, BASE, 10, offset y +30\n  wait 20\n  action effect\n</Target Action>\n\n<After Eval>\n  user.escape();\n</After Eval>",
+    "note": "<Target Action>\n  move user: target, BASE, 10, offset y +30\n  action animation\n  wait 20\n  action effect\n</Target Action>\n\n<After Eval>\n  user.escape();\n</After Eval>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -1514,7 +1514,7 @@
   },
   {
     "id": 50,
-    "animationId": 0,
+    "animationId": 28,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1701,7 +1701,7 @@
   },
   {
     "id": 56,
-    "animationId": 0,
+    "animationId": 29,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1821,7 +1821,7 @@
   },
   {
     "id": 60,
-    "animationId": 0,
+    "animationId": 30,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1851,7 +1851,7 @@
   },
   {
     "id": 61,
-    "animationId": 0,
+    "animationId": 31,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -1984,7 +1984,7 @@
   },
   {
     "id": 65,
-    "animationId": 0,
+    "animationId": 32,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -2014,7 +2014,7 @@
   },
   {
     "id": 66,
-    "animationId": 0,
+    "animationId": 33,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2141,7 +2141,7 @@
   },
   {
     "id": 70,
-    "animationId": 0,
+    "animationId": 34,
     "damage": {
       "critical": false,
       "elementId": 2,
@@ -2178,7 +2178,7 @@
   },
   {
     "id": 71,
-    "animationId": 0,
+    "animationId": 35,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2194,7 +2194,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Bum Rush",
-    "note": "",
+    "note": "<Target Action>\nmotion swing: user\nmove user: target, front base\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -2208,7 +2208,7 @@
   },
   {
     "id": 72,
-    "animationId": 0,
+    "animationId": 36,
     "damage": {
       "critical": false,
       "elementId": 1,
@@ -2365,7 +2365,7 @@
   },
   {
     "id": 77,
-    "animationId": 0,
+    "animationId": 37,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2494,7 +2494,7 @@
   },
   {
     "id": 80,
-    "animationId": 0,
+    "animationId": 38,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2510,7 +2510,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Metallic Bite",
-    "note": "",
+    "note": "<Target Action>\nmotion swing: user\nmove user: target, front base\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -2524,7 +2524,7 @@
   },
   {
     "id": 81,
-    "animationId": 0,
+    "animationId": 39,
     "damage": {
       "critical": false,
       "elementId": 2,
@@ -2651,7 +2651,7 @@
   },
   {
     "id": 85,
-    "animationId": 0,
+    "animationId": 40,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2667,7 +2667,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Wallop",
-    "note": "",
+    "note": "<Target Action>\nmotion swing: user\nmove user: target, front base\nwait for movement\naction animation\nwait for animation\naction effect\nwait: 9\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,
@@ -2681,7 +2681,7 @@
   },
   {
     "id": 86,
-    "animationId": 0,
+    "animationId": 41,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2808,7 +2808,7 @@
   },
   {
     "id": 90,
-    "animationId": 0,
+    "animationId": 44,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2838,7 +2838,7 @@
   },
   {
     "id": 91,
-    "animationId": 0,
+    "animationId": 43,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -2928,7 +2928,7 @@
   },
   {
     "id": 94,
-    "animationId": 0,
+    "animationId": 45,
     "damage": {
       "critical": false,
       "elementId": 0,

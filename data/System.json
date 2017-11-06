@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 14,
   "elements": [
     "",
     "Physical",
@@ -361,7 +361,7 @@
     "MiningBotDefeated",
     "MiningBotAffected",
     "JourneyConvo",
-    "",
+    "ShowedVitalityTutorial",
     "",
     "",
     "SkillsLearnable",
@@ -661,7 +661,7 @@
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 30375072,
+  "versionId": 95052949,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

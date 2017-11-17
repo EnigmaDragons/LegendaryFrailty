@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 14,
+  "editMapId": 3,
   "elements": [
     "",
     "Physical",
@@ -493,7 +493,7 @@
         0,
         0
       ],
-      "level": 8
+      "level": 5
     },
     {
       "actorId": 0,
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 6,
+  "testTroopId": 26,
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
@@ -649,10 +649,10 @@
     "DemonstrationProgress",
     "AnselmWeakConvo",
     "RespawnJP",
-    "",
-    "",
-    "",
-    "",
+    "DiskDoor",
+    "ColorDoor",
+    "InitBalcony",
+    "LookOverBalcony",
     "",
     "",
     "",
@@ -661,7 +661,7 @@
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 95052949,
+  "versionId": 20847193,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

@@ -54,9 +54,9 @@
     0,
     0,
     0,
-    6931,
-    6929,
-    6929,
+    6938,
+    0,
+    6939,
     6929,
     6929,
     6929,
@@ -76,8 +76,8 @@
     1536,
     0,
     6928,
-    7282,
-    7282,
+    0,
+    7283,
     7282,
     7282,
     7282,
@@ -97,8 +97,8 @@
     1536,
     0,
     6928,
-    7288,
-    7288,
+    3626,
+    7289,
     7288,
     7288,
     7288,
@@ -118,7 +118,7 @@
     1536,
     0,
     6928,
-    3618,
+    3601,
     3604,
     3604,
     3604,
@@ -1861,7 +1861,7 @@
     5,
     0,
     0,
-    0,
+    5,
     0,
     0,
     0,
@@ -21536,12 +21536,12 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "!Switch2",
+            "characterName": "!SF_Door2",
             "direction": 2,
-            "pattern": 0,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
@@ -22720,7 +22720,7 @@
           "priorityType": 1,
           "stepAnime": false,
           "through": false,
-          "trigger": 0,
+          "trigger": 1,
           "walkAnime": true
         },
         {
@@ -22739,15 +22739,53 @@
             "variableValid": false,
             "variableValue": 0
           },
-          "directionFix": false,
+          "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "!Switch2",
-            "direction": 8,
-            "pattern": 0,
+            "characterName": "!SF_Door2",
+            "direction": 2,
+            "pattern": 1,
             "characterIndex": 4
           },
           "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Open3",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                14
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                6,
+                23,
+                39,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                15
+              ]
+            },
             {
               "code": 0,
               "indent": 0,
@@ -23108,7 +23146,7 @@
           "walkAnime": false
         }
       ],
-      "x": 5,
+      "x": 15,
       "y": 3
     },
     {
@@ -24218,7 +24256,7 @@
           "walkAnime": false
         }
       ],
-      "x": 15,
+      "x": 5,
       "y": 3
     },
     {
@@ -25823,66 +25861,7 @@
       "x": 0,
       "y": 20
     },
-    {
-      "id": 129,
-      "name": "EV129",
-      "note": "Light 96 #03A9F4 D1",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 0,
-                "parameters": []
-              }
-            ],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        }
-      ],
-      "x": 2,
-      "y": 2
-    },
+    null,
     {
       "id": 130,
       "name": "EV130",
@@ -25991,7 +25970,7 @@
           "walkAnime": false
         }
       ],
-      "x": 15,
+      "x": 5,
       "y": 2
     },
     {
@@ -26162,7 +26141,7 @@
           "walkAnime": false
         }
       ],
-      "x": 15,
+      "x": 5,
       "y": 1
     },
     {
@@ -27338,7 +27317,7 @@
           "walkAnime": true
         }
       ],
-      "x": 5,
+      "x": 15,
       "y": 2
     },
     {

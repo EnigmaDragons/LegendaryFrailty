@@ -3071,7 +3071,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Gun Jammed",
-    "note": "<Target Action>\nperform start\ncommon event: 32\naction effect\nwait: 120\nperform finish\n</Target Action>",
+    "note": "<Target Action>\nperform start\ncommon event: 32\naction effect\nwait: 20\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

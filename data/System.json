@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 3,
+  "editMapId": 22,
   "elements": [
     "",
     "Physical",
@@ -653,7 +653,7 @@
     "ColorDoor",
     "InitBalcony",
     "LookOverBalcony",
-    "",
+    "InitTrainOutside",
     "",
     "",
     "",
@@ -661,7 +661,7 @@
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 20847193,
+  "versionId": 35227515,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

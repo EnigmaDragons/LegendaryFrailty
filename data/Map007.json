@@ -4269,7 +4269,7 @@
     0,
     0,
     0,
-    8,
+    0,
     0,
     0,
     0,
@@ -6940,8 +6940,145 @@
               "code": 230,
               "indent": 0,
               "parameters": [
-                240
+                120
               ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Apriciate The Beauty",
+                  "Diss The Creator"
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Apriciate The Beauty"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>This composition is composed beautifully, I must grow a garden when I return from this."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A calm and peace come over you. You have gained some defense."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Diss The Creator"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>He builds for himself a lavish garden, as he poisons rivers. He removes himself from the consequences of what he does."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A fire of conviction focueses you. You have gained some agility."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 356,
@@ -7083,8 +7220,145 @@
               "code": 230,
               "indent": 0,
               "parameters": [
-                240
+                120
               ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Apriciate The Beauty",
+                  "Diss The Creator"
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Apriciate The Beauty"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>This composition is composed beautifully, I must grow a garden when I return from this."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A calm and peace come over you. You have gained some defense."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Diss The Creator"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>He builds for himself a lavish garden, as he poisons rivers. He removes himself from the consequences of what he does."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A fire of conviction focueses you. You have gained some agility."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 356,
@@ -7226,8 +7500,145 @@
               "code": 230,
               "indent": 0,
               "parameters": [
-                240
+                120
               ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Apriciate The Beauty",
+                  "Diss The Creator"
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Apriciate The Beauty"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>This composition is composed beautifully, I must grow a garden when I return from this."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A calm and peace come over you. You have gained some defense."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Diss The Creator"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "FrailtyFaces",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "<WordWrap>He builds for himself a lavish garden, as he poisons rivers. He removes himself from the consequences of what he does."
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 1,
+              "parameters": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "A fire of conviction focueses you. You have gained some agility."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
             },
             {
               "code": 356,
@@ -7584,17 +7995,6 @@
               "indent": 1,
               "parameters": [
                 17
-              ]
-            },
-            {
-              "code": 122,
-              "indent": 1,
-              "parameters": [
-                113,
-                113,
-                0,
-                0,
-                0
               ]
             },
             {

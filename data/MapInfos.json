@@ -14,24 +14,24 @@
     "expanded": false,
     "name": "SelfDestructRun",
     "order": 23,
-    "parentId": 18,
-    "scrollX": 1081.3333333333333,
-    "scrollY": 969.33333333333337
+    "parentId": 5,
+    "scrollX": 811,
+    "scrollY": 969
   },
   {
     "id": 3,
     "expanded": false,
     "name": "Intro",
-    "order": 28,
+    "order": 26,
     "parentId": 0,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 4,
     "expanded": false,
     "name": "Epilogue",
-    "order": 29,
+    "order": 27,
     "parentId": 0,
     "scrollX": 832,
     "scrollY": 640
@@ -40,28 +40,28 @@
     "id": 5,
     "expanded": false,
     "name": "SecondFloorEntrance",
-    "order": 24,
-    "parentId": 18,
-    "scrollX": 1228.5,
-    "scrollY": 692.25
+    "order": 14,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 6,
     "expanded": false,
     "name": "SecondFloorHall",
-    "order": 25,
-    "parentId": 18,
-    "scrollX": 1216.5,
-    "scrollY": 1323.75
+    "order": 24,
+    "parentId": 5,
+    "scrollX": 1217,
+    "scrollY": 1324
   },
   {
     "id": 7,
     "expanded": false,
     "name": "Balcony",
-    "order": 26,
-    "parentId": 18,
-    "scrollX": 1228.5,
-    "scrollY": 692.25
+    "order": 25,
+    "parentId": 5,
+    "scrollX": 811,
+    "scrollY": 883
   },
   {
     "id": 8,
@@ -74,11 +74,11 @@
   },
   {
     "id": 9,
-    "expanded": true,
+    "expanded": false,
     "name": "FirstFloor",
     "order": 5,
     "parentId": 0,
-    "scrollX": 1621.3333333333333,
+    "scrollX": 1621,
     "scrollY": 2468
   },
   {
@@ -104,8 +104,8 @@
     "expanded": false,
     "name": "FinalDeathTrap",
     "order": 21,
-    "parentId": 18,
-    "scrollX": 868,
+    "parentId": 5,
+    "scrollX": 811,
     "scrollY": 1062
   },
   {
@@ -113,9 +113,9 @@
     "expanded": false,
     "name": "SpikeRoom",
     "order": 16,
-    "parentId": 18,
-    "scrollX": 832,
-    "scrollY": 640
+    "parentId": 5,
+    "scrollX": 811,
+    "scrollY": 547
   },
   {
     "id": 14,
@@ -149,36 +149,28 @@
     "expanded": false,
     "name": "ColorRoom",
     "order": 18,
-    "parentId": 18,
-    "scrollX": 878.66666666666663,
+    "parentId": 5,
+    "scrollX": 811,
     "scrollY": 522
   },
-  {
-    "id": 18,
-    "expanded": true,
-    "name": "SecondFloor",
-    "order": 14,
-    "parentId": 0,
-    "scrollX": 1081.3333333333333,
-    "scrollY": 2457.3333333333335
-  },
+  null,
   {
     "id": 19,
     "expanded": false,
     "name": "DiskRoom",
     "order": 20,
-    "parentId": 18,
-    "scrollX": 832,
-    "scrollY": 640
+    "parentId": 5,
+    "scrollX": 811,
+    "scrollY": 547
   },
   {
     "id": 20,
     "expanded": false,
     "name": "FinalBoss",
     "order": 22,
-    "parentId": 18,
-    "scrollX": 1092,
-    "scrollY": 614.66666666666663
+    "parentId": 5,
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 21,
@@ -191,12 +183,12 @@
   },
   {
     "id": 22,
-    "expanded": true,
+    "expanded": false,
     "name": "WaterTemple",
     "order": 1,
     "parentId": 0,
-    "scrollX": 1081.3333333333333,
-    "scrollY": 1065.3333333333333
+    "scrollX": 811,
+    "scrollY": 1065
   },
   {
     "id": 23,
@@ -230,35 +222,35 @@
     "expanded": false,
     "name": "MiniSpikeRoom",
     "order": 15,
-    "parentId": 18,
-    "scrollX": 1228.5,
-    "scrollY": 692.25
+    "parentId": 5,
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 27,
     "expanded": false,
     "name": "MiniColorRoom",
     "order": 17,
-    "parentId": 18,
-    "scrollX": 832,
-    "scrollY": 640
+    "parentId": 5,
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 28,
     "expanded": false,
     "name": "MiniDiskRoom",
     "order": 19,
-    "parentId": 18,
-    "scrollX": 878.66666666666663,
-    "scrollY": 522
+    "parentId": 5,
+    "scrollX": 819,
+    "scrollY": 461
   },
   {
     "id": 29,
     "expanded": true,
     "name": "Credits",
-    "order": 27,
+    "order": 28,
     "parentId": 0,
-    "scrollX": 1228.5,
-    "scrollY": 692.25
+    "scrollX": 819,
+    "scrollY": 461
   }
 ]

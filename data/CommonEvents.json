@@ -6220,12 +6220,61 @@
     "id": 54,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          115,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "FrailtyFaces",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "<WordWrap>Wow that's the craziest stone launcher I have ever seen. Who know tiny stones could be so dangerous!"
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          115,
+          115,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "SubmachineConvo",
     "switchId": 1,
     "trigger": 0
   },

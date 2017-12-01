@@ -3011,7 +3011,7 @@
     "message2": "",
     "mpCost": 6,
     "name": "Submachine Gun Burst",
-    "note": "<Target Action>\nperform start\nwait: 5\nanimation 1: target, mirror\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 24\nperform finish\n</Target Action>",
+    "note": "<Target Action>\nperform start\nwait: 5\nanimation 1: target, mirror\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 8 \naction effect\nwait: 20\ncommon event: 54\nperform finish\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

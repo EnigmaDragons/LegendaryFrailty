@@ -1801,7 +1801,6 @@ VariableHud.prototype.update = function() {
 // * Need Hide
 //==============================
 VariableHud.prototype.needHide = function() {
-    if ($gameMessage.isBusy()) {return false};
 	if (!$gameSystem._variableHudData[this._index][0]) {return true};
 	if (Imported.MOG_ChronoEngine && $gameSystem.isChronoMode()) {return true};
 	return false

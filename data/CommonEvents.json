@@ -5571,7 +5571,7 @@
         "parameters": [
           {
             "name": "GD_MinorReward",
-            "volume": 90,
+            "volume": 100,
             "pitch": 100,
             "pan": 0
           }

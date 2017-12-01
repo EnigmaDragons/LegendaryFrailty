@@ -20330,6 +20330,18 @@
               ]
             },
             {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "GD_MinorReward",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
               "code": 126,
               "indent": 0,
               "parameters": [
@@ -20490,6 +20502,18 @@
               "indent": 0,
               "parameters": [
                 "Why is everything in this box blue?"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "GD_MinorReward",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
               ]
             },
             {

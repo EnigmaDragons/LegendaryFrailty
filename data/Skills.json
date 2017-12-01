@@ -1320,7 +1320,7 @@
     "message2": "",
     "mpCost": 0,
     "name": "Sting",
-    "note": "<Whole Action>\naction animation\naction effect\n<Whole Action>",
+    "note": "<Whole Action>\nmove user: target, front base\nwait for movement\naction animation\naction effect\nperform finish\n</Whole Action>\n<Target Action>\n</Target Action>",
     "occasion": 0,
     "repeats": 1,
     "requiredWtypeId1": 0,

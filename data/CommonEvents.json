@@ -113,11 +113,30 @@
     "id": 4,
     "list": [
       {
-        "code": 356,
+        "code": 111,
         "indent": 0,
+        "parameters": [
+          0,
+          30,
+          0
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 1,
         "parameters": [
           "OpenLearnSkill party 1"
         ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
       },
       {
         "code": 0,
@@ -125,7 +144,7 @@
         "parameters": []
       }
     ],
-    "name": "Relearn Skill",
+    "name": "LearnSkill",
     "switchId": 1,
     "trigger": 0
   },

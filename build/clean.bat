@@ -1,6 +1,7 @@
 cd LegendaryFrailty/www
 rm *.psd
 rm *.png
+rm *Aclonica-LICENSE.txt
 rmdir build /s /q
 rmdir temp /s /q
 rmdir utils /s /q

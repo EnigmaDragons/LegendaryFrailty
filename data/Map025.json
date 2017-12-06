@@ -10738,7 +10738,7 @@
     },
     {
       "id": 93,
-      "name": "Sentry1",
+      "name": "Sentry1 ",
       "note": "",
       "pages": [
         {
@@ -12470,6 +12470,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The latest in robotic warfare. "
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -12560,7 +12577,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -12777,6 +12794,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The latest in robotic warfare. "
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -12867,7 +12901,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -12965,6 +12999,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The latest in robotic warfare. "
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13055,7 +13106,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 1
           },
           "directionFix": false,
           "image": {
@@ -13153,6 +13204,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Your enemies will be blown to bits from that deadly grenade blast."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13243,7 +13311,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 2
           },
           "directionFix": false,
           "image": {
@@ -13341,6 +13409,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                5,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Look at how they evade enemy fire with advanced tactics and quick movements."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13431,7 +13516,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 3
           },
           "directionFix": false,
           "image": {
@@ -13529,6 +13614,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>That gun fire is tearing the armor apart, your enemies won't stand a chance."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13619,7 +13721,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 4
           },
           "directionFix": false,
           "image": {
@@ -13717,6 +13819,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>That gun fire is tearing the armor apart, your enemies won't stand a chance."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13807,7 +13926,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 4
           },
           "directionFix": false,
           "image": {
@@ -13905,6 +14024,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>That gun fire is tearing the armor apart, your enemies won't stand a chance."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -13995,7 +14131,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 4
           },
           "directionFix": false,
           "image": {
@@ -14183,7 +14319,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 5
           },
           "directionFix": false,
           "image": {
@@ -14371,7 +14507,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 5
           },
           "directionFix": false,
           "image": {
@@ -14469,6 +14605,23 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "Actor_FW02_03",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<WordWrap>Only the final 2 remain, looking rather beat up. Who will win?"
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -14559,7 +14712,7 @@
             "switch2Valid": false,
             "variableId": 107,
             "variableValid": true,
-            "variableValue": 6
+            "variableValue": 5
           },
           "directionFix": false,
           "image": {

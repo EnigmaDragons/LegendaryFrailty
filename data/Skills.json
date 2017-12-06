@@ -41,20 +41,13 @@
       "variance": 20
     },
     "description": "",
-    "effects": [
-      {
-        "code": 41,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 0
-      }
-    ],
+    "effects": [],
     "hitType": 0,
-    "iconIndex": 82,
-    "message1": " flees.",
+    "iconIndex": 15,
+    "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Escape",
+    "name": "Wait",
     "note": "",
     "occasion": 1,
     "repeats": 1,

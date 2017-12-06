@@ -36,9 +36,10 @@
           if (enableGuard) {
             this.addGuardCommand();
           }
-		if (enableItem) {
+		      if (enableItem) {
             this.addItemCommand();
           }
+          this.addCommand('Wait', 'guard');
       }
   };
  

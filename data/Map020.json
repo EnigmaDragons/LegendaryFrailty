@@ -2079,25 +2079,19 @@
               "parameters": []
             },
             {
-              "code": 101,
+              "code": 111,
               "indent": 1,
               "parameters": [
-                "Actor_FW02_03",
                 1,
+                116,
                 0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "<WordWrap>You have got to be the only person on this planet capable of stopping me. I have got to kill you!"
+                1,
+                0
               ]
             },
             {
               "code": 205,
-              "indent": 1,
+              "indent": 2,
               "parameters": [
                 5,
                 {
@@ -2121,7 +2115,80 @@
             },
             {
               "code": 505,
+              "indent": 2,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "SELF SWITCH A: ON"
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 212,
+              "indent": 2,
+              "parameters": [
+                0,
+                15,
+                false
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
               "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [
+                "Actor_FW02_03",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "<WordWrap>You have got to be the only person on this planet capable of stopping me. I have got to kill you!"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "SELF SWITCH A: ON"
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
               "parameters": [
                 {
                   "code": 45,
@@ -2134,7 +2201,7 @@
             },
             {
               "code": 205,
-              "indent": 1,
+              "indent": 2,
               "parameters": [
                 0,
                 {
@@ -2158,7 +2225,7 @@
             },
             {
               "code": 505,
-              "indent": 1,
+              "indent": 2,
               "parameters": [
                 {
                   "code": 45,
@@ -2168,6 +2235,16 @@
                   "indent": null
                 }
               ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
             },
             {
               "code": 123,

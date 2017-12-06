@@ -549,7 +549,7 @@
     "message2": "",
     "mpCost": 51,
     "name": "Disintegrate",
-    "note": "Ultimate - Dimensional\n<Learn Cost: 360 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>",
+    "note": "Ultimate - Dimensional\n<Learn Cost: 360 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Target Action>\naction effect\nEval: if (target._enemyId === 21) $gameVariables.setValue(116, 1);\n</Target Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

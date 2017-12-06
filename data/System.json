@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 16,
+  "editMapId": 20,
   "elements": [
     "",
     "Physical",
@@ -485,15 +485,15 @@
   },
   "testBattlers": [
     {
-      "actorId": 2,
+      "actorId": 3,
       "equips": [
         1,
         6,
         5,
-        0,
+        8,
         0
       ],
-      "level": 5
+      "level": 9
     },
     {
       "actorId": 0,
@@ -529,7 +529,7 @@
       "level": 1
     }
   ],
-  "testTroopId": 26,
+  "testTroopId": 11,
   "title1Name": "TitleScreen",
   "title2Name": "",
   "titleBgm": {
@@ -655,13 +655,13 @@
     "LookOverBalcony",
     "InitTrainOutside",
     "DimensionalRiftConvo",
-    "",
+    "ViktorDisintegrated",
     "",
     "",
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 63121433,
+  "versionId": 11511581,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,

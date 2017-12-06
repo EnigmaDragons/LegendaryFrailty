@@ -1206,7 +1206,48 @@
         "indent": 0,
         "parameters": [
           "DimensionalRift",
-          "Blank"
+          ""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "DimensionGate",
+          1,
+          0,
+          640,
+          360,
+          64,
+          64,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 117,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          1,
+          0,
+          1,
+          0,
+          640,
+          360,
+          320,
+          320,
+          0,
+          0,
+          590,
+          true
         ]
       },
       {

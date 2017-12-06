@@ -11369,6 +11369,24 @@
           },
           "list": [
             {
+              "code": 211,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                105,
+                105,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "code": 117,
               "indent": 0,
               "parameters": [
@@ -11376,9 +11394,11 @@
               ]
             },
             {
-              "code": 222,
+              "code": 117,
               "indent": 0,
-              "parameters": []
+              "parameters": [
+                60
+              ]
             },
             {
               "code": 132,
@@ -11402,6 +11422,13 @@
                   "pitch": 100,
                   "pan": 0
                 }
+              ]
+            },
+            {
+              "code": 135,
+              "indent": 0,
+              "parameters": [
+                1
               ]
             },
             {

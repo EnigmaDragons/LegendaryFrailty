@@ -24,14 +24,14 @@
     "name": "Intro",
     "order": 26,
     "parentId": 0,
-    "scrollX": 819,
-    "scrollY": 461
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 4,
     "expanded": false,
     "name": "Epilogue",
-    "order": 27,
+    "order": 28,
     "parentId": 0,
     "scrollX": 832,
     "scrollY": 640
@@ -42,8 +42,8 @@
     "name": "SecondFloorEntrance",
     "order": 14,
     "parentId": 0,
-    "scrollX": 819,
-    "scrollY": 461
+    "scrollX": 1638,
+    "scrollY": 922
   },
   {
     "id": 6,
@@ -78,8 +78,8 @@
     "name": "FirstFloor",
     "order": 5,
     "parentId": 0,
-    "scrollX": 1621,
-    "scrollY": 2468
+    "scrollX": 1622,
+    "scrollY": 2166
   },
   {
     "id": 10,
@@ -141,8 +141,8 @@
     "name": "SubBossRoom",
     "order": 12,
     "parentId": 9,
-    "scrollX": 1216.5,
-    "scrollY": 872.25
+    "scrollX": 1622,
+    "scrollY": 922
   },
   {
     "id": 17,
@@ -153,7 +153,15 @@
     "scrollX": 811,
     "scrollY": 522
   },
-  null,
+  {
+    "id": 18,
+    "expanded": false,
+    "name": "Interim",
+    "order": 27,
+    "parentId": 0,
+    "scrollX": 1638,
+    "scrollY": 922
+  },
   {
     "id": 19,
     "expanded": false,
@@ -178,17 +186,17 @@
     "name": "WaterPalace",
     "order": 2,
     "parentId": 22,
-    "scrollX": 1081.3333333333333,
-    "scrollY": 1305.3333333333333
+    "scrollX": 1622,
+    "scrollY": 998
   },
   {
     "id": 22,
-    "expanded": false,
+    "expanded": true,
     "name": "WaterTemple",
     "order": 1,
     "parentId": 0,
-    "scrollX": 811,
-    "scrollY": 1065
+    "scrollX": 1622,
+    "scrollY": 1238
   },
   {
     "id": 23,
@@ -248,7 +256,7 @@
     "id": 29,
     "expanded": true,
     "name": "Credits",
-    "order": 28,
+    "order": 29,
     "parentId": 0,
     "scrollX": 819,
     "scrollY": 461

@@ -6450,96 +6450,6 @@
         ]
       },
       {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "<WordWrap>Many years passed."
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "<WordWrap>Though invaders came for the magic waters of Juturna, none prevailed over its legendary guardian."
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "Anselm expanded the temple and made it glorious."
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "<WordWrap>Attacks become more infrequent, and peace lasted for a season."
-        ]
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": [
-          "",
-          0,
-          0,
-          2
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": [
-          "<WordWrap>During this time of peace, Anselm took up a number of hobbies. "
-        ]
-      },
-      {
         "code": 122,
         "indent": 0,
         "parameters": [
@@ -6555,9 +6465,9 @@
         "indent": 0,
         "parameters": [
           0,
-          21,
-          22,
-          30,
+          18,
+          15,
+          11,
           0,
           0
         ]
@@ -6943,7 +6853,7 @@
           100,
           0,
           0,
-          160,
+          130,
           true
         ]
       },
@@ -6997,7 +6907,7 @@
           100,
           255,
           0,
-          160,
+          130,
           true
         ]
       },
@@ -7119,7 +7029,7 @@
         "parameters": []
       }
     ],
-    "name": "VikterCommentsOnDimensionalRift",
+    "name": "ViktorCommentsOnDimensionalRift",
     "switchId": 1,
     "trigger": 0
   },

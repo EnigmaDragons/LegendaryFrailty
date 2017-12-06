@@ -6898,6 +6898,163 @@
     "id": 60,
     "list": [
       {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          15,
+          "Black",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 222,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          0,
+          0,
+          160,
+          true
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          15
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "SlowFadeIn",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 61,
+    "list": [
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          15,
+          "Black",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 232,
+        "indent": 0,
+        "parameters": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0,
+          160,
+          true
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          15
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "SlowFadeOut",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 62,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 63,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 64,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 65,
+    "list": [
+      {
         "code": 0,
         "indent": 0,
         "parameters": []

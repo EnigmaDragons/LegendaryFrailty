@@ -2779,6 +2779,17 @@
         ]
       },
       {
+        "code": 122,
+        "indent": 1,
+        "parameters": [
+          102,
+          102,
+          0,
+          0,
+          1
+        ]
+      },
+      {
         "code": 0,
         "indent": 1,
         "parameters": []
@@ -7016,12 +7027,99 @@
     "id": 62,
     "list": [
       {
+        "code": 111,
+        "indent": 0,
+        "parameters": [
+          1,
+          102,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [
+          1,
+          115,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 2,
+        "parameters": [
+          "Actor_FW02_03",
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "This place \\..\\..\\.. so much power!"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 2,
+        "parameters": [
+          "Actor_FW02_03",
+          5,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "Imagine all the things you could invent in a place like this."
+        ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [
+          115,
+          115,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "VikterCommentsOnDimensionalRift",
     "switchId": 1,
     "trigger": 0
   },

@@ -519,7 +519,7 @@
     "message2": "",
     "mpCost": 45,
     "name": "Dimensional Rift",
-    "note": "Level 7 - Dimensional\n<Learn Cost: 300 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Whole Action>\nhide battle hud\nperform start\nwait: 12\ncast animation\nwait: 20\nanimation 124: user\nfade out: 120\nmove all members: POINT, 600, -1000, 30\nbgm: DimensionalRift, 100, 100, 0\nwait: 120\nmove all members: HOME, 1\nface all members: FORWARD\ncommon event: 11\nperform action\nwait: 180\nfade in: 300\nwait: 306\nshow battle hud\nadd state 27: user, show\nwait for new line\nfinish action\n</Whole Action>",
+    "note": "Level 7 - Dimensional\n<Learn Cost: 300 JP>\n<Rarity: 1>\n<Learn Require Switch: 30>\n\n<Whole Action>\nhide battle hud\nperform start\nwait: 12\ncast animation\nwait: 20\nanimation 124: user\nfade out: 120\nmove all members: POINT, 600, -1000, 30\nbgm: DimensionalRift, 100, 100, 0\nwait: 120\nmove all members: HOME, 1\nface all members: FORWARD\ncommon event: 11\nperform action\nwait: 180\nfade in: 300\nwait: 306\nshow battle hud\nadd state 27: user, show\nwait for new line\ncommon event: 62\nfinish action\n</Whole Action>",
     "occasion": 1,
     "repeats": 1,
     "requiredWtypeId1": 0,

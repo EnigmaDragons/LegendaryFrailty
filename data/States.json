@@ -844,7 +844,7 @@
     "minTurns": 1,
     "motion": 0,
     "name": "Growing Confidence",
-    "note": "No Status Icon\n\n<Custom Conclude Effect>\n  if (target.hp < 1) {\n    var percentAmt  = Math.ceil(user.mhp * 6/100);\n    var minHeal = 6;\n    var adjustedAmt = Math.max(percentAmt, minHeal);    \n    \n    var missingHp = user.mhp - user.hp;\n    var amt = Math.min(adjustedAmt, missingHp);\n    \n    user.gainHp(adjustedAmt, true);\n    user.startDamagePopup();\n    user.clearResult();\n  }\n</Custom Conclude Effect>",
+    "note": "No Status Icon\n\n<Custom Turn Start Effect>\n  $gameTroop.beforeActionLivingCount = $gameTroop.aliveMembers().length;\n</Custom Turn Start Effect>\n\n<Custom Turn End Effect>\n  var killCount = $gameTroop.beforeActionLivingCount - $gameTroop.aliveMembers().length;\n  if (killCount !== 0) {\n    var percentAmt  = Math.ceil(user.mhp * 6/100);\n    var minHeal = 6;\n    var adjustedAmt = Math.max(percentAmt, minHeal);  \n    user.gainHp(adjustedAmt * killCount, true);\n    user.startDamagePopup();\n    user.clearResult();\n  }  \n</Custom Turn End Effect>",
     "overlay": 0,
     "priority": 50,
     "removeAtBattleEnd": true,

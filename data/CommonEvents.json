@@ -6339,7 +6339,7 @@
         "parameters": []
       }
     ],
-    "name": "ToggleControlsOverlay",
+    "name": "",
     "switchId": 1,
     "trigger": 0
   },
@@ -7078,12 +7078,167 @@
     "id": 63,
     "list": [
       {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Which type of controls do you use?"
+        ]
+      },
+      {
+        "code": 102,
+        "indent": 0,
+        "parameters": [
+          [
+            "Keyboard",
+            "Mouse",
+            "Touchscreen"
+          ],
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          0,
+          "Keyboard"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Move - \\C[1]Arrows          \\C[0]Dash - \\C[1]Shift"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Interact \\\\ Confirm - \\C[1]Z"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Open Menu \\\\ Cancel \\\\ Close Menu - \\C[1]X"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          1,
+          "Mouse"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Move \\\\ Confirm \\\\ Select \\\\ Interact - \\C[1]Left-Click"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Open Menu \\\\ Close Menu \\\\ Cancel - \\C[1]Right-Click"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          2,
+          "Touchscreen"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Move \\\\ Confirm \\\\ Select \\\\ Interact - \\C[1]Touch"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\C[0]Open Menu \\\\ Close Menu \\\\ Cancel - \\C[1]Two Finger Touch"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 404,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "ShowControls",
     "switchId": 1,
     "trigger": 0
   },

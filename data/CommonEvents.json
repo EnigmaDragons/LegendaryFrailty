@@ -7091,6 +7091,23 @@
         "code": 401,
         "indent": 0,
         "parameters": [
+          "<WordWrap>This game Auto Saves to Save Slot 1. "
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
           "Which type of controls do you use?"
         ]
       },
@@ -7101,7 +7118,8 @@
           [
             "Keyboard",
             "Mouse",
-            "Touchscreen"
+            "Touchscreen",
+            "Skip Tutorial"
           ],
           1,
           0,
@@ -7220,6 +7238,19 @@
         "indent": 1,
         "parameters": [
           "\\C[0]Open Menu \\\\ Close Menu \\\\ Cancel - \\C[1]Two Finger Touch"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [
+          3,
+          "Skip Tutorial"
         ]
       },
       {

@@ -8435,14 +8435,6 @@
               ]
             },
             {
-              "code": 123,
-              "indent": 0,
-              "parameters": [
-                "A",
-                0
-              ]
-            },
-            {
               "code": 135,
               "indent": 0,
               "parameters": [
@@ -8450,20 +8442,11 @@
               ]
             },
             {
-              "code": 101,
+              "code": 123,
               "indent": 0,
               "parameters": [
-                "",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "<WordWrap>This game Auto Saves to save slot 1. Do not save to save slot 1 as it will be overwritten."
+                "A",
+                0
               ]
             },
             {
@@ -8864,6 +8847,13 @@
               "indent": 0,
               "parameters": [
                 60
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                63
               ]
             },
             {

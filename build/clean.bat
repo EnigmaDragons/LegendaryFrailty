@@ -11,6 +11,7 @@ rmdir img/enemies /s /q
 rmdir img/parallaxes /s /q
 rmdir img/portraits /s /q
 rm .gitignore
+rm README.md
 mkdir save
 cd..
 cd..

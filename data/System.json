@@ -104,7 +104,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 20,
+  "editMapId": 14,
   "elements": [
     "",
     "Physical",
@@ -656,12 +656,12 @@
     "InitTrainOutside",
     "DimensionalRiftConvo",
     "ViktorDisintegrated",
-    "",
+    "PostTrainEntranceConvo",
     "",
     "JPAvailable",
     "SpikeReset"
   ],
-  "versionId": 11511581,
+  "versionId": 60304574,
   "victoryMe": {
     "name": "VictoryJingle",
     "pan": 0,
